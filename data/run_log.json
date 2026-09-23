@@ -1,0 +1,208 @@
+{
+ "generated_at": "2026-09-23",
+ "shops": [
+  {
+   "shop": "matraws",
+   "name": "Matraws",
+   "status": "ok",
+   "count": 2055,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "musenogslottet",
+   "name": "Musen og Slottet",
+   "status": "ok",
+   "count": 2929,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "pocketmonster",
+   "name": "Pocket Monster",
+   "status": "failed",
+   "count": 0,
+   "error": "HTTPSConnectionPool(host='pocketmonster.dk', port=443): Read timed out. (read timeout=30)"
+  },
+  {
+   "shop": "kelz0r",
+   "name": "Kelz0r",
+   "status": "failed",
+   "count": 0,
+   "error": "Kelz0r-adapteren fandt 0 produkter. Selektorerne i pokearb/adapters/kelz0r.py matcher ikke sidens HTML laengere. Koer 'python -m pokearb.cli probe-kelz0r' og ret dem."
+  },
+  {
+   "shop": "godofcards",
+   "name": "God of Cards",
+   "status": "ok",
+   "count": 2265,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "tcgviert",
+   "name": "TCGViert",
+   "status": "ok",
+   "count": 1034,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "bulkparadise",
+   "name": "Bulk Paradise TCG",
+   "status": "ok",
+   "count": 178,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "tcgshoppers",
+   "name": "TCGshoppers",
+   "status": "ok",
+   "count": 267,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "tcgreus",
+   "name": "TcgReus",
+   "status": "ok",
+   "count": 1115,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "tcgcompany",
+   "name": "TCG Company",
+   "status": "failed",
+   "count": 0,
+   "error": "403 Client Error: Forbidden for url: https://tcgcompany.nl/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc"
+  },
+  {
+   "shop": "thetcgplug",
+   "name": "The TCG Plug",
+   "status": "ok",
+   "count": 71,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "poketalk",
+   "name": "PokeTalk",
+   "status": "ok",
+   "count": 1073,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "energyvault",
+   "name": "Energy Vault",
+   "status": "ok",
+   "count": 112,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "mtgwebshop",
+   "name": "MtgwebshopDK",
+   "status": "ok",
+   "count": 1616,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "rogerz",
+   "name": "Rogerz",
+   "status": "ok",
+   "count": 6873,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "sealedcardzz",
+   "name": "SealedCardzz",
+   "status": "ok",
+   "count": 121,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "yonko",
+   "name": "Yonko TCG",
+   "status": "ok",
+   "count": 946,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "cardify",
+   "name": "Cardify",
+   "status": "ok",
+   "count": 74,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "lichcards",
+   "name": "Lichcards",
+   "status": "ok",
+   "count": 387,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "bescards",
+   "name": "Bescards",
+   "status": "ok",
+   "count": 3271,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "davidptcg",
+   "name": "DavidPTCG",
+   "status": "ok",
+   "count": 252,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "spelparken",
+   "name": "Spelparken",
+   "status": "ok",
+   "count": 282,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "tigercards",
+   "name": "Tiger Cards",
+   "status": "ok",
+   "count": 251,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "pokemillon",
+   "name": "Pokemillon",
+   "status": "ok",
+   "count": 4204,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "baruzcard",
+   "name": "BaruZcard",
+   "status": "ok",
+   "count": 2302,
+   "captured_at": "2026-09-23"
+  }
+ ],
+ "stats": {
+  "accepted": 2193,
+  "rejected": 29485,
+  "unmatched_set": 703,
+  "no_rate": 0,
+  "rejection_breakdown": {
+   "ikke en af de fem produkttyper": 10375,
+   "andet kortspil": 4926,
+   "enkeltkort (kortnummer i titlen)": 2686,
+   "gradet kort (psa 10)": 1921,
+   "gradet kort (psa)": 1840,
+   "tilbehoer (sleeves)": 810,
+   "gradet kort (cgc)": 783,
+   "ikke identificeret som Pokemon": 724,
+   "anden produkttype (blister)": 491,
+   "tilbehoer (funko)": 489,
+   "tilbehoer (binder)": 478,
+   "anden produkttype (tin)": 349,
+   "anden produkttype (checklane)": 226,
+   "tilbehoer (deck box)": 208,
+   "tilbehoer (playmat)": 187,
+   "anden produkttype (mini tin)": 185,
+   "tilbehoer (portfolio)": 184,
+   "kasse med flere bokse (case)": 172,
+   "tilbehoer (album)": 170,
+   "tilbehoer (poster)": 149
+  }
+ }
+}

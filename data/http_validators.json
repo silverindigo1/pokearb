@@ -1,0 +1,1058 @@
+{
+ "https://api.tcgdex.net/v2/de/sets": {
+  "If-None-Match": "W/\"55a5-G13Cr+6Q0XVOnyhWWlBvyJ+AtDk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets": {
+  "If-None-Match": "W/\"8b59-FmedVib2yUiaVn+PINM5rcPvoko\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2011bw": {
+  "If-None-Match": "W/\"379-GSCVgTNl/dGW5tHPSKV3KAzepQU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2012bw": {
+  "If-None-Match": "W/\"37a-sQj3Qna8KZqZOhQhTX0UlBE6CSk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2014xy": {
+  "If-None-Match": "W/\"384-ipaPU5JKPhXPJ89ixRowbnclvlU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2015xy": {
+  "If-None-Match": "W/\"380-8v6aC3DxNIMJv3tm1wQSLcNpZt0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2016xy": {
+  "If-None-Match": "W/\"382-1ZyToCO1cxnPu0TE/43kOTwMKrI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2017sm": {
+  "If-None-Match": "W/\"38f-DUhZsny9jamk5Df2ev/RqMsEVCM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2018sm": {
+  "If-None-Match": "W/\"381-OAFgoA8DmcUwUi4hp+wkXAxYV/Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2019sm": {
+  "If-None-Match": "W/\"398-HyMHPXzA2KJI0oFs5RDJw8ZKU2Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2021swsh": {
+  "If-None-Match": "W/\"691-lJJMMkRANl3V6qIwGb13XmJwhyA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2022swsh": {
+  "If-None-Match": "W/\"43c-BfX5T50SDQywaFDE6rf/d1QGHlE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2023sv": {
+  "If-None-Match": "W/\"421-F7Lnmh2LeDkl9dxWAjJZF5uqHzc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/2024sv": {
+  "If-None-Match": "W/\"42a-lSXJuLoaflTSdq/to1F7yQbU2+0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/30th": {
+  "If-None-Match": "W/\"40ab-WsTtGpOj8DSR7a6nDq2OHUKNRH8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/30th-c": {
+  "If-None-Match": "W/\"7bf-UryKpe0eT+XXwD9SkrocPEEjNiA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A1": {
+  "If-None-Match": "W/\"728d-VjMUMF0IVlV8dEFvXmAEd0eSx+Y\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A1a": {
+  "If-None-Match": "W/\"240a-RSlPC8Q6nFNGmjSkWT5Lf1Jcpr4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A2": {
+  "If-None-Match": "W/\"5365-C0TKvR5cXRdAiESjnwUegXoWyKs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A2a": {
+  "If-None-Match": "W/\"284d-lNUatCukS0dPLp1ODuW7tnT6aGw\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A2b": {
+  "If-None-Match": "W/\"2ec4-LLcMEN3Ok5LaI4C1HYZHmNksqwI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A3": {
+  "If-None-Match": "W/\"60c1-FjAkWzz+EYAJE0pSQJkC982HYlg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A3a": {
+  "If-None-Match": "W/\"2b19-Ey17B/7sRc5Sn+D1wguIaC14Xg4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A3b": {
+  "If-None-Match": "W/\"2c23-xpW0ceH8oFh1cJR54yEb2Zpeo5g\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A4": {
+  "If-None-Match": "W/\"6066-ghQhTezo8wmS0YgvVYTtdMinpfo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/A4a": {
+  "If-None-Match": "W/\"2c28-IExOIrgnCyagbvbG948oZp9xMfk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/B1": {
+  "If-None-Match": "W/\"853d-QB2eF1jAvIkIM4GuJeCqLOMRCqQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/B1a": {
+  "If-None-Match": "W/\"2ace-LuJ34tOjnekMuNT2UlEuniTmSxE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/B2": {
+  "If-None-Match": "W/\"5f88-C3xLrv6O743hM6JgYf+MOAEEogU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/B2a": {
+  "If-None-Match": "W/\"1b84-/2AN6AK6q5Emt8yPPIhR5/MbdIg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/P-A": {
+  "If-None-Match": "W/\"25ab-/JABxCfYa62JNTA2h5gB99Q9ZcE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/base1": {
+  "If-None-Match": "W/\"2b1d-xf8zS8EyjnVR4S6NEqEUFXQvVgk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/base2": {
+  "If-None-Match": "W/\"1b65-+yMP5GgevP13aXt9N8PpyO4Y2m4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/base3": {
+  "If-None-Match": "W/\"1a6d-rm7BuZXNdxY5ftCT/ftzn8YEyoI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/base4": {
+  "If-None-Match": "W/\"36fc-xn2Ec1/aMczQGhHJN4Q7XU/AydY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/base5": {
+  "If-None-Match": "W/\"244d-Dc0568aLWbDcPSq9iEr7Gpwic84\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/basep": {
+  "If-None-Match": "W/\"1707-LqevD8lVHX8s2vKTLHEMlTOxqPI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bog": {
+  "If-None-Match": "W/\"30a-H/5Js9pJUMvrLSM5X79LhiwAVm0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw1": {
+  "If-None-Match": "W/\"2dc9-ZGjMcB1GpWWwAxNqvvU8a6bdvfo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw10": {
+  "If-None-Match": "W/\"2ac2-QMYA59dVhBcNwaAZmjxKz19DqUI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw11": {
+  "If-None-Match": "W/\"38d4-PeD459wO9PTjlKIgq2WegGPxRCo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw2": {
+  "If-None-Match": "W/\"26f9-+5ij36KJnip5IwR+FQTLm8WfB4o\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw3": {
+  "If-None-Match": "W/\"287a-IhL90v/3VmqAm58yMp68Ad1eMNI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw4": {
+  "If-None-Match": "W/\"28f6-TgPbV3ajFF74z/cojdDDJwu5HGU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw5": {
+  "If-None-Match": "W/\"2c35-l4YxelVlE8peWtH/MpbKaNt/WuY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw6": {
+  "If-None-Match": "W/\"32f0-2+IGUm7Mb/bHwRxMys3L5ub3XI8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw7": {
+  "If-None-Match": "W/\"3ccb-h+10mjxGjpTm6zbnTuNseA0Rja8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw8": {
+  "If-None-Match": "W/\"36d6-iQ/SF5MeRFJOkgWPWX2yqSsO1x8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bw9": {
+  "If-None-Match": "W/\"308f-FMKQscK9bWwm+xQeFYCiqk9PnE0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/bwp": {
+  "If-None-Match": "W/\"2a0b-ZF+idBaJZlUWp134kdbcciV10jc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/cel25": {
+  "If-None-Match": "W/\"bb6-N6iSbRRnDebzJnMUhhVeQDxgb7s\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/cel25cc": {
+  "If-None-Match": "W/\"76a-mgA7Jb82oS4LbV/OBjHaVXRXJjQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/col1": {
+  "If-None-Match": "W/\"2bce-mL0sZpMCZumaPikDIbfcxS55tac\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dc1": {
+  "If-None-Match": "W/\"fe5-PjHZX2qkUESg5QU/84N8986WQjM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/det1": {
+  "If-None-Match": "W/\"888-fHUwY+JqACeaPiSNBvwwj+YxGH4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp1": {
+  "If-None-Match": "W/\"33bf-iX50GOrkCnPseN+9SFxDW56HVx0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp2": {
+  "If-None-Match": "W/\"3154-fNcYcj8pXreVQdb3f6YetuGg08w\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp3": {
+  "If-None-Match": "W/\"34b1-6VtuQOLM+aFhRCbeajerew/UoJM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp4": {
+  "If-None-Match": "W/\"29fd-+kMTm2u8IJwmC7E+SzCuZq2BFn0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp5": {
+  "If-None-Match": "W/\"27e0-nrXO61RUWFKDYqPhJiAMXsUfYDc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp6": {
+  "If-None-Match": "W/\"3a2d-Dy8D/eK1hEadVFgGm4oIMKT9oVY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dp7": {
+  "If-None-Match": "W/\"2a31-RLrKriL25kZ91wVFnvBvvHte18k\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dpp": {
+  "If-None-Match": "W/\"1846-eSxanpReGF7nhIIOmHS6LfpExWU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/dv1": {
+  "If-None-Match": "W/\"972-f5OzImRWncBFFQgZhTJ2idU6fC8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ecard1": {
+  "If-None-Match": "W/\"47ad-Mhrqc9PYKu0xgE1e5N/dByi+Ncw\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ecard2": {
+  "If-None-Match": "W/\"47da-sRqymjHNlR+j0acBBzT0Mp+Yio0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ecard3": {
+  "If-None-Match": "W/\"47af-zboWim3cJ+JW07UxqdObNxFJxXE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex1": {
+  "If-None-Match": "W/\"2b84-aKY7DmZxNwCQ1DSn8iCRinf799E\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex10": {
+  "If-None-Match": "W/\"2fce-U+p0hYXDcXx3McCADWxmHgvg4HU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex11": {
+  "If-None-Match": "W/\"2ed7-8OWIs7dnSINATcE3A06meWO17Do\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex12": {
+  "If-None-Match": "W/\"25c1-lTEwB0smN3mBHA7UqWx7VNCVolY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex13": {
+  "If-None-Match": "W/\"2dd3-pFNIdM9pshfmqgHWfLNrNBixR5E\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex14": {
+  "If-None-Match": "W/\"28f7-+qf/ubWJtYoTzo9yQb3WD6Qhbtk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex15": {
+  "If-None-Match": "W/\"2a28-VEMrAQ8lON7VMQM3PKbEw+mlWFE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex16": {
+  "If-None-Match": "W/\"2c2f-56+CVSN5WUTdOL33s8ZGtzV/e1Y\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex2": {
+  "If-None-Match": "W/\"279a-d/QqPS91T6kIRdXI0pNxgc0OFPA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex3": {
+  "If-None-Match": "W/\"27bf-EarLs9+KoPDk3nmXLcouaUiRk6g\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex4": {
+  "If-None-Match": "W/\"29fb-HBaXqZbH48pcd1SUev3gqL2N534\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex5": {
+  "If-None-Match": "W/\"28cf-DWnvlUCnjficgHDm5lLwRyVz3LA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex5.5": {
+  "If-None-Match": "W/\"1e0-tePG6eYxeTA9cQRNOv1BnpYjl1o\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex6": {
+  "If-None-Match": "W/\"2e5f-HvuhiaCB/vNW6xKKKbYkM7jzEZ0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex7": {
+  "If-None-Match": "W/\"2d6c-yHQ19PsQSxx5gbt+V36HS5FBHj0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex8": {
+  "If-None-Match": "W/\"2af8-CB2rHR3QDFfN/DotZ/Vsy1z70EM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ex9": {
+  "If-None-Match": "W/\"2ac1-D9TPZRnvgTlJThck6Bq1ppSP734\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/exu": {
+  "If-None-Match": "W/\"5cd-uwF1Qrrx0Uy7BEDf+MqH1KUb9yY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/fut2020": {
+  "If-None-Match": "W/\"3da-2m6qG+q6pEcBk+0rhKL43aJqDGU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/g1": {
+  "If-None-Match": "W/\"2e6c-sDCry9zm0XekFppgrUIZd48WW4U\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/gym1": {
+  "If-None-Match": "W/\"39ad-nfFelzFjhHzG7I5qPYLaRLEaIKk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/gym2": {
+  "If-None-Match": "W/\"39ba-5XMxuYe48yEr5+3sXuYRkQlnfgo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/hgss1": {
+  "If-None-Match": "W/\"34c3-Oio0QVqGuJ+SLtqQ4Ain9P2yJG4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/hgss2": {
+  "If-None-Match": "W/\"28eb-Mf8QR62UqSUgBkbRjzn3ppZwzKA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/hgss3": {
+  "If-None-Match": "W/\"26c2-mZ56PxzhIta47fKIR9pXrSMaVDU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/hgss4": {
+  "If-None-Match": "W/\"2b95-WrGKFaZ+gxkZAIPdL1nPCbs9gH8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/hgssp": {
+  "If-None-Match": "W/\"ad8-jdU5W4Tg7I2MjQKm+SBKzex8CBU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/jumbo": {
+  "If-None-Match": "W/\"f7-UO+HZjhAjQh1Juc9/aZ7C/rO0l0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/lc": {
+  "If-None-Match": "W/\"2af9-sAwTMm1/5llA03HdQMgkxlwA37Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me01": {
+  "If-None-Match": "W/\"4ed3-0MFIVjHJotF8no3qy3qMFcLLFTI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me02": {
+  "If-None-Match": "W/\"3646-+zmgDxi6LSry/i51vdX9NGqq+nI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me02.5": {
+  "If-None-Match": "W/\"81df-1Jkx7J1ZvEkuoU0EvQ3VWp0KpSs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me03": {
+  "If-None-Match": "W/\"3467-VmyT8qDEFaVQnUfUGnSCxkWxZJM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me04": {
+  "If-None-Match": "W/\"337a-kqEdzzk7aXi007uxXog8GqMhTzA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/me05": {
+  "If-None-Match": "W/\"32fb-X/wejKLKCYeEofZ3TqzGKXnm9+8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/mee": {
+  "If-None-Match": "W/\"2dd-DMykf8T08noUo6bZ7kUEIik4XZM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/mep": {
+  "If-None-Match": "W/\"1362-8pumunpG2dJz0typDx80Oj4/5Js\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/mfb": {
+  "If-None-Match": "W/\"795-nJQiU/7Zj32xkI3LpAMIQ1I4Z9o\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/miscp": {
+  "If-None-Match": "W/\"133-PatDlWpSNIS0ZacgsgLlxkadaCQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/neo1": {
+  "If-None-Match": "W/\"2da2-xHRqC7MFNTsyvBzIRJpR7zklesA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/neo2": {
+  "If-None-Match": "W/\"1f09-8O6BRfR3yabcKCAOPsAms3tykNU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/neo3": {
+  "If-None-Match": "W/\"1b7d-RnoFeojMIUl8lFw+GkidvbVw2WY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/neo4": {
+  "If-None-Match": "W/\"2fec-2Ol3WHZWHpsTV9XX7mnXr56eL3k\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/np": {
+  "If-None-Match": "W/\"1098-AOHi9Z6s83fudKZSW0YxchpRTsE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pl1": {
+  "If-None-Match": "W/\"3571-TREnvSu4f/D2EAp1yq+0yTkBhTI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pl2": {
+  "If-None-Match": "W/\"30ee-MM7dhaU57e46bFxqea+Lm2EBmqc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pl3": {
+  "If-None-Match": "W/\"3cfe-BTr6Jt0J8s45IF23m+H11GFhtMw\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pl4": {
+  "If-None-Match": "W/\"2c64-tZxHt2eq4mWtj3jlj8J/pjDv3C8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop1": {
+  "If-None-Match": "W/\"813-aIp5Imq0UARqCaTOktUIpkJvaaI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop2": {
+  "If-None-Match": "W/\"82e-piUlutMutDLOKePMo3xxMICzzTQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop3": {
+  "If-None-Match": "W/\"823-hIr8mo5Rw/Jr7iHJHnaxRSgztl0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop4": {
+  "If-None-Match": "W/\"822-N+QyU3TNREZ8KtcWwoNEie6cGPk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop5": {
+  "If-None-Match": "W/\"848-F6i1QNgVX0JmpGmsTWtfZVx94Oc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop6": {
+  "If-None-Match": "W/\"79e-cWHDkgOmWM2/jG0PSm9vwTvCVqc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop7": {
+  "If-None-Match": "W/\"81e-QqjeGYD/CiXNjEu7a2FApk4EaTI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop8": {
+  "If-None-Match": "W/\"81d-Ntc0EEfstDwcCdG/c1E0RiIpcVo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/pop9": {
+  "If-None-Match": "W/\"7ff-yETNIjGxw7Qy601xYEbhcPZA128\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/rc": {
+  "If-None-Match": "W/\"f6-rgSUXuTZX3Z+1lNn4nCMjMTAvbo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/ru1": {
+  "If-None-Match": "W/\"771-fdd4hMo6A6ZTnsL0F84XnEnNduE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/si1": {
+  "If-None-Match": "W/\"84c-lFFWKoI2BXEdnh+ZLINzY1BjcFY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm1": {
+  "If-None-Match": "W/\"4500-+ci0qZPiL2nLn4udAsmNM8R58Z8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm10": {
+  "If-None-Match": "W/\"60e3-hyZEaHbe8kB53O4CvLEcpoO22Hs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm11": {
+  "If-None-Match": "W/\"6a69-JLF7wDZN6VUQD/hz5jcJ1XOUPFc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm115": {
+  "If-None-Match": "W/\"1de4-Q1HP9O/jZai3eOLF1gQqlvSSbfM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm12": {
+  "If-None-Match": "W/\"7023-CscYhWfvQC78sLS3D4iv4i3LO+U\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm2": {
+  "If-None-Match": "W/\"43ec-l/gD0bsGeZELb88O46HX8wmhG88\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm3": {
+  "If-None-Match": "W/\"43d9-BY0THtqGq6aeggD3ijH0hGm0+U4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm3.5": {
+  "If-None-Match": "W/\"10e2-kR7XJmJBzAO44VucdyCW9yQ1REw\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm4": {
+  "If-None-Match": "W/\"3248-nTxJWR+1n6JYrYmb6ownlcvyIfs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm5": {
+  "If-None-Match": "W/\"45c9-lxXuNrjXhhkBqKTv5rkYiv4roho\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm6": {
+  "If-None-Match": "W/\"3989-MXVloGdn1yz6J/S+tEMhrCgPodE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm7": {
+  "If-None-Match": "W/\"493c-ifTOhMnvOa2mi6zXvZtXEMAEWxg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm7.5": {
+  "If-None-Match": "W/\"10f7-su3Q7dsB4/JM9I+OupCotgKoozo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm8": {
+  "If-None-Match": "W/\"5e71-Kt9QPoHDOurwxmW5/rHUhGeHCqo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sm9": {
+  "If-None-Match": "W/\"4f75-NKqdoO1UpWninnClh9HjEfIjQ08\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sma": {
+  "If-None-Match": "W/\"27d3-5rflViI45mt73A+ZnYPxbSKilds\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/smp": {
+  "If-None-Match": "W/\"5cd4-UhvurQbHsmILdpMUz6Mw5oRqElE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sp": {
+  "If-None-Match": "W/\"121-H63LGRgW0HptdI1bpPM5BMlIB+Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv01": {
+  "If-None-Match": "W/\"6a1b-iKPtkD8xLSPOzbiMvNNzQ8v4tZI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv02": {
+  "If-None-Match": "W/\"732b-FSzSzfzY7x6lyNEP84dnvqBvQa0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv03": {
+  "If-None-Match": "W/\"5e76-qypxCzG+LsP0G0wPI29HIu3XwMY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv03.5": {
+  "If-None-Match": "W/\"588f-7YYLpx9sy5Uf4gYf6JVdi2JckrU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv04": {
+  "If-None-Match": "W/\"6e12-eSQkU45z1oVp2DtiCorcqOJz3bw\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv04.5": {
+  "If-None-Match": "W/\"6872-ly3MjYtNLjKmUgxBYwQpsvi01ko\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv05": {
+  "If-None-Match": "W/\"5a98-eusEE9JlIpVaRNq+5AJXtlQ6Q3w\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv06": {
+  "If-None-Match": "W/\"5e3a-Y5/N3iZar+ZYfHiCA9kt/9rqv6E\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv06.5": {
+  "If-None-Match": "W/\"2b9c-f9GeET8XDsdVaY//NDfIpCkQQ50\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv07": {
+  "If-None-Match": "W/\"4825-ME/2uxTNwZao9Gjn/pLY+Cj7aWo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv08": {
+  "If-None-Match": "W/\"683e-a9bOHncI4Kq6TgLBDDDnWVpQjbs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv08.5": {
+  "If-None-Match": "W/\"4ee8-9TUEPPYC49XSo2hl4BslbFIc+iE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv09": {
+  "If-None-Match": "W/\"5008-FHgYW/wwpZzJ3fmBYZd5OTtXuKc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv10": {
+  "If-None-Match": "W/\"6aca-D1WQbHyG7y5vY4Cr8hFbCysAtPc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv10.5b": {
+  "If-None-Match": "W/\"4aed-JP58oe8a5fezSJY1bzMdRzc1M8I\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sv10.5w": {
+  "If-None-Match": "W/\"4b60-NrvMfMaNLPXjIQ1c0LB/xQHmMGQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/sve": {
+  "If-None-Match": "W/\"66b-RMQYhPmwNURT1f2+SJP/rUTwWyo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/svp": {
+  "If-None-Match": "W/\"55ae-EXSQV/gCcZo4KYKu8SIePAu5Ix4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh1": {
+  "If-None-Match": "W/\"5bf8-M/HW5upyYJm17bcz3YSh+9hUkAI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh10": {
+  "If-None-Match": "W/\"607e-xYgMQ88t/Wg+J5GnLbvGxwbjx94\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh10.5": {
+  "If-None-Match": "W/\"28ee-GtV9USbyPbX+ZAsBR9Ke/kNipek\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh10tg": {
+  "If-None-Match": "W/\"884-GcMkwiLUbVg4LijtlbVhB20Yr5E\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh11": {
+  "If-None-Match": "W/\"5f41-3660yVFjSVEA0upsHk9jfnTvKR0\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh11tg": {
+  "If-None-Match": "W/\"83f-M/pUAH+NDkl39T7zXq2yi+aRFNo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh12": {
+  "If-None-Match": "W/\"5e13-HJFpZUz42knvRWtpRjcK40ijyls\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh12.5": {
+  "If-None-Match": "W/\"48f7-UEt0sIzdnlbieS1aMvcKretaMhQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh12.5gg": {
+  "If-None-Match": "W/\"1239-4MycNgp+Bx290OfB/4c6dG6nEDk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh12tg": {
+  "If-None-Match": "W/\"850-gYicAvtGJEpLfxzQz0zVSf706kg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh2": {
+  "If-None-Match": "W/\"591f-jMIeVaiF+lhptekykXthtVOwoUk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh3": {
+  "If-None-Match": "W/\"55a2-SVM3q8+wD/wMqXW+1Q2SOls1PBQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh3.5": {
+  "If-None-Match": "W/\"23d8-ZMZBLQOwxO4YHqk3xoQf+4+oZcs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh4": {
+  "If-None-Match": "W/\"561c-5Y1Jpc4P9tegpTNJBS6WWcYc684\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh4.5": {
+  "If-None-Match": "W/\"209f-eZx64rHiFsJr/kjkos0d6HvOyy4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh4.5sv": {
+  "If-None-Match": "W/\"1f3c-9OFIcv26Gc31l5CZn+ltnbhpGXg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh5": {
+  "If-None-Match": "W/\"4efd-VNv8sZZ2dIyABo8mFwRgNshOMzo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh6": {
+  "If-None-Match": "W/\"6465-4B6utquPMbo4A6aZavoiJywFeEo\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh7": {
+  "If-None-Match": "W/\"6525-UIP/1Zklvns/AM6+jpVubEBGblA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh8": {
+  "If-None-Match": "W/\"7812-iRgkDDCYdctXfSG+8tVFDjGKeLg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh9": {
+  "If-None-Match": "W/\"5065-gEkKrkVX8aO+S4YwGjqqtvepqb4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swsh9tg": {
+  "If-None-Match": "W/\"88f-BAf9uBfCNMe2iuKasNar5CB3PyQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/swshp": {
+  "If-None-Match": "W/\"8e5d-Xpm8cWMp/TgnIpj4rAGO4aajPOk\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-bw-e": {
+  "If-None-Match": "W/\"7ab-RsSIKFl0j5u0Yn/TdxLnwTgjpB4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-bw-z": {
+  "If-None-Match": "W/\"7a8-TMzhMPW/2KfwwgLW4gdRwMCKdnY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-dp-l": {
+  "If-None-Match": "W/\"397-4v7wLy2SVgpR57a2uTnEai36bJE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-dp-m": {
+  "If-None-Match": "W/\"3cb-xo/HcH91SsOqJzADovJMYDJsDiI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-ex-latia": {
+  "If-None-Match": "W/\"38a-XUdigPldb5sxuC0m7TYLjwI5clU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-ex-latio": {
+  "If-None-Match": "W/\"398-A+wm+OQMiIk5Up/UhAs/AotgN+Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-ex-m": {
+  "If-None-Match": "W/\"3a1-PSKAhAvtbKf5nFvFEnUR42Q49bc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-ex-p": {
+  "If-None-Match": "W/\"3e5-U3w4FrCyta7Zd6ky+X65o9UHDjg\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-hs-g": {
+  "If-None-Match": "W/\"7e1-ef9aBWJQ42nahTeF2uI5uo8Ik0Q\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-hs-r": {
+  "If-None-Match": "W/\"7f1-be/5WL7xiQcuWT2/Vz6ZmubBhoA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-sm-l": {
+  "If-None-Match": "W/\"51f-irpiU0wgU/cg8AbdQuasRJqvV6A\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-sm-r": {
+  "If-None-Match": "W/\"7e2-NMPdfxMWgLD3kdynIds9JnVAe5M\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-b": {
+  "If-None-Match": "W/\"79f-8NSWcflso3yFa2TMLEp8x4GwLCM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-latia": {
+  "If-None-Match": "W/\"829-0xW3KGVaMfWX+O9gkZInB/EWmpM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-latio": {
+  "If-None-Match": "W/\"83c-thZlJLo/ev7RtCgZ5PKsZJUzC3M\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-n": {
+  "If-None-Match": "W/\"7d3-VPYpmpEChPXRBvkQFYmrgDnlfD4\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-p": {
+  "If-None-Match": "W/\"7e6-TzQYrfhJqdKGBex+cG6oDFxoMpY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-su": {
+  "If-None-Match": "W/\"7ba-2N81AEGndW3riXxxJwvNgfYbQKE\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-sy": {
+  "If-None-Match": "W/\"7dd-yn1qx2Egah/w8Ss+PTf33/jnYcc\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/tk-xy-w": {
+  "If-None-Match": "W/\"7ad-8YlIxkcXUlZeAW7uxMigJNyeiO8\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/wp": {
+  "If-None-Match": "W/\"e9-Rwf+xnpfqoQsiQx7FnbrX1jlhaY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy0": {
+  "If-None-Match": "W/\"1058-odBAlQH0b2e0ma0QtZ3zCq5MAqI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy1": {
+  "If-None-Match": "W/\"3a41-jD3rCD3ifRuJbsU0MS7lHROxXzM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy10": {
+  "If-None-Match": "W/\"350f-OvpT2p210XN7y7qLOVOVmlrShVs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy11": {
+  "If-None-Match": "W/\"2f8c-0Q21fb6yXqtS8dn0tgbbMdPkJes\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy12": {
+  "If-None-Match": "W/\"2ee3-2H7gizXP0u2xYO2HYKgj0c70edM\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy2": {
+  "If-None-Match": "W/\"2c02-8g0IzZMnmLsdMjuYHLgBRXcLnAI\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy3": {
+  "If-None-Match": "W/\"2dae-Qqn4BRwJt2Z5D2T34V7t0eQxD8Y\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy4": {
+  "If-None-Match": "W/\"321f-8d+Cbi8YWpJIIrZIL4NwxVNOYYU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy5": {
+  "If-None-Match": "W/\"4219-07XVaJmqVnPbeZQc/NqthLaxpYA\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy6": {
+  "If-None-Match": "W/\"2cb7-kHP1pQX+AeT+kGowc8jXuDSMxAY\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy7": {
+  "If-None-Match": "W/\"28a5-VAOA9YLPC6v36gai5WS8iTHm7bU\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy8": {
+  "If-None-Match": "W/\"4196-zbZVAtjPxsJSxlBsZ6fJ3CBhkvs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xy9": {
+  "If-None-Match": "W/\"3295-zC4mz7H5Y1BAHY2dKrxS8uhQgGQ\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xya": {
+  "If-None-Match": "W/\"23d-8EQXZ7b9gRr0PErXowPOuT/ZAHs\""
+ },
+ "https://api.tcgdex.net/v2/en/sets/xyp": {
+  "If-None-Match": "W/\"5b3a-YZ6hRsuXHvHIjuLGwoA1svCDoJw\""
+ },
+ "https://api.tcgdex.net/v2/es/sets": {
+  "If-None-Match": "W/\"5756-nfteM3Q6l9NRVvd8H3eEde3UzsU\""
+ },
+ "https://api.tcgdex.net/v2/fr/sets": {
+  "If-None-Match": "W/\"7d18-FmBG4GV+2ye0EiuV4QXARh8Ny8k\""
+ },
+ "https://api.tcgdex.net/v2/it/sets": {
+  "If-None-Match": "W/\"685f-lJc5YaS1s4c0FsH1mVhsEL6Q7Wg\""
+ },
+ "https://api.tcgdex.net/v2/nl/sets": {
+  "If-None-Match": "W/\"151-w4bslVc9Xg8DdvEcfWp2kfWU3WA\""
+ },
+ "https://api.tcgdex.net/v2/pt/sets": {
+  "If-None-Match": "W/\"4634-hGGb/7NohbWMTOPs7sAWb2QBzVE\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:02e0e5c4d7c4dd23f4603fe7cfccf641\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=10": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:8bb2ecbf159464ebd33ac78c9ad3dd84\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:1ef5c0797487a35b2aa84d21d5d51fe5\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:7a22f163a67ddb1b0877608b0fc4057e\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:2f4608a56f11aaaa895c60e15c78e895\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:f8e760a45c1357c1c235ca07340d7ef0\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:ccde7d259c881c785d7511b5977a34b9\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:849a3371cb5e42553b0f6112bbff235d\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=8": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:584283fa607ba289801bd0a581ead93c\""
+ },
+ "https://baruzcard.it/products.json?limit=250&page=9": {
+  "If-None-Match": "W/\"page_cache:70153601291:ProductListController:8f3fe3aa03c78db45c51b3658b717030\""
+ },
+ "https://bulkparadise-tcg.de/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 12:59:11 GMT"
+ },
+ "https://bulkparadise-tcg.de/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 12:59:11 GMT"
+ },
+ "https://cardifytcg.nl/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:106741432658:ProductListController:81b570c223d3c244a222a18b17efb1ee\""
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.BGN.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Wed, 31 Dec 2025 14:56:55 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.CHF.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.CZK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.DKK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 14:00:04 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.GBP.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 06:00:07 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.HUF.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.NOK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.PLN.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://data-api.ecb.europa.eu/service/data/EXR/D.SEK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
+  "If-Modified-Since": "Tue, 22 Sep 2026 13:56:58 GMT"
+ },
+ "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 11:24:57 GMT"
+ },
+ "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 11:24:57 GMT"
+ },
+ "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=3&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 11:24:57 GMT"
+ },
+ "https://energy-vault.be/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:105370026333:ProductListController:1f686ecbe736e6a7d86374909beebe46\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:77130a82e2d05b24d3923c3717469f56\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:54c4b3637202d77820496655d69c658b\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:865a8370bec2fb18172f05dd4c1abeaa\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:db80c6f6916c5a66e53e0cc442683904\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:b22f44febd127edec9a53cb0166e6ebd\""
+ },
+ "https://godofcards.com/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:58891174037:ProductListController:3d939b98fd8dbcea788ca46ca9350318\""
+ },
+ "https://lichcards.nl/collections/alle-tcg-producten/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:64704119019:ProductListController:dba2bcb8980c96ec77cf3dde42ab1374\""
+ },
+ "https://lichcards.nl/collections/alle-tcg-producten/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:64704119019:ProductListController:542ed1f9da193dde75583752c6938a0c\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:cfbff0a4c7388f23d26087699474a6b7\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:167d9897b5f7ec03501abcb0f9620c2d\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:1009557d4cf84bf165dcc7a04f3a0dcf\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:3fc73412ec9b754d393518ec581c4493\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:f7a118d289fb4b2b0a7c3ed9c1c7558d\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:e6086a172476899672666ab1a44febe9\""
+ },
+ "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:d27f872f819833e972af4028b05f013f\""
+ },
+ "https://matraws.dk/collections/pokemon-collection-boxes/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:56689557654:ProductListController:91fc8ac499fb4377cc73f1b8db200934\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:26d197ec90d8c80c7191f9cea7835bb1\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:fc53be21fcdeb7ffc29abf2be559caf1\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:31317e522e98da0614ec51c723f59a21\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:8c60e38cca72e0cf80e9e7b9a7a0a4f1\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:4ff7ba9c0fadd3a23725114f72d98bdb\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:ce30ccf8f547108ad06379ad6574e405\""
+ },
+ "https://mtgwebshop.dk/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:59630387245:ProductListController:aefab075569ddb84541cccd4dd7d5948\""
+ },
+ "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
+  "If-Modified-Since": "Wed, 23 Sep 2026 12:55:34 GMT"
+ },
+ "https://rogerz.dk/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:ce28b41e2cb7b74224af488842149332\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=10": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:cfaae1e4565d68a8c7a655b0384ac742\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=11": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:0caf992d0b470d4991d43ea75101c6ed\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=12": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:c00ef74ba590d78be675e46ecfc1750c\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=13": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:6c1e8903533c0bec419aba419be783cd\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=14": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:724d98148fe426df446248268ad068e0\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:d8e69b836ecf41a8b59d8c97e22d068b\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:6ea0e7ae70c25e24ec77631cc4b2809a\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:1fb236d903a70e0868ea0273cd8c1a5a\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:e240173a23489b6e92bb1c1da5509007\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:1a70ef9f4a5e0df681e240f9e99743b4\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:e08e51a24918af4df4205cee692f7ada\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=8": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:9cd2d19299a6cd9782c4df9b7108bd29\""
+ },
+ "https://rogerz.dk/products.json?limit=250&page=9": {
+  "If-None-Match": "W/\"page_cache:70860144932:ProductListController:a8a76873f144eb4e6dcf41a6d2e643b8\""
+ },
+ "https://sealedcardzz.com/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:93098705277:ProductListController:7385e32248863e0fc590d1f2abb98459\""
+ },
+ "https://spelparken.se/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:94818763127:ProductListController:8b0b037b0ef90422901247adadbcc1a5\""
+ },
+ "https://spelparken.se/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:94818763127:ProductListController:388882f27e19efd881929c8680f4072e\""
+ },
+ "https://tcgviert.com/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:61150724328:ProductListController:dae51f78ea8be4394bd47e6f1737e21f\""
+ },
+ "https://tcgviert.com/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:61150724328:ProductListController:991e87a2bde485654b9178b4a81fc3db\""
+ },
+ "https://tcgviert.com/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:61150724328:ProductListController:5bcf224e0e81e7e102e6e71145f16973\""
+ },
+ "https://tcgviert.com/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:61150724328:ProductListController:f2d34169b66d35e303543b427a5fe573\""
+ },
+ "https://tcgviert.com/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:61150724328:ProductListController:bad8bd774835f1e2c75a1c3cc6d181db\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:c54e5ccde486b94b7b4b8877db44f215\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=10": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:71a25f1e98e0a6730a98ad2bcff611ef\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=11": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:8d724c1771b3b4e5ace0fed33aace3ae\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=12": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:c63c001fd1adc860e81aa882d8db73f4\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=13": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:9d6c65ac6f1c87e3e1be464b775873f0\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=14": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:a69ea77634c522eb4383f8a6ddcc9139\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:f8ec070c4cb8c4dc08bd6b6cc2f9a252\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:0678875553cde981bd0b5a10cab2fa9d\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:56c5b97ac7c6e6bbd1571f6673c8dafb\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:9f09286f8ef1a7a60fbdaadbcc19ee8c\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:00e2e4c9a5e6646e528d57ca479539b3\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:5cd7de27df2bf71d14017367b0421e3b\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=8": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:5a7d518d5044ae887cfcdc6fd809550f\""
+ },
+ "https://www.bescards.com/products.json?limit=250&page=9": {
+  "If-None-Match": "W/\"page_cache:94786814296:ProductListController:7616f8c167cbf8ceb72b2c4b26ccd9d4\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:14858d4f9a891a602a55ab22e603f7b9\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=10": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:f6c2c413208666aba4dd1ba985c170df\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=11": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:16a6150e0361bb0df7d2fe2a68713168\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=12": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:51f7e317b4b6990784e67ec9178ece53\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:55a557e9c4d43f714263d146110dc9f6\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:a80dde40eec2aa3f25e30b41eed9203d\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:387999cd5f34d72f742a539512d9801d\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:8869cc01545a51c782f7821c0dc0661e\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:306c72e15a3850389edbe9f403bd3011\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:205b1c5344d3a0127ed4b59cf8b5be6f\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=8": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:03a8330df4944bff8c48f0d6949a3614\""
+ },
+ "https://www.musenogslottet.dk/products.json?limit=250&page=9": {
+  "If-None-Match": "W/\"page_cache:57547194564:ProductListController:85c53d85aff1e6e0970c24233685c9d0\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:d9918113d08f913a1ed248cd2e647b37\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=10": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:c05aeb2c20e297b1e3a5c91db3d40765\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:e2e482dff20b26eec525a1e13597e074\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:37ab9db907480e29b1d08e4b19cb6550\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:2b3f6b941d08593465a30a5299849343\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:0d6dc4b2c5eca0cd5fea216b786ddb26\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=6": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:89fc74772eccb3756e916d222b479f09\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=7": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:308fc5e422a17c5d1cddc7f2090596e6\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=8": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:7d67250b0db874f3e1adbccf4eab4f0b\""
+ },
+ "https://www.pokemillon.com/products.json?limit=250&page=9": {
+  "If-None-Match": "W/\"page_cache:60880453878:ProductListController:b769d6b26525ab0907d0c2f94aad9d5e\""
+ },
+ "https://www.poketalk.se/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:86278603094:ProductListController:7eabb3c0e1039b5943bfa831954366de\""
+ },
+ "https://www.poketalk.se/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:86278603094:ProductListController:56dcf5a1602cc33603588cd0288ac77a\""
+ },
+ "https://www.poketalk.se/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:86278603094:ProductListController:fe6cec453b7f617996013c99a38f871a\""
+ },
+ "https://www.poketalk.se/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:86278603094:ProductListController:51f7471e4133cce35dcc99370d7e7e4b\""
+ },
+ "https://www.poketalk.se/products.json?limit=250&page=5": {
+  "If-None-Match": "W/\"page_cache:86278603094:ProductListController:19474e012d65242ea292a9cdd19f8259\""
+ },
+ "https://www.tcgreus.nl/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:69797085449:ProductListController:0976989577e0f41deeeb2bdf0be6e2b9\""
+ },
+ "https://www.tcgreus.nl/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:69797085449:ProductListController:7fbd05e8d42905639330e01fc8a552ee\""
+ },
+ "https://www.tcgreus.nl/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:69797085449:ProductListController:c0a7954671ec1a6936b6a40f83a60778\""
+ },
+ "https://www.tcgreus.nl/products.json?limit=250&page=4": {
+  "If-None-Match": "W/\"page_cache:69797085449:ProductListController:a226ee5d7fddb46bcd68f72b11d4e7d2\""
+ },
+ "https://www.tcgshoppers.nl/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:103421739342:ProductListController:d3a09808602fb4684f3a016381e7da05\""
+ },
+ "https://www.thetcgplug.nl/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:103897923932:ProductListController:5f8c9ff4d4797f8848a0e8cc49893548\""
+ },
+ "https://www.tigercards.es/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:77753778361:ProductListController:b2dd3903c1a6df4954984b261b57bbc0\""
+ },
+ "https://www.tigercards.es/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:77753778361:ProductListController:fa886f11784280862ab0d222f4d3fa1f\""
+ },
+ "https://yonko-tcg.de/products.json?limit=250&page=1": {
+  "If-None-Match": "W/\"page_cache:81446568264:ProductListController:8a5dfe131eae142792922a20b70ab346\""
+ },
+ "https://yonko-tcg.de/products.json?limit=250&page=2": {
+  "If-None-Match": "W/\"page_cache:81446568264:ProductListController:02fdc97323ee69db6716154184220852\""
+ },
+ "https://yonko-tcg.de/products.json?limit=250&page=3": {
+  "If-None-Match": "W/\"page_cache:81446568264:ProductListController:dbb6b68180271ec7e052ce69882a2d67\""
+ }
+}

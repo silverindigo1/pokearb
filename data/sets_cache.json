@@ -1,0 +1,1542 @@
+{
+ "2011bw": {
+  "cardCount": 12,
+  "id": "2011bw",
+  "logo": null,
+  "name": "McDonald's Collection 2011",
+  "releaseDate": "2011-06-17"
+ },
+ "2012bw": {
+  "cardCount": 12,
+  "id": "2012bw",
+  "logo": null,
+  "name": "McDonald's Collection 2012",
+  "releaseDate": "2012-06-15"
+ },
+ "2014xy": {
+  "cardCount": 12,
+  "id": "2014xy",
+  "logo": null,
+  "name": "McDonald's Collection 2014",
+  "releaseDate": "2014-05-23"
+ },
+ "2015xy": {
+  "cardCount": 12,
+  "id": "2015xy",
+  "logo": null,
+  "name": "McDonald's Collection 2015",
+  "releaseDate": "2015-11-27"
+ },
+ "2016xy": {
+  "cardCount": 12,
+  "id": "2016xy",
+  "logo": null,
+  "name": "McDonald's Collection 2016",
+  "releaseDate": "2016-08-20"
+ },
+ "2017sm": {
+  "cardCount": 12,
+  "id": "2017sm",
+  "logo": null,
+  "name": "McDonald's Collection 2017",
+  "releaseDate": "2017-08-03"
+ },
+ "2018sm": {
+  "cardCount": 12,
+  "id": "2018sm",
+  "logo": null,
+  "name": "McDonald's Collection 2018",
+  "releaseDate": "2018-10-19"
+ },
+ "2019sm": {
+  "cardCount": 12,
+  "id": "2019sm",
+  "logo": null,
+  "name": "McDonald's Collection 2019",
+  "releaseDate": "2019-10-15"
+ },
+ "2021swsh": {
+  "cardCount": 25,
+  "id": "2021swsh",
+  "logo": null,
+  "name": "McDonald's Collection 2021",
+  "releaseDate": "2021-02-09"
+ },
+ "2022swsh": {
+  "cardCount": 15,
+  "id": "2022swsh",
+  "logo": null,
+  "name": "McDonald's Collection 2022",
+  "releaseDate": "2022-08-03"
+ },
+ "2023sv": {
+  "cardCount": 15,
+  "id": "2023sv",
+  "logo": null,
+  "name": "McDonald's Collection 2023",
+  "releaseDate": "2023-08-01"
+ },
+ "2024sv": {
+  "cardCount": 15,
+  "id": "2024sv",
+  "logo": null,
+  "name": "McDonald's Collection 2024",
+  "releaseDate": "2024-12-04"
+ },
+ "30th": {
+  "cardCount": 128,
+  "id": "30th",
+  "logo": null,
+  "name": "30th Celebration",
+  "releaseDate": "2026-09-16"
+ },
+ "30th-c": {
+  "cardCount": 0,
+  "id": "30th-c",
+  "logo": null,
+  "name": "30th Classic Collection",
+  "releaseDate": "2026-09-16"
+ },
+ "A1": {
+  "cardCount": 226,
+  "id": "A1",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A1/logo",
+  "name": "Genetic Apex",
+  "releaseDate": "2024-10-30"
+ },
+ "A1a": {
+  "cardCount": 68,
+  "id": "A1a",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A1a/logo",
+  "name": "Mythical Island",
+  "releaseDate": "2024-12-17"
+ },
+ "A2": {
+  "cardCount": 140,
+  "id": "A2",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A2/logo",
+  "name": "Space-Time Smackdown",
+  "releaseDate": "2025-01-30"
+ },
+ "A2a": {
+  "cardCount": 75,
+  "id": "A2a",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A2a/logo",
+  "name": "Triumphant Light",
+  "releaseDate": "2025-02-28"
+ },
+ "A2b": {
+  "cardCount": 72,
+  "id": "A2b",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A2b/logo",
+  "name": "Shining Revelry",
+  "releaseDate": "2025-03-27"
+ },
+ "A3": {
+  "cardCount": 155,
+  "id": "A3",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+  "name": "Celestial Guardians",
+  "releaseDate": "2025-04-30"
+ },
+ "A3a": {
+  "cardCount": 69,
+  "id": "A3a",
+  "logo": null,
+  "name": "Extradimensional Crisis",
+  "releaseDate": "2025-05-29"
+ },
+ "A3b": {
+  "cardCount": 69,
+  "id": "A3b",
+  "logo": null,
+  "name": "Eevee Grove",
+  "releaseDate": "2025-06-26"
+ },
+ "A4": {
+  "cardCount": 161,
+  "id": "A4",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A4/logo",
+  "name": "Wisdom of Sea and Sky",
+  "releaseDate": "2025-07-30"
+ },
+ "A4a": {
+  "cardCount": 71,
+  "id": "A4a",
+  "logo": "https://assets.tcgdex.net/en/tcgp/A4a/logo",
+  "name": "Secluded Springs",
+  "releaseDate": "2025-08-28"
+ },
+ "B1": {
+  "cardCount": 226,
+  "id": "B1",
+  "logo": "https://assets.tcgdex.net/en/tcgp/B1/logo",
+  "name": "Mega Rising",
+  "releaseDate": "2025-10-30"
+ },
+ "B1a": {
+  "cardCount": 69,
+  "id": "B1a",
+  "logo": null,
+  "name": "Crimson Blaze",
+  "releaseDate": "2025-12-17"
+ },
+ "B2": {
+  "cardCount": 155,
+  "id": "B2",
+  "logo": "https://assets.tcgdex.net/en/tcgp/B2/logo",
+  "name": "Fantastical Parade",
+  "releaseDate": "2026-01-29"
+ },
+ "B2a": {
+  "cardCount": 93,
+  "id": "B2a",
+  "logo": null,
+  "name": "Paldean Wonders",
+  "releaseDate": "2026-02-26"
+ },
+ "P-A": {
+  "cardCount": 0,
+  "id": "P-A",
+  "logo": "https://assets.tcgdex.net/en/tcgp/P-A/logo",
+  "name": "Promos-A",
+  "releaseDate": "2024-10-30"
+ },
+ "base1": {
+  "cardCount": 102,
+  "id": "base1",
+  "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+  "name": "Base Set",
+  "releaseDate": "1999-01-09"
+ },
+ "base2": {
+  "cardCount": 64,
+  "id": "base2",
+  "logo": "https://assets.tcgdex.net/en/base/base2/logo",
+  "name": "Jungle",
+  "releaseDate": "1999-06-16"
+ },
+ "base3": {
+  "cardCount": 62,
+  "id": "base3",
+  "logo": "https://assets.tcgdex.net/en/base/base3/logo",
+  "name": "Fossil",
+  "releaseDate": "1999-10-10"
+ },
+ "base4": {
+  "cardCount": 130,
+  "id": "base4",
+  "logo": "https://assets.tcgdex.net/en/base/base4/logo",
+  "name": "Base Set 2",
+  "releaseDate": "2000-02-24"
+ },
+ "base5": {
+  "cardCount": 82,
+  "id": "base5",
+  "logo": "https://assets.tcgdex.net/en/base/base5/logo",
+  "name": "Team Rocket",
+  "releaseDate": "2000-04-24"
+ },
+ "basep": {
+  "cardCount": 53,
+  "id": "basep",
+  "logo": "https://assets.tcgdex.net/en/base/basep/logo",
+  "name": "Wizards Black Star Promos",
+  "releaseDate": "1999-07-01"
+ },
+ "bog": {
+  "cardCount": 9,
+  "id": "bog",
+  "logo": null,
+  "name": "Best of game",
+  "releaseDate": "2002-12-01"
+ },
+ "bw1": {
+  "cardCount": 114,
+  "id": "bw1",
+  "logo": "https://assets.tcgdex.net/en/bw/bw1/logo",
+  "name": "Black & White",
+  "releaseDate": "2011-04-25"
+ },
+ "bw10": {
+  "cardCount": 101,
+  "id": "bw10",
+  "logo": "https://assets.tcgdex.net/en/bw/bw10/logo",
+  "name": "Plasma Blast",
+  "releaseDate": "2013-08-14"
+ },
+ "bw11": {
+  "cardCount": 113,
+  "id": "bw11",
+  "logo": "https://assets.tcgdex.net/en/bw/bw11/logo",
+  "name": "Legendary Treasures",
+  "releaseDate": "2013-11-06"
+ },
+ "bw2": {
+  "cardCount": 98,
+  "id": "bw2",
+  "logo": "https://assets.tcgdex.net/en/bw/bw2/logo",
+  "name": "Emerging Powers",
+  "releaseDate": "2011-08-31"
+ },
+ "bw3": {
+  "cardCount": 101,
+  "id": "bw3",
+  "logo": "https://assets.tcgdex.net/en/bw/bw3/logo",
+  "name": "Noble Victories",
+  "releaseDate": "2011-11-16"
+ },
+ "bw4": {
+  "cardCount": 99,
+  "id": "bw4",
+  "logo": "https://assets.tcgdex.net/en/bw/bw4/logo",
+  "name": "Next Destinies",
+  "releaseDate": "2012-02-08"
+ },
+ "bw5": {
+  "cardCount": 108,
+  "id": "bw5",
+  "logo": "https://assets.tcgdex.net/en/bw/bw5/logo",
+  "name": "Dark Explorers",
+  "releaseDate": "2012-05-09"
+ },
+ "bw6": {
+  "cardCount": 124,
+  "id": "bw6",
+  "logo": "https://assets.tcgdex.net/en/bw/bw6/logo",
+  "name": "Dragons Exalted",
+  "releaseDate": "2012-08-15"
+ },
+ "bw7": {
+  "cardCount": 149,
+  "id": "bw7",
+  "logo": "https://assets.tcgdex.net/en/bw/bw7/logo",
+  "name": "Boundaries Crossed",
+  "releaseDate": "2012-11-07"
+ },
+ "bw8": {
+  "cardCount": 135,
+  "id": "bw8",
+  "logo": "https://assets.tcgdex.net/en/bw/bw8/logo",
+  "name": "Plasma Storm",
+  "releaseDate": "2013-02-06"
+ },
+ "bw9": {
+  "cardCount": 116,
+  "id": "bw9",
+  "logo": "https://assets.tcgdex.net/en/bw/bw9/logo",
+  "name": "Plasma Freeze",
+  "releaseDate": "2013-05-08"
+ },
+ "bwp": {
+  "cardCount": 101,
+  "id": "bwp",
+  "logo": "https://assets.tcgdex.net/en/bw/bwp/logo",
+  "name": "BW Black Star Promos",
+  "releaseDate": "2011-04-26"
+ },
+ "cel25": {
+  "cardCount": 25,
+  "id": "cel25",
+  "logo": "https://assets.tcgdex.net/en/swsh/cel25/logo",
+  "name": "Celebrations",
+  "releaseDate": "2021-10-08"
+ },
+ "cel25cc": {
+  "cardCount": 25,
+  "id": "cel25cc",
+  "logo": null,
+  "name": "Celebrations Classic Collection",
+  "releaseDate": "2021-10-08"
+ },
+ "col1": {
+  "cardCount": 95,
+  "id": "col1",
+  "logo": "https://assets.tcgdex.net/en/col/col1/logo",
+  "name": "Call of Legends",
+  "releaseDate": "2011-02-09"
+ },
+ "dc1": {
+  "cardCount": 34,
+  "id": "dc1",
+  "logo": "https://assets.tcgdex.net/en/xy/dc1/logo",
+  "name": "Double Crisis",
+  "releaseDate": "2015-03-25"
+ },
+ "det1": {
+  "cardCount": 18,
+  "id": "det1",
+  "logo": "https://assets.tcgdex.net/en/sm/det1/logo",
+  "name": "Detective Pikachu",
+  "releaseDate": "2019-03-29"
+ },
+ "dp1": {
+  "cardCount": 130,
+  "id": "dp1",
+  "logo": "https://assets.tcgdex.net/en/dp/dp1/logo",
+  "name": "Diamond & Pearl",
+  "releaseDate": "2007-05-01"
+ },
+ "dp2": {
+  "cardCount": 123,
+  "id": "dp2",
+  "logo": "https://assets.tcgdex.net/en/dp/dp2/logo",
+  "name": "Mysterious Treasures",
+  "releaseDate": "2007-08-01"
+ },
+ "dp3": {
+  "cardCount": 132,
+  "id": "dp3",
+  "logo": "https://assets.tcgdex.net/en/dp/dp3/logo",
+  "name": "Secret Wonders",
+  "releaseDate": "2007-11-01"
+ },
+ "dp4": {
+  "cardCount": 106,
+  "id": "dp4",
+  "logo": "https://assets.tcgdex.net/en/dp/dp4/logo",
+  "name": "Great Encounters",
+  "releaseDate": "2008-02-01"
+ },
+ "dp5": {
+  "cardCount": 100,
+  "id": "dp5",
+  "logo": "https://assets.tcgdex.net/en/dp/dp5/logo",
+  "name": "Majestic Dawn",
+  "releaseDate": "2008-05-01"
+ },
+ "dp6": {
+  "cardCount": 146,
+  "id": "dp6",
+  "logo": "https://assets.tcgdex.net/en/dp/dp6/logo",
+  "name": "Legends Awakened",
+  "releaseDate": "2008-08-01"
+ },
+ "dp7": {
+  "cardCount": 100,
+  "id": "dp7",
+  "logo": "https://assets.tcgdex.net/en/dp/dp7/logo",
+  "name": "Stormfront",
+  "releaseDate": "2008-11-01"
+ },
+ "dpp": {
+  "cardCount": 56,
+  "id": "dpp",
+  "logo": "https://assets.tcgdex.net/en/dp/dpp/logo",
+  "name": "DP Black Star Promos",
+  "releaseDate": "2007-05-01"
+ },
+ "dv1": {
+  "cardCount": 20,
+  "id": "dv1",
+  "logo": "https://assets.tcgdex.net/en/bw/dv1/logo",
+  "name": "Dragon Vault",
+  "releaseDate": "2012-10-05"
+ },
+ "ecard1": {
+  "cardCount": 165,
+  "id": "ecard1",
+  "logo": "https://assets.tcgdex.net/en/ecard/ecard1/logo",
+  "name": "Expedition Base Set",
+  "releaseDate": "2002-09-15"
+ },
+ "ecard2": {
+  "cardCount": 147,
+  "id": "ecard2",
+  "logo": "https://assets.tcgdex.net/en/ecard/ecard2/logo",
+  "name": "Aquapolis",
+  "releaseDate": "2003-01-15"
+ },
+ "ecard3": {
+  "cardCount": 144,
+  "id": "ecard3",
+  "logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo",
+  "name": "Skyridge",
+  "releaseDate": "2003-05-12"
+ },
+ "ex1": {
+  "cardCount": 109,
+  "id": "ex1",
+  "logo": "https://assets.tcgdex.net/en/ex/ex1/logo",
+  "name": "Ruby & Sapphire",
+  "releaseDate": "2003-07-01"
+ },
+ "ex10": {
+  "cardCount": 115,
+  "id": "ex10",
+  "logo": "https://assets.tcgdex.net/en/ex/ex10/logo",
+  "name": "Unseen Forces",
+  "releaseDate": "2005-08-22"
+ },
+ "ex11": {
+  "cardCount": 113,
+  "id": "ex11",
+  "logo": "https://assets.tcgdex.net/en/ex/ex11/logo",
+  "name": "Delta Species",
+  "releaseDate": "2005-10-31"
+ },
+ "ex12": {
+  "cardCount": 92,
+  "id": "ex12",
+  "logo": "https://assets.tcgdex.net/en/ex/ex12/logo",
+  "name": "Legend Maker",
+  "releaseDate": "2006-02-13"
+ },
+ "ex13": {
+  "cardCount": 110,
+  "id": "ex13",
+  "logo": "https://assets.tcgdex.net/en/ex/ex13/logo",
+  "name": "Holon Phantoms",
+  "releaseDate": "2006-05-03"
+ },
+ "ex14": {
+  "cardCount": 100,
+  "id": "ex14",
+  "logo": "https://assets.tcgdex.net/en/ex/ex14/logo",
+  "name": "Crystal Guardians",
+  "releaseDate": "2006-08-30"
+ },
+ "ex15": {
+  "cardCount": 101,
+  "id": "ex15",
+  "logo": "https://assets.tcgdex.net/en/ex/ex15/logo",
+  "name": "Dragon Frontiers",
+  "releaseDate": "2006-11-08"
+ },
+ "ex16": {
+  "cardCount": 108,
+  "id": "ex16",
+  "logo": "https://assets.tcgdex.net/en/ex/ex16/logo",
+  "name": "Power Keepers",
+  "releaseDate": "2007-02-17"
+ },
+ "ex2": {
+  "cardCount": 100,
+  "id": "ex2",
+  "logo": "https://assets.tcgdex.net/en/ex/ex2/logo",
+  "name": "Sandstorm",
+  "releaseDate": "2003-09-18"
+ },
+ "ex3": {
+  "cardCount": 97,
+  "id": "ex3",
+  "logo": "https://assets.tcgdex.net/en/ex/ex3/logo",
+  "name": "Dragon",
+  "releaseDate": "2003-11-24"
+ },
+ "ex4": {
+  "cardCount": 95,
+  "id": "ex4",
+  "logo": "https://assets.tcgdex.net/en/ex/ex4/logo",
+  "name": "Team Magma vs Team Aqua",
+  "releaseDate": "2004-03-01"
+ },
+ "ex5": {
+  "cardCount": 101,
+  "id": "ex5",
+  "logo": "https://assets.tcgdex.net/en/ex/ex5/logo",
+  "name": "Hidden Legends",
+  "releaseDate": "2004-06-01"
+ },
+ "ex5.5": {
+  "cardCount": 5,
+  "id": "ex5.5",
+  "logo": null,
+  "name": "Poké Card Creator Pack",
+  "releaseDate": "2004-07-01"
+ },
+ "ex6": {
+  "cardCount": 112,
+  "id": "ex6",
+  "logo": "https://assets.tcgdex.net/en/ex/ex6/logo",
+  "name": "FireRed & LeafGreen",
+  "releaseDate": "2004-09-01"
+ },
+ "ex7": {
+  "cardCount": 109,
+  "id": "ex7",
+  "logo": "https://assets.tcgdex.net/en/ex/ex7/logo",
+  "name": "Team Rocket Returns",
+  "releaseDate": "2004-11-01"
+ },
+ "ex8": {
+  "cardCount": 107,
+  "id": "ex8",
+  "logo": "https://assets.tcgdex.net/en/ex/ex8/logo",
+  "name": "Deoxys",
+  "releaseDate": "2005-02-01"
+ },
+ "ex9": {
+  "cardCount": 106,
+  "id": "ex9",
+  "logo": "https://assets.tcgdex.net/en/ex/ex9/logo",
+  "name": "Emerald",
+  "releaseDate": "2005-05-09"
+ },
+ "exu": {
+  "cardCount": 28,
+  "id": "exu",
+  "logo": null,
+  "name": "Unseen Forces Unown Collection",
+  "releaseDate": "2005-08-22"
+ },
+ "fut2020": {
+  "cardCount": 5,
+  "id": "fut2020",
+  "logo": "https://assets.tcgdex.net/en/swsh/fut2020/logo",
+  "name": "Pokémon Futsal 2020",
+  "releaseDate": "2020-09-11"
+ },
+ "g1": {
+  "cardCount": 83,
+  "id": "g1",
+  "logo": "https://assets.tcgdex.net/en/xy/g1/logo",
+  "name": "Generations",
+  "releaseDate": "2016-02-22"
+ },
+ "gym1": {
+  "cardCount": 132,
+  "id": "gym1",
+  "logo": "https://assets.tcgdex.net/en/gym/gym1/logo",
+  "name": "Gym Heroes",
+  "releaseDate": "2000-08-14"
+ },
+ "gym2": {
+  "cardCount": 132,
+  "id": "gym2",
+  "logo": "https://assets.tcgdex.net/en/gym/gym2/logo",
+  "name": "Gym Challenge",
+  "releaseDate": "2000-10-16"
+ },
+ "hgss1": {
+  "cardCount": 123,
+  "id": "hgss1",
+  "logo": "https://assets.tcgdex.net/en/hgss/hgss1/logo",
+  "name": "HeartGold SoulSilver",
+  "releaseDate": "2010-02-10"
+ },
+ "hgss2": {
+  "cardCount": 95,
+  "id": "hgss2",
+  "logo": "https://assets.tcgdex.net/en/hgss/hgss2/logo",
+  "name": "Unleashed",
+  "releaseDate": "2010-05-12"
+ },
+ "hgss3": {
+  "cardCount": 90,
+  "id": "hgss3",
+  "logo": "https://assets.tcgdex.net/en/hgss/hgss3/logo",
+  "name": "Undaunted",
+  "releaseDate": "2010-08-18"
+ },
+ "hgss4": {
+  "cardCount": 102,
+  "id": "hgss4",
+  "logo": "https://assets.tcgdex.net/en/hgss/hgss4/logo",
+  "name": "Triumphant",
+  "releaseDate": "2010-11-03"
+ },
+ "hgssp": {
+  "cardCount": 25,
+  "id": "hgssp",
+  "logo": "https://assets.tcgdex.net/en/hgss/hgssp/logo",
+  "name": "HGSS Black Star Promos",
+  "releaseDate": "2010-02-11"
+ },
+ "jumbo": {
+  "cardCount": 160,
+  "id": "jumbo",
+  "logo": null,
+  "name": "Jumbo cards",
+  "releaseDate": "2000-02-01"
+ },
+ "lc": {
+  "cardCount": 110,
+  "id": "lc",
+  "logo": "https://assets.tcgdex.net/en/lc/lc/logo",
+  "name": "Legendary Collection",
+  "releaseDate": "2002-05-24"
+ },
+ "me01": {
+  "cardCount": 132,
+  "id": "me01",
+  "logo": "https://assets.tcgdex.net/en/me/me01/logo",
+  "name": "Mega Evolution",
+  "releaseDate": "2025-09-26"
+ },
+ "me02": {
+  "cardCount": 94,
+  "id": "me02",
+  "logo": "https://assets.tcgdex.net/en/me/me02/logo",
+  "name": "Phantasmal Flames",
+  "releaseDate": "2025-11-14"
+ },
+ "me02.5": {
+  "cardCount": 217,
+  "id": "me02.5",
+  "logo": "https://assets.tcgdex.net/en/me/me02.5/logo",
+  "name": "Ascended Heroes",
+  "releaseDate": "2026-01-30"
+ },
+ "me03": {
+  "cardCount": 88,
+  "id": "me03",
+  "logo": "https://assets.tcgdex.net/en/me/me03/logo",
+  "name": "Perfect Order",
+  "releaseDate": "2026-03-27"
+ },
+ "me04": {
+  "cardCount": 86,
+  "id": "me04",
+  "logo": "https://assets.tcgdex.net/en/me/me04/logo",
+  "name": "Chaos Rising",
+  "releaseDate": "2026-05-22"
+ },
+ "me05": {
+  "cardCount": 84,
+  "id": "me05",
+  "logo": "https://assets.tcgdex.net/en/me/me05/logo",
+  "name": "Pitch Black",
+  "releaseDate": "2026-07-17"
+ },
+ "mee": {
+  "cardCount": 8,
+  "id": "mee",
+  "logo": null,
+  "name": "Mega Evolution Energy",
+  "releaseDate": "2025-09-25"
+ },
+ "mep": {
+  "cardCount": 0,
+  "id": "mep",
+  "logo": null,
+  "name": "MEP Black Star Promos",
+  "releaseDate": "2025-09-26"
+ },
+ "mfb": {
+  "cardCount": 48,
+  "id": "mfb",
+  "logo": null,
+  "name": "My First Battle",
+  "releaseDate": "2023-09-29"
+ },
+ "miscp": {
+  "cardCount": 1,
+  "id": "miscp",
+  "logo": null,
+  "name": "Miscellaneous Promos",
+  "releaseDate": "1996-01-01"
+ },
+ "neo1": {
+  "cardCount": 111,
+  "id": "neo1",
+  "logo": "https://assets.tcgdex.net/en/neo/neo1/logo",
+  "name": "Neo Genesis",
+  "releaseDate": "2000-12-16"
+ },
+ "neo2": {
+  "cardCount": 75,
+  "id": "neo2",
+  "logo": "https://assets.tcgdex.net/en/neo/neo2/logo",
+  "name": "Neo Discovery",
+  "releaseDate": "2001-06-01"
+ },
+ "neo3": {
+  "cardCount": 64,
+  "id": "neo3",
+  "logo": "https://assets.tcgdex.net/en/neo/neo3/logo",
+  "name": "Neo Revelation",
+  "releaseDate": "2001-09-21"
+ },
+ "neo4": {
+  "cardCount": 105,
+  "id": "neo4",
+  "logo": "https://assets.tcgdex.net/en/neo/neo4/logo",
+  "name": "Neo Destiny",
+  "releaseDate": "2002-02-28"
+ },
+ "np": {
+  "cardCount": 40,
+  "id": "np",
+  "logo": "https://assets.tcgdex.net/en/pop/np/logo",
+  "name": "Nintendo Black Star Promos",
+  "releaseDate": "2003-10-01"
+ },
+ "pl1": {
+  "cardCount": 127,
+  "id": "pl1",
+  "logo": "https://assets.tcgdex.net/en/pl/pl1/logo",
+  "name": "Platinum",
+  "releaseDate": "2009-02-11"
+ },
+ "pl2": {
+  "cardCount": 111,
+  "id": "pl2",
+  "logo": "https://assets.tcgdex.net/en/pl/pl2/logo",
+  "name": "Rising Rivals",
+  "releaseDate": "2009-05-16"
+ },
+ "pl3": {
+  "cardCount": 147,
+  "id": "pl3",
+  "logo": "https://assets.tcgdex.net/en/pl/pl3/logo",
+  "name": "Supreme Victors",
+  "releaseDate": "2009-08-19"
+ },
+ "pl4": {
+  "cardCount": 99,
+  "id": "pl4",
+  "logo": "https://assets.tcgdex.net/en/pl/pl4/logo",
+  "name": "Arceus",
+  "releaseDate": "2009-11-04"
+ },
+ "pop1": {
+  "cardCount": 17,
+  "id": "pop1",
+  "logo": "https://assets.tcgdex.net/en/pop/pop1/logo",
+  "name": "POP Series 1",
+  "releaseDate": "2004-09-01"
+ },
+ "pop2": {
+  "cardCount": 17,
+  "id": "pop2",
+  "logo": "https://assets.tcgdex.net/en/pop/pop2/logo",
+  "name": "POP Series 2",
+  "releaseDate": "2005-08-01"
+ },
+ "pop3": {
+  "cardCount": 17,
+  "id": "pop3",
+  "logo": "https://assets.tcgdex.net/en/pop/pop3/logo",
+  "name": "POP Series 3",
+  "releaseDate": "2006-04-01"
+ },
+ "pop4": {
+  "cardCount": 17,
+  "id": "pop4",
+  "logo": "https://assets.tcgdex.net/en/pop/pop4/logo",
+  "name": "POP Series 4",
+  "releaseDate": "2006-08-01"
+ },
+ "pop5": {
+  "cardCount": 17,
+  "id": "pop5",
+  "logo": "https://assets.tcgdex.net/en/pop/pop5/logo",
+  "name": "POP Series 5",
+  "releaseDate": "2007-03-01"
+ },
+ "pop6": {
+  "cardCount": 17,
+  "id": "pop6",
+  "logo": "https://assets.tcgdex.net/en/pop/pop6/logo",
+  "name": "POP Series 6",
+  "releaseDate": "2007-09-01"
+ },
+ "pop7": {
+  "cardCount": 17,
+  "id": "pop7",
+  "logo": "https://assets.tcgdex.net/en/pop/pop7/logo",
+  "name": "POP Series 7",
+  "releaseDate": "2008-03-01"
+ },
+ "pop8": {
+  "cardCount": 17,
+  "id": "pop8",
+  "logo": "https://assets.tcgdex.net/en/pop/pop8/logo",
+  "name": "POP Series 8",
+  "releaseDate": "2008-09-01"
+ },
+ "pop9": {
+  "cardCount": 17,
+  "id": "pop9",
+  "logo": "https://assets.tcgdex.net/en/pop/pop9/logo",
+  "name": "POP Series 9",
+  "releaseDate": "2009-03-01"
+ },
+ "rc": {
+  "cardCount": 25,
+  "id": "rc",
+  "logo": null,
+  "name": "Radiant Collection",
+  "releaseDate": "2013-11-06"
+ },
+ "ru1": {
+  "cardCount": 16,
+  "id": "ru1",
+  "logo": "https://assets.tcgdex.net/en/pl/ru1/logo",
+  "name": "Pokémon Rumble",
+  "releaseDate": "2009-12-02"
+ },
+ "si1": {
+  "cardCount": 18,
+  "id": "si1",
+  "logo": "https://assets.tcgdex.net/en/neo/si1/logo",
+  "name": "Southern Islands",
+  "releaseDate": "2001-07-31"
+ },
+ "sm1": {
+  "cardCount": 149,
+  "id": "sm1",
+  "logo": "https://assets.tcgdex.net/en/sm/sm1/logo",
+  "name": "Sun & Moon",
+  "releaseDate": "2017-02-03"
+ },
+ "sm10": {
+  "cardCount": 214,
+  "id": "sm10",
+  "logo": "https://assets.tcgdex.net/en/sm/sm10/logo",
+  "name": "Unbroken Bonds",
+  "releaseDate": "2019-05-03"
+ },
+ "sm11": {
+  "cardCount": 236,
+  "id": "sm11",
+  "logo": "https://assets.tcgdex.net/en/sm/sm11/logo",
+  "name": "Unified Minds",
+  "releaseDate": "2019-08-02"
+ },
+ "sm115": {
+  "cardCount": 68,
+  "id": "sm115",
+  "logo": "https://assets.tcgdex.net/en/sm/sm115/logo",
+  "name": "Hidden Fates",
+  "releaseDate": "2019-08-23"
+ },
+ "sm12": {
+  "cardCount": 236,
+  "id": "sm12",
+  "logo": "https://assets.tcgdex.net/en/sm/sm12/logo",
+  "name": "Cosmic Eclipse",
+  "releaseDate": "2019-11-01"
+ },
+ "sm2": {
+  "cardCount": 145,
+  "id": "sm2",
+  "logo": "https://assets.tcgdex.net/en/sm/sm2/logo",
+  "name": "Guardians Rising",
+  "releaseDate": "2017-05-05"
+ },
+ "sm3": {
+  "cardCount": 147,
+  "id": "sm3",
+  "logo": "https://assets.tcgdex.net/en/sm/sm3/logo",
+  "name": "Burning Shadows",
+  "releaseDate": "2017-08-04"
+ },
+ "sm3.5": {
+  "cardCount": 73,
+  "id": "sm3.5",
+  "logo": null,
+  "name": "Shining Legends",
+  "releaseDate": "2017-10-06"
+ },
+ "sm4": {
+  "cardCount": 111,
+  "id": "sm4",
+  "logo": "https://assets.tcgdex.net/en/sm/sm4/logo",
+  "name": "Crimson Invasion",
+  "releaseDate": "2017-11-03"
+ },
+ "sm5": {
+  "cardCount": 156,
+  "id": "sm5",
+  "logo": "https://assets.tcgdex.net/en/sm/sm5/logo",
+  "name": "Ultra Prism",
+  "releaseDate": "2018-02-02"
+ },
+ "sm6": {
+  "cardCount": 131,
+  "id": "sm6",
+  "logo": "https://assets.tcgdex.net/en/sm/sm6/logo",
+  "name": "Forbidden Light",
+  "releaseDate": "2018-05-04"
+ },
+ "sm7": {
+  "cardCount": 168,
+  "id": "sm7",
+  "logo": "https://assets.tcgdex.net/en/sm/sm7/logo",
+  "name": "Celestial Storm",
+  "releaseDate": "2018-08-03"
+ },
+ "sm7.5": {
+  "cardCount": 70,
+  "id": "sm7.5",
+  "logo": null,
+  "name": "Dragon Majesty",
+  "releaseDate": "2018-09-07"
+ },
+ "sm8": {
+  "cardCount": 214,
+  "id": "sm8",
+  "logo": "https://assets.tcgdex.net/en/sm/sm8/logo",
+  "name": "Lost Thunder",
+  "releaseDate": "2018-11-02"
+ },
+ "sm9": {
+  "cardCount": 181,
+  "id": "sm9",
+  "logo": "https://assets.tcgdex.net/en/sm/sm9/logo",
+  "name": "Team Up",
+  "releaseDate": "2019-01-31"
+ },
+ "sma": {
+  "cardCount": 94,
+  "id": "sma",
+  "logo": null,
+  "name": "Hidden Fates Shiny Vault",
+  "releaseDate": "2019-08-23"
+ },
+ "smp": {
+  "cardCount": 248,
+  "id": "smp",
+  "logo": "https://assets.tcgdex.net/en/sm/smp/logo",
+  "name": "SM Black Star Promos",
+  "releaseDate": "2017-02-03"
+ },
+ "sp": {
+  "cardCount": 10,
+  "id": "sp",
+  "logo": null,
+  "name": "Sample",
+  "releaseDate": "2002-08-01"
+ },
+ "sv01": {
+  "cardCount": 198,
+  "id": "sv01",
+  "logo": "https://assets.tcgdex.net/en/sv/sv01/logo",
+  "name": "Scarlet & Violet",
+  "releaseDate": "2023-03-31"
+ },
+ "sv02": {
+  "cardCount": 193,
+  "id": "sv02",
+  "logo": "https://assets.tcgdex.net/en/sv/sv02/logo",
+  "name": "Paldea Evolved",
+  "releaseDate": "2023-06-09"
+ },
+ "sv03": {
+  "cardCount": 197,
+  "id": "sv03",
+  "logo": "https://assets.tcgdex.net/en/sv/sv03/logo",
+  "name": "Obsidian Flames",
+  "releaseDate": "2023-08-11"
+ },
+ "sv03.5": {
+  "cardCount": 165,
+  "id": "sv03.5",
+  "logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo",
+  "name": "151",
+  "releaseDate": "2023-09-22"
+ },
+ "sv04": {
+  "cardCount": 182,
+  "id": "sv04",
+  "logo": "https://assets.tcgdex.net/en/sv/sv04/logo",
+  "name": "Paradox Rift",
+  "releaseDate": "2023-11-03"
+ },
+ "sv04.5": {
+  "cardCount": 91,
+  "id": "sv04.5",
+  "logo": "https://assets.tcgdex.net/en/sv/sv04.5/logo",
+  "name": "Paldean Fates",
+  "releaseDate": "2024-01-26"
+ },
+ "sv05": {
+  "cardCount": 162,
+  "id": "sv05",
+  "logo": null,
+  "name": "Temporal Forces",
+  "releaseDate": "2024-03-22"
+ },
+ "sv06": {
+  "cardCount": 167,
+  "id": "sv06",
+  "logo": "https://assets.tcgdex.net/en/sv/sv06/logo",
+  "name": "Twilight Masquerade",
+  "releaseDate": "2024-05-24"
+ },
+ "sv06.5": {
+  "cardCount": 64,
+  "id": "sv06.5",
+  "logo": "https://assets.tcgdex.net/en/sv/sv06.5/logo",
+  "name": "Shrouded Fable",
+  "releaseDate": "2024-08-02"
+ },
+ "sv07": {
+  "cardCount": 142,
+  "id": "sv07",
+  "logo": "https://assets.tcgdex.net/en/sv/sv07/logo",
+  "name": "Stellar Crown",
+  "releaseDate": "2024-09-13"
+ },
+ "sv08": {
+  "cardCount": 191,
+  "id": "sv08",
+  "logo": "https://assets.tcgdex.net/en/sv/sv08/logo",
+  "name": "Surging Sparks",
+  "releaseDate": "2024-11-08"
+ },
+ "sv08.5": {
+  "cardCount": 131,
+  "id": "sv08.5",
+  "logo": "https://assets.tcgdex.net/en/sv/sv08.5/logo",
+  "name": "Prismatic Evolutions",
+  "releaseDate": "2025-01-17"
+ },
+ "sv09": {
+  "cardCount": 159,
+  "id": "sv09",
+  "logo": "https://assets.tcgdex.net/en/sv/sv09/logo",
+  "name": "Journey Together",
+  "releaseDate": "2025-03-28"
+ },
+ "sv10": {
+  "cardCount": 182,
+  "id": "sv10",
+  "logo": "https://assets.tcgdex.net/en/sv/sv10/logo",
+  "name": "Destined Rivals",
+  "releaseDate": "2025-05-30"
+ },
+ "sv10.5b": {
+  "cardCount": 86,
+  "id": "sv10.5b",
+  "logo": "https://assets.tcgdex.net/en/sv/sv10.5b/logo",
+  "name": "Black Bolt",
+  "releaseDate": "2025-07-17"
+ },
+ "sv10.5w": {
+  "cardCount": 86,
+  "id": "sv10.5w",
+  "logo": "https://assets.tcgdex.net/en/sv/sv10.5w/logo",
+  "name": "White Flare",
+  "releaseDate": "2025-07-17"
+ },
+ "sve": {
+  "cardCount": 24,
+  "id": "sve",
+  "logo": null,
+  "name": "Scarlet & Violet Energy",
+  "releaseDate": "2023-03-31"
+ },
+ "svp": {
+  "cardCount": 225,
+  "id": "svp",
+  "logo": null,
+  "name": "SVP Black Star Promos",
+  "releaseDate": "2023-03-31"
+ },
+ "swsh1": {
+  "cardCount": 202,
+  "id": "swsh1",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh1/logo",
+  "name": "Sword & Shield",
+  "releaseDate": "2020-02-07"
+ },
+ "swsh10": {
+  "cardCount": 189,
+  "id": "swsh10",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh10/logo",
+  "name": "Astral Radiance",
+  "releaseDate": "2022-05-27"
+ },
+ "swsh10.5": {
+  "cardCount": 78,
+  "id": "swsh10.5",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh10.5/logo",
+  "name": "Pokémon GO",
+  "releaseDate": "2022-07-01"
+ },
+ "swsh10tg": {
+  "cardCount": 30,
+  "id": "swsh10tg",
+  "logo": null,
+  "name": "Astral Radiance Trainer Gallery",
+  "releaseDate": "2022-05-27"
+ },
+ "swsh11": {
+  "cardCount": 196,
+  "id": "swsh11",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh11/logo",
+  "name": "Lost Origin",
+  "releaseDate": "2022-09-09"
+ },
+ "swsh11tg": {
+  "cardCount": 30,
+  "id": "swsh11tg",
+  "logo": null,
+  "name": "Lost Origin Trainer Gallery",
+  "releaseDate": "2022-09-09"
+ },
+ "swsh12": {
+  "cardCount": 195,
+  "id": "swsh12",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh12/logo",
+  "name": "Silver Tempest",
+  "releaseDate": "2022-11-11"
+ },
+ "swsh12.5": {
+  "cardCount": 159,
+  "id": "swsh12.5",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh12.5/logo",
+  "name": "Crown Zenith",
+  "releaseDate": "2023-01-20"
+ },
+ "swsh12.5gg": {
+  "cardCount": 70,
+  "id": "swsh12.5gg",
+  "logo": null,
+  "name": "Crown Zenith Galarian Gallery",
+  "releaseDate": "2023-01-20"
+ },
+ "swsh12tg": {
+  "cardCount": 30,
+  "id": "swsh12tg",
+  "logo": null,
+  "name": "Silver Tempest Trainer Gallery",
+  "releaseDate": "2022-11-11"
+ },
+ "swsh2": {
+  "cardCount": 192,
+  "id": "swsh2",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh2/logo",
+  "name": "Rebel Clash",
+  "releaseDate": "2020-05-01"
+ },
+ "swsh3": {
+  "cardCount": 189,
+  "id": "swsh3",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh3/logo",
+  "name": "Darkness Ablaze",
+  "releaseDate": "2020-08-14"
+ },
+ "swsh3.5": {
+  "cardCount": 73,
+  "id": "swsh3.5",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh3.5/logo",
+  "name": "Champion's Path",
+  "releaseDate": "2020-09-25"
+ },
+ "swsh4": {
+  "cardCount": 185,
+  "id": "swsh4",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh4/logo",
+  "name": "Vivid Voltage",
+  "releaseDate": "2020-11-13"
+ },
+ "swsh4.5": {
+  "cardCount": 72,
+  "id": "swsh4.5",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh4.5/logo",
+  "name": "Shining Fates",
+  "releaseDate": "2021-02-19"
+ },
+ "swsh4.5sv": {
+  "cardCount": 122,
+  "id": "swsh4.5sv",
+  "logo": null,
+  "name": "Shining Fates Shiny Vault",
+  "releaseDate": "2021-02-19"
+ },
+ "swsh5": {
+  "cardCount": 163,
+  "id": "swsh5",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh5/logo",
+  "name": "Battle Styles",
+  "releaseDate": "2021-03-19"
+ },
+ "swsh6": {
+  "cardCount": 198,
+  "id": "swsh6",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh6/logo",
+  "name": "Chilling Reign",
+  "releaseDate": "2021-06-18"
+ },
+ "swsh7": {
+  "cardCount": 203,
+  "id": "swsh7",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh7/logo",
+  "name": "Evolving Skies",
+  "releaseDate": "2021-08-27"
+ },
+ "swsh8": {
+  "cardCount": 264,
+  "id": "swsh8",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh8/logo",
+  "name": "Fusion Strike",
+  "releaseDate": "2021-11-12"
+ },
+ "swsh9": {
+  "cardCount": 172,
+  "id": "swsh9",
+  "logo": "https://assets.tcgdex.net/en/swsh/swsh9/logo",
+  "name": "Brilliant Stars",
+  "releaseDate": "2022-02-25"
+ },
+ "swsh9tg": {
+  "cardCount": 30,
+  "id": "swsh9tg",
+  "logo": null,
+  "name": "Brilliant Stars Trainer Gallery",
+  "releaseDate": "2022-02-25"
+ },
+ "swshp": {
+  "cardCount": 307,
+  "id": "swshp",
+  "logo": "https://assets.tcgdex.net/en/swsh/swshp/logo",
+  "name": "SWSH Black Star Promos",
+  "releaseDate": "2019-11-15"
+ },
+ "tk-bw-e": {
+  "cardCount": 30,
+  "id": "tk-bw-e",
+  "logo": null,
+  "name": "BW trainer Kit (Excadrill)",
+  "releaseDate": "2011-09-01"
+ },
+ "tk-bw-z": {
+  "cardCount": 30,
+  "id": "tk-bw-z",
+  "logo": null,
+  "name": "BW trainer Kit (Zoroark)",
+  "releaseDate": "2011-09-01"
+ },
+ "tk-dp-l": {
+  "cardCount": 11,
+  "id": "tk-dp-l",
+  "logo": null,
+  "name": "DP trainer Kit (Lucario)",
+  "releaseDate": "2007-09-01"
+ },
+ "tk-dp-m": {
+  "cardCount": 12,
+  "id": "tk-dp-m",
+  "logo": null,
+  "name": "DP trainer Kit (Manaphy)",
+  "releaseDate": "2007-09-01"
+ },
+ "tk-ex-latia": {
+  "cardCount": 10,
+  "id": "tk-ex-latia",
+  "logo": null,
+  "name": "EX trainer Kit (Latias)",
+  "releaseDate": "2004-07-01"
+ },
+ "tk-ex-latio": {
+  "cardCount": 10,
+  "id": "tk-ex-latio",
+  "logo": null,
+  "name": "EX trainer Kit (Latios)",
+  "releaseDate": "2004-07-01"
+ },
+ "tk-ex-m": {
+  "cardCount": 12,
+  "id": "tk-ex-m",
+  "logo": null,
+  "name": "EX trainer Kit 2 (Minun)",
+  "releaseDate": "2006-03-01"
+ },
+ "tk-ex-p": {
+  "cardCount": 12,
+  "id": "tk-ex-p",
+  "logo": null,
+  "name": "EX trainer Kit 2 (Plusle)",
+  "releaseDate": "2006-03-01"
+ },
+ "tk-hs-g": {
+  "cardCount": 30,
+  "id": "tk-hs-g",
+  "logo": null,
+  "name": "HS trainer Kit (Gyarados)",
+  "releaseDate": "2010-05-01"
+ },
+ "tk-hs-r": {
+  "cardCount": 30,
+  "id": "tk-hs-r",
+  "logo": null,
+  "name": "HS trainer Kit (Raichu)",
+  "releaseDate": "2010-05-01"
+ },
+ "tk-sm-l": {
+  "cardCount": 30,
+  "id": "tk-sm-l",
+  "logo": null,
+  "name": "SM trainer Kit (Lycanroc)",
+  "releaseDate": "2017-04-21"
+ },
+ "tk-sm-r": {
+  "cardCount": 30,
+  "id": "tk-sm-r",
+  "logo": null,
+  "name": "SM trainer Kit (Alolan Raichu)",
+  "releaseDate": "2017-04-21"
+ },
+ "tk-xy-b": {
+  "cardCount": 30,
+  "id": "tk-xy-b",
+  "logo": null,
+  "name": "XY trainer Kit (Bisharp)",
+  "releaseDate": "2014-11-01"
+ },
+ "tk-xy-latia": {
+  "cardCount": 30,
+  "id": "tk-xy-latia",
+  "logo": null,
+  "name": "XY trainer Kit (Latias)",
+  "releaseDate": "2015-04-29"
+ },
+ "tk-xy-latio": {
+  "cardCount": 30,
+  "id": "tk-xy-latio",
+  "logo": null,
+  "name": "XY trainer Kit (Latios)",
+  "releaseDate": "2015-04-29"
+ },
+ "tk-xy-n": {
+  "cardCount": 30,
+  "id": "tk-xy-n",
+  "logo": null,
+  "name": "XY trainer Kit (Noivern)",
+  "releaseDate": "2014-03-12"
+ },
+ "tk-xy-p": {
+  "cardCount": 30,
+  "id": "tk-xy-p",
+  "logo": null,
+  "name": "XY trainer Kit (Pikachu Libre)",
+  "releaseDate": "2016-04-27"
+ },
+ "tk-xy-su": {
+  "cardCount": 30,
+  "id": "tk-xy-su",
+  "logo": null,
+  "name": "XY trainer Kit (Suicune)",
+  "releaseDate": "2016-04-27"
+ },
+ "tk-xy-sy": {
+  "cardCount": 30,
+  "id": "tk-xy-sy",
+  "logo": null,
+  "name": "XY trainer Kit (Sylveon)",
+  "releaseDate": "2014-03-12"
+ },
+ "tk-xy-w": {
+  "cardCount": 30,
+  "id": "tk-xy-w",
+  "logo": null,
+  "name": "XY trainer Kit (Wigglytuff)",
+  "releaseDate": "2014-11-01"
+ },
+ "wp": {
+  "cardCount": 7,
+  "id": "wp",
+  "logo": null,
+  "name": "W Promotional",
+  "releaseDate": "1999-09-01"
+ },
+ "xy0": {
+  "cardCount": 39,
+  "id": "xy0",
+  "logo": "https://assets.tcgdex.net/en/xy/xy0/logo",
+  "name": "Kalos Starter Set",
+  "releaseDate": "2013-11-08"
+ },
+ "xy1": {
+  "cardCount": 146,
+  "id": "xy1",
+  "logo": "https://assets.tcgdex.net/en/xy/xy1/logo",
+  "name": "XY",
+  "releaseDate": "2014-02-05"
+ },
+ "xy10": {
+  "cardCount": 124,
+  "id": "xy10",
+  "logo": "https://assets.tcgdex.net/en/xy/xy10/logo",
+  "name": "Fates Collide",
+  "releaseDate": "2016-05-02"
+ },
+ "xy11": {
+  "cardCount": 114,
+  "id": "xy11",
+  "logo": "https://assets.tcgdex.net/en/xy/xy11/logo",
+  "name": "Steam Siege",
+  "releaseDate": "2016-08-03"
+ },
+ "xy12": {
+  "cardCount": 108,
+  "id": "xy12",
+  "logo": "https://assets.tcgdex.net/en/xy/xy12/logo",
+  "name": "Evolutions",
+  "releaseDate": "2016-11-02"
+ },
+ "xy2": {
+  "cardCount": 106,
+  "id": "xy2",
+  "logo": "https://assets.tcgdex.net/en/xy/xy2/logo",
+  "name": "Flashfire",
+  "releaseDate": "2014-05-07"
+ },
+ "xy3": {
+  "cardCount": 111,
+  "id": "xy3",
+  "logo": "https://assets.tcgdex.net/en/xy/xy3/logo",
+  "name": "Furious Fists",
+  "releaseDate": "2014-08-13"
+ },
+ "xy4": {
+  "cardCount": 119,
+  "id": "xy4",
+  "logo": "https://assets.tcgdex.net/en/xy/xy4/logo",
+  "name": "Phantom Forces",
+  "releaseDate": "2014-11-05"
+ },
+ "xy5": {
+  "cardCount": 160,
+  "id": "xy5",
+  "logo": "https://assets.tcgdex.net/en/xy/xy5/logo",
+  "name": "Primal Clash",
+  "releaseDate": "2015-02-04"
+ },
+ "xy6": {
+  "cardCount": 108,
+  "id": "xy6",
+  "logo": "https://assets.tcgdex.net/en/xy/xy6/logo",
+  "name": "Roaring Skies",
+  "releaseDate": "2015-05-06"
+ },
+ "xy7": {
+  "cardCount": 98,
+  "id": "xy7",
+  "logo": "https://assets.tcgdex.net/en/xy/xy7/logo",
+  "name": "Ancient Origins",
+  "releaseDate": "2015-08-12"
+ },
+ "xy8": {
+  "cardCount": 162,
+  "id": "xy8",
+  "logo": "https://assets.tcgdex.net/en/xy/xy8/logo",
+  "name": "BREAKthrough",
+  "releaseDate": "2015-11-04"
+ },
+ "xy9": {
+  "cardCount": 122,
+  "id": "xy9",
+  "logo": "https://assets.tcgdex.net/en/xy/xy9/logo",
+  "name": "BREAKpoint",
+  "releaseDate": "2016-02-03"
+ },
+ "xya": {
+  "cardCount": 6,
+  "id": "xya",
+  "logo": null,
+  "name": "Yellow A Alternate",
+  "releaseDate": "2014-02-05"
+ },
+ "xyp": {
+  "cardCount": 211,
+  "id": "xyp",
+  "logo": "https://assets.tcgdex.net/en/xy/xyp/logo",
+  "name": "XY Black Star Promos",
+  "releaseDate": "2013-10-12"
+ }
+}
