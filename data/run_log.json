@@ -12,22 +12,15 @@
    "shop": "musenogslottet",
    "name": "Musen og Slottet",
    "status": "ok",
-   "count": 2929,
+   "count": 2921,
    "captured_at": "2026-09-23"
   },
   {
    "shop": "pocketmonster",
    "name": "Pocket Monster",
-   "status": "failed",
-   "count": 0,
-   "error": "HTTPSConnectionPool(host='pocketmonster.dk', port=443): Read timed out. (read timeout=30)"
-  },
-  {
-   "shop": "kelz0r",
-   "name": "Kelz0r",
-   "status": "failed",
-   "count": 0,
-   "error": "Kelz0r-adapteren fandt 0 produkter. Selektorerne i pokearb/adapters/kelz0r.py matcher ikke sidens HTML laengere. Koer 'python -m pokearb.cli probe-kelz0r' og ret dem."
+   "status": "ok",
+   "count": 3659,
+   "captured_at": "2026-09-23"
   },
   {
    "shop": "godofcards",
@@ -63,13 +56,6 @@
    "status": "ok",
    "count": 1115,
    "captured_at": "2026-09-23"
-  },
-  {
-   "shop": "tcgcompany",
-   "name": "TCG Company",
-   "status": "failed",
-   "count": 0,
-   "error": "403 Client Error: Forbidden for url: https://tcgcompany.nl/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc"
   },
   {
    "shop": "thetcgplug",
@@ -166,7 +152,7 @@
    "shop": "pokemillon",
    "name": "Pokemillon",
    "status": "ok",
-   "count": 4204,
+   "count": 1735,
    "captured_at": "2026-09-23"
   },
   {
@@ -175,34 +161,160 @@
    "status": "ok",
    "count": 2302,
    "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "symbizon",
+   "name": "Symbizon",
+   "status": "ok",
+   "count": 150,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "vaulted",
+   "name": "Vaulted",
+   "status": "ok",
+   "count": 103,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "familyevolution",
+   "name": "Family-Evolution",
+   "status": "ok",
+   "count": 208,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "andcards",
+   "name": "&Cards",
+   "status": "ok",
+   "count": 38,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "aquitaz",
+   "name": "Aquitaz",
+   "status": "ok",
+   "count": 311,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "samlarhobby",
+   "name": "Samlarhobby",
+   "status": "ok",
+   "count": 61,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "sgames",
+   "name": "S-Games",
+   "status": "ok",
+   "count": 71,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "primeprotector",
+   "name": "Prime Protector",
+   "status": "ok",
+   "count": 238,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "merchfox",
+   "name": "Merchfox",
+   "status": "ok",
+   "count": 506,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "feenturm",
+   "name": "Feenturm",
+   "status": "ok",
+   "count": 193,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "starz",
+   "name": "Starz Collectibles",
+   "status": "ok",
+   "count": 225,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "pokefamily",
+   "name": "PokeFamily",
+   "status": "ok",
+   "count": 192,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "cardnation",
+   "name": "CardNation",
+   "status": "ok",
+   "count": 159,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "hikaru",
+   "name": "Hikaru Distribution",
+   "status": "ok",
+   "count": 359,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "metamorph",
+   "name": "Metamorph Center",
+   "status": "ok",
+   "count": 303,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "gsgameon",
+   "name": "GS-Gameon",
+   "status": "ok",
+   "count": 151,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "psydeck",
+   "name": "Psydeck",
+   "status": "ok",
+   "count": 157,
+   "captured_at": "2026-09-23"
+  },
+  {
+   "shop": "versus",
+   "name": "Versus Gamecenter",
+   "status": "ok",
+   "count": 27,
+   "captured_at": "2026-09-23"
   }
  ],
  "stats": {
-  "accepted": 2193,
-  "rejected": 29485,
-  "unmatched_set": 703,
+  "accepted": 3101,
+  "rejected": 33211,
+  "unmatched_set": 927,
   "no_rate": 0,
   "rejection_breakdown": {
-   "ikke en af de fem produkttyper": 10375,
-   "andet kortspil": 4926,
-   "enkeltkort (kortnummer i titlen)": 2686,
-   "gradet kort (psa 10)": 1921,
-   "gradet kort (psa)": 1840,
-   "tilbehoer (sleeves)": 810,
-   "gradet kort (cgc)": 783,
-   "ikke identificeret som Pokemon": 724,
-   "anden produkttype (blister)": 491,
-   "tilbehoer (funko)": 489,
-   "tilbehoer (binder)": 478,
-   "anden produkttype (tin)": 349,
-   "anden produkttype (checklane)": 226,
-   "tilbehoer (deck box)": 208,
-   "tilbehoer (playmat)": 187,
-   "anden produkttype (mini tin)": 185,
-   "tilbehoer (portfolio)": 184,
-   "kasse med flere bokse (case)": 172,
-   "tilbehoer (album)": 170,
-   "tilbehoer (poster)": 149
+   "ikke en af de fem produkttyper": 12053,
+   "enkeltkort (kortnummer i titlen)": 4634,
+   "andet kortspil": 4024,
+   "gradet kort (psa 10)": 1937,
+   "gradet kort (psa)": 1784,
+   "tilbehoer (sleeves)": 834,
+   "ikke identificeret som Pokemon": 756,
+   "anden produkttype (blister)": 638,
+   "tilbehoer (funko)": 540,
+   "anden produkttype (tin)": 510,
+   "tilbehoer (binder)": 496,
+   "tilbehoer (bamse)": 314,
+   "anden produkttype (mini tin)": 306,
+   "anden produkttype (checklane)": 290,
+   "tilbehoer (figur)": 276,
+   "gradet kort (cgc)": 248,
+   "tilbehoer (deck box)": 232,
+   "tilbehoer (portfolio)": 201,
+   "tilbehoer (playmat)": 191,
+   "tilbehoer (poster)": 179
   }
  }
 }
