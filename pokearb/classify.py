@@ -180,6 +180,9 @@ DAMAGED_RE = _boundary_matcher(DAMAGED_TERMS)
 # contain "display" or "box": a display of mini tins, a checklane blister.
 OTHER_FORM_TERMS = (
     "mini tin", "mini tins", "tin", "tins", "blister", "checklane",
+    # Live-stream "breaks": the box is opened on stream, never shipped sealed.
+    # "ETB BREAK", "STREAM PRODUKT" on blazes.dk, 23-09-2026.
+    "break", "breaks", "stream produkt", "live break", "rip and ship",
     "promo pack", "sleeved booster", "blind box",
 )
 OTHER_FORM_RE = _boundary_matcher(OTHER_FORM_TERMS)
@@ -434,6 +437,7 @@ ORDINAL_TRAIL = frozenset({"jahre", "anniversario", "aniversario", "anniversary"
 
 
 PRE_ORDER = re.compile(r"(?<![a-z0-9])pre\s?order(?![a-z0-9])")
+THIRTIETH = re.compile(r"(?<![a-z0-9])(?:30th anniversary(?: celebration)?|celebrations? 30th)(?![a-z0-9])")
 # "(30 Pack)", "6 packs", "36 Bustine", "med 30 Boosterpakker": pack counts.
 # Removed as a phrase, because "Pack" alone belongs to real set names such as
 # "Gem Pack" and "High Class Pack".
@@ -447,6 +451,10 @@ SCRIPT_TAG = re.compile(r"(?<![a-z0-9])[st]\s+(?:chn|chinese|chinesisch|chino)(?
 
 def extract_set_candidate(norm: str) -> str:
     text = PRE_ORDER.sub(" ", norm)
+    # One set, three spellings: "30th Celebration" (TCGdex), "30th Anniversary
+    # Celebration" (poketalk.se, bescards.com) and "30th Anniversary"
+    # (halmeshule.dk), "Celebrations 30th" (pokemillon.com). 23-09-2026.
+    text = THIRTIETH.sub("30th celebration", text)
     text = COUNT_PHRASE.sub(" ", text)
     text = SET_CODE.sub(" ", text)
     # "[S-CHN]" and "[T-CHN]" leave a stray "s" or "t". Only those go: a

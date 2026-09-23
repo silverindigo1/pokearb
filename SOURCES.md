@@ -713,6 +713,55 @@ rorizlair.com, depapierenkorf.be.
 
 ---
 
+## G. Danish sweep, 2026-09-23
+
+Prompted by the owner's list of Danish shops that were missing. 47 Danish
+shops assessed with the method above. mintmark.dk was not used in any way.
+
+### G1. Added (14)
+
+| Shop | Platform | Endpoint used | Terms page checked |
+|---|---|---|---|
+| Halmeshule | Shopify | collections pokemon-produkter, preorder | https://halmeshule.dk/pages/terms-and-conditions |
+| Cappai | Shopify | whole feed (about 35 products) | https://cappai.dk/policies/terms-of-service |
+| Spilforsyningen | Shopify | collection pokemon | https://spilforsyningen.dk/pages/handelsbetingelser |
+| Pokecards | WooCommerce | category 16 | https://pokecards.dk/Handelsbetingelser/ |
+| ER-Games | WooCommerce | category 190, Crawl-delay 10 honoured | https://er-games.dk/handelsbetingelser/ |
+| Snydepels | Shopify | collection tcg-ccg-pokemon | https://snydepels.dk/policies/terms-of-service |
+| Fun-shop | Shopify | two Pokémon collections | https://www.fun-shop.dk/pages/handelsbetingelser |
+| PapAnd | Shopify | two Pokémon collections | https://papand.dk/policies/terms-of-service |
+| TCG Shoppen | Shopify | collection hele-vores-udvalg-af-pokemon | https://www.tcgshoppen.dk/pages/handelsbetingelser |
+| Poké-Shop.dk | Shopify | three sealed collections | https://www.poke-shop.dk/policies/terms-of-service |
+| CardsDirect | Shopify | whole feed (about 55 products) | https://cardsdirect.dk/policies/terms-of-service |
+| Airsoftgeek | Shopify | collection pokemon | https://www.airsoftgeek.dk/policies/terms-of-service |
+| Toys'N'Loot | WooCommerce | category 646 | https://toysnloot.dk/handelsbetingelser/ |
+| Blazes | WooCommerce | categories 1740, 1741 | https://blazes.dk/handelsbetingelser/ |
+
+Robots.txt for all fourteen allows the endpoint and the terms page for
+`User-agent: *`. Only ER-Games sets a Crawl-delay (10 s).
+
+### G2. Rejected
+
+- Pokehulen, https://pokehulen.dk/policies/terms-of-service, afsnit 13 (d):
+  "spidering, crawling eller scraping".
+- CardX, https://www.cardx.dk/policies/terms-of-service, "Brug af
+  hjemmesiden": "Bruge automatiserede systemer til at indsamle data fra
+  hjemmesiden."
+- Nordiccards, https://www.nordiccards.dk/policies/terms-of-service, afsnit 13.
+- Børnenes Kartel, https://www.borneneskartel.dk/robots.txt disallows `/policies/`.
+- KoCardz passed on paper, but WebFetch answered 503 three times for its terms
+  page, so it counts as unverified until a clean fetch.
+- HobbyKniven: robots.txt could not be fetched.
+- Haandpluk (password-protected), Legebyen (no Pokémon), Papklubben and
+  PokémonSalg (both point to the rejected pokemons.dk).
+
+No supported endpoint yet (would need their own adapter): Cardstore CPH,
+Epic Panda and Muggle Alley (DanDomain), Next Level Games (PrestaShop), Faraos,
+MaxGaming, Packmedos, Goblin Games, Spillehulen, Legeland, BR, Bilka, Coolshop,
+Proshop, Elgiganten, Power, Kids-world, Fantask.
+
+---
+
 ## D. Shipping to Denmark
 
 Ranking on the item price alone points at the wrong shop whenever the parcel

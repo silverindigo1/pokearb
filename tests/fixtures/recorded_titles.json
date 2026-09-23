@@ -448,6 +448,39 @@
    "language": "en",
    "set_contains": "ascended heroes",
    "why": "ME2.5 fjernes helt"
+  },
+  {
+   "title": "Pokémon TCG: 30th Anniversary Celebration Elite Trainer Box",
+   "shop": "poketalk",
+   "source": "https://www.poketalk.se/products.json?limit=250",
+   "captured": "2026-09-23",
+   "expect": "accept",
+   "type": "etb",
+   "language": "en",
+   "set_contains": "30th celebration",
+   "why": "samme saet som 30th Celebration"
+  },
+  {
+   "title": "Pokémon Center ETB Celebrations 30th - Inglés",
+   "shop": "pokemillon",
+   "source": "https://www.pokemillon.com/collections/pokemon/products.json?limit=250",
+   "captured": "2026-09-23",
+   "expect": "accept",
+   "type": "etb_pc",
+   "language": "en",
+   "set_contains": "30th celebration",
+   "why": "omvendt raekkefoelge, samme saet"
+  },
+  {
+   "title": "Elite Trainer Box – ME05.5 30th Celebration",
+   "shop": "pokecards",
+   "source": "https://pokecards.dk/wp-json/wc/store/v1/products?per_page=1",
+   "captured": "2026-09-23",
+   "expect": "accept",
+   "type": "etb",
+   "language": "en",
+   "set_contains": "30th celebration",
+   "why": "saetkode ME05.5 fjernes"
   }
  ],
  "constructed": [
@@ -528,6 +561,18 @@
    "title": "Pokémon Journey Together Elite Trainer Box 6x bundle",
    "expect": "reject",
    "why": "flere enheder"
+  },
+  {
+   "title": "Pokémon TCG: 30th Anniversary Elite Trainer Box",
+   "expect": "accept",
+   "type": "etb",
+   "language": "en",
+   "why": "halmeshule.dk skriver 'Anniversary' uden 'Celebration' (set i butikkens katalog 23-09-2026, ikke gemt ordret)"
+  },
+  {
+   "title": "ETB BREAK - 30th Celebration (STREAM PRODUKT)",
+   "expect": "reject",
+   "why": "live-stream break, aldrig sendt forseglet (blazes.dk)"
   }
  ]
 }
