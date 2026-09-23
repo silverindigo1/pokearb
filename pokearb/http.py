@@ -31,6 +31,10 @@ from .config import (
 
 log = logging.getLogger(__name__)
 
+# A timeout is retried twice, with a longer read timeout each time.
+MAX_TIMEOUT_RETRIES = 2
+TIMEOUT_BACKOFF = 20
+
 CACHE_PATH = DATA_DIR / "http_validators.json"
 
 
@@ -95,12 +99,24 @@ class PoliteSession:
             headers.update(self._validators[url])
 
         attempt = 0
+        timeouts = 0
         while True:
             self._wait(host)
             log.debug("GET %s", url)
-            response = self.session.get(
-                url, headers=headers, timeout=REQUEST_TIMEOUT, **kwargs
-            )
+            # Slow shops get a longer read timeout on each retry. Pocket
+            # Monster's Woo API took over 30 s for page 2 on the first GitHub
+            # run (23-09-2026), which cost the whole shop for the day.
+            timeout = REQUEST_TIMEOUT if timeouts == 0 else REQUEST_TIMEOUT * (2 + timeouts)
+            try:
+                response = self.session.get(url, headers=headers, timeout=timeout, **kwargs)
+            except (requests.Timeout, requests.ConnectionError) as exc:
+                timeouts += 1
+                if timeouts > MAX_TIMEOUT_RETRIES:
+                    raise
+                wait = TIMEOUT_BACKOFF * timeouts
+                log.warning("%s svarede ikke (%s), venter %ss og proever igen", host, type(exc).__name__, wait)
+                time.sleep(wait)
+                continue
 
             if response.status_code == 429:
                 attempt += 1

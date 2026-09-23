@@ -68,13 +68,9 @@
       <label for="f-country">Butikkens land</label>
       <select id="f-country">
         <option value="">Alle lande</option>
-        <option value="DK">Danmark</option>
-        <option value="DE">Tyskland</option>
-        <option value="NL">Holland</option>
-        <option value="SE">Sverige</option>
-        <option value="BE">Belgien</option>
-        <option value="ES">Spanien</option>
-        <option value="IT">Italien</option>
+        {% for code, label in country_options %}
+        <option value="{{ code }}">{{ label }}</option>
+        {% endfor %}
       </select>
     </div>
     <div class="field">

@@ -27,6 +27,10 @@ class WooCommerceAdapter(ShopAdapter):
 
         while page <= MAX_PAGES:
             url = f"{endpoint}?per_page={PAGE_SIZE}&page={page}&orderby=id&order=asc"
+            if self.shop.collections:
+                # Category IDs, comma separated: only the sealed Pokemon
+                # categories of shops whose catalogue is mostly singles.
+                url += "&category=" + ",".join(self.shop.collections)
             response = self.session.get(url)
             if response.status_code == 400:
                 # The Store API answers 400 once you page past the last page.

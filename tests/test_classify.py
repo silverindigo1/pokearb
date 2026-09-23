@@ -80,6 +80,8 @@ def test_recorded_titles(case, matcher):
         assert result.accepted, f"burde vaere accepteret: {case['why']} ({result.reason})"
         assert result.product_type == ProductType(case["type"])
         assert result.language == Language(case["language"])
+        if "set_contains" in case:
+            assert case["set_contains"] in result.set_name.lower(), result.set_name
     else:
         assert not result.accepted, (
             f"burde vaere afvist ({case['why']}), men blev {result.product_type} "

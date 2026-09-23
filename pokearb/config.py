@@ -71,6 +71,7 @@ ASSUMED_SHIPPING_DKK: dict[str, float] = {
     "ES": 120.0,
     "IT": 120.0,
     "FR": 110.0,
+    "PT": 120.0,
 }
 ASSUMED_SHIPPING_FALLBACK_DKK = 120.0
 
@@ -110,6 +111,10 @@ class Shop:
     # Empty means walk the whole catalogue.
     collections: tuple[str, ...] = field(default_factory=tuple)
     notes: str = ""
+    # False keeps the shop documented but out of the daily run, for shops
+    # that refuse us (403) or whose adapter is broken. Never used to hide a
+    # shop that simply failed once: that is what last_good is for.
+    enabled: bool = True
 
     @property
     def flag(self) -> str:
@@ -125,6 +130,7 @@ class Shop:
             "ES": "Spanien",
             "IT": "Italien",
             "FR": "Frankrig",
+            "PT": "Portugal",
         }.get(self.country, self.country)
 
 
@@ -205,6 +211,7 @@ SHOPS: tuple[Shop, ...] = (
             "helt, og saetter Crawl-delay op til 10s for navngivne bots. Vi koerer "
             "derfor 5s her, ikke 2s."
         ),
+        enabled=False,  # HTML-adapteren fandt 0 produkter 23-09-2026. Slaaet fra indtil selektorerne er rettet.
     ),
     # --- Germany -----------------------------------------------------------
     Shop(
@@ -292,6 +299,7 @@ SHOPS: tuple[Shop, ...] = (
             "(self-signed i kaeden), saa butikken faldt tilbage paa sidste gode "
             "data. Tjek om det ogsaa sker i GitHub Actions."
         ),
+        enabled=False,  # Svarede HTTP 403 til GitHubs servere ved foerste koersel 23-09-2026. Butikken afviser os, saa vi spoerger ikke dagligt. Koer 'build --only tcgcompany' for at teste igen.
     ),
     Shop(
         key="thetcgplug",
@@ -448,6 +456,9 @@ SHOPS: tuple[Shop, ...] = (
         adapter="shopify",
         base_url="https://www.pokemillon.com",
         ships_to_dk=True,
+        # Kun Pokemon-kollektionen: 4 sider i stedet for 17. Tjekket 23-09-2026:
+        # alle 39 accepterede produkter fra den fulde koersel ligger i den.
+        collections=("pokemon",),
     ),
     Shop(
         key="baruzcard",
@@ -465,6 +476,244 @@ SHOPS: tuple[Shop, ...] = (
         ),
     ),
 
+    # --- Third sweep, 2026-09-23 (SOURCES.md section F) --------------------
+    Shop(
+        key="symbizon",
+        name="Symbizon",
+        country="DK",
+        currency="DKK",
+        adapter="shopify",
+        base_url="https://symbizon.dk",
+        ships_to_dk=True,
+        collections=("pokemon-kort",),
+        shipping=Shipping(
+            amount=49.0,
+            free_over=599.0,
+            source_url="https://symbizon.dk/policies/terms-of-service",
+            checked="2026-09-23",
+            verified=True,
+            note="GLS og DAO pakkeshop 49 kr., gratis over 599 kr. (afsnit 4).",
+        ),
+    ),
+    Shop(
+        key="vaulted",
+        name="Vaulted",
+        country="DK",
+        currency="DKK",
+        adapter="shopify",
+        base_url="https://www.vaulted.dk",
+        ships_to_dk=True,
+        collections=("alt-i-pokemon",),
+        shipping=Shipping(note="Pris vises ved checkout. Gratis fragt fra 1.000 kr."),
+    ),
+    Shop(
+        key="familyevolution",
+        name="Family-Evolution",
+        country="DK",
+        currency="DKK",
+        adapter="shopify",
+        base_url="https://family-evolution.dk",
+        ships_to_dk=True,
+        collections=("pokemon-kort",),
+        notes=(
+            "Betingelsernes afsnit 16 forbyder kopiering af tekst og billeder. "
+            "PokeArb viser kun pris, lager og link."
+        ),
+    ),
+    Shop(
+        key="andcards",
+        name="&Cards",
+        country="DK",
+        currency="DKK",
+        adapter="woocommerce",
+        base_url="https://www.andcards.dk",
+        ships_to_dk=True,
+        # Kategori-id'er: booster-boxe, elite-trainer-box, booster-bundles,
+        # collections-pokemon. Resten af de ca. 1.900 varer er mest gradede kort.
+        collections=("640", "652", "661", "677"),
+        shipping=Shipping(
+            amount=49.0,
+            source_url="https://www.andcards.dk/handelsbetingelser/",
+            checked="2026-09-23",
+            verified=True,
+            note="Butikken skriver 'Fragtpriser fra 49 kr.', saa 49 kr. er laveste sats.",
+        ),
+    ),
+    Shop(
+        key="aquitaz",
+        name="Aquitaz",
+        country="SE",
+        currency="SEK",
+        adapter="shopify",
+        base_url="https://aquitaz.se",
+        ships_to_dk=True,
+        collections=("pokemon-kort-boxes-display-boxes-booster-packs", "pokemon-elite-trainer-boxes-etbs"),
+    ),
+    Shop(
+        key="samlarhobby",
+        name="Samlarhobby",
+        country="SE",
+        currency="SEK",
+        adapter="shopify",
+        base_url="https://www.samlarhobby.se",
+        ships_to_dk=True,
+        collections=("elite-trainer-boxar", "booster-boxar", "booster-boxar-displayer"),
+    ),
+    Shop(
+        key="sgames",
+        name="S-Games",
+        country="AT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://s-games.at",
+        ships_to_dk=True,
+        collections=("pokemon",),
+        shipping=Shipping(
+            amount=13.90,
+            source_url="https://s-games.at/policies/shipping-policy",
+            checked="2026-09-23",
+            verified=True,
+            note="Danmark 13,90 EUR, 2-6 dage. Fri fragt gaelder kun AT og DE.",
+        ),
+    ),
+    Shop(
+        key="primeprotector",
+        name="Prime Protector",
+        country="AT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://primeprotector.at",
+        ships_to_dk=True,
+        collections=("pokemon-tcg",),
+        shipping=Shipping(
+            amount=9.90,
+            source_url="https://primeprotector.at/policies/shipping-policy",
+            checked="2026-09-23",
+            verified=True,
+            note="Danmark 7,90 EUR til 1 kg, 9,90 til 2 kg, 15,90 til 5 kg. PokeArb bruger 2 kg-satsen.",
+        ),
+    ),
+    Shop(
+        key="merchfox",
+        name="Merchfox",
+        country="AT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://www.merchfox.at",
+        ships_to_dk=True,
+        collections=("pokemon-sammelkartenspiel",),
+        shipping=Shipping(note="Pris efter land og vaegt, vises ved checkout."),
+    ),
+    Shop(
+        key="feenturm",
+        name="Feenturm",
+        country="DE",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://feenturm.de",
+        ships_to_dk=True,
+        collections=("pokemon-gesamtes-sortiment",),
+        shipping=Shipping(
+            amount=16.99,
+            source_url="https://feenturm.de/policies/shipping-policy",
+            checked="2026-09-23",
+            verified=True,
+            note="Hele EU 16,99 EUR. Fri fragt over 49 EUR gaelder kun Tyskland.",
+        ),
+    ),
+    Shop(
+        key="starz",
+        name="Starz Collectibles",
+        country="DE",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://starzcollectibles.de",
+        ships_to_dk=True,
+        collections=("pokemon",),
+        shipping=Shipping(
+            amount=14.49,
+            source_url="https://starzcollectibles.de/policies/shipping-policy",
+            checked="2026-09-23",
+            verified=True,
+            note="EU-lande 14,49 EUR.",
+        ),
+    ),
+    Shop(
+        key="pokefamily",
+        name="PokeFamily",
+        country="NL",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://pokefamily.nl",
+        ships_to_dk=True,
+        collections=("pokemon",),
+    ),
+    Shop(
+        key="cardnation",
+        name="CardNation",
+        country="NL",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://www.cardnation.nl",
+        ships_to_dk=True,
+        collections=("pokemon-kaarten",),
+    ),
+    Shop(
+        key="hikaru",
+        name="Hikaru Distribution",
+        country="FR",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://hikarudistribution.com",
+        ships_to_dk=True,
+        collections=("display-pokemon", "etb-coffret-dresseur-delite", "coffret-pokemon", "bundles"),
+    ),
+    Shop(
+        key="metamorph",
+        name="Metamorph Center",
+        country="ES",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://metamorphcenter.com",
+        ships_to_dk=True,
+        collections=("pokemon-tcg",),
+    ),
+    Shop(
+        key="gsgameon",
+        name="GS-Gameon",
+        country="IT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://www.gs-gameon.com",
+        ships_to_dk=True,
+        collections=("sigillati-pokemon",),
+    ),
+    Shop(
+        key="psydeck",
+        name="Psydeck",
+        country="PT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://psydeck.com",
+        ships_to_dk=True,
+        collections=("pokemon",),
+        notes="Betingelsernes afsnit 2 forbyder kopiering af materialer. PokeArb viser kun pris, lager og link.",
+    ),
+    Shop(
+        key="versus",
+        name="Versus Gamecenter",
+        country="PT",
+        currency="EUR",
+        adapter="shopify",
+        base_url="https://versusgamecenter.pt",
+        ships_to_dk=True,
+        collections=("pokemon-tcg-1",),
+    ),
+
 )
 
 SHOPS_BY_KEY = {s.key: s for s in SHOPS}
+
+# What the daily run fetches. Disabled shops stay in SHOPS so their permission
+# record and last known prices are not lost.
+ACTIVE_SHOPS: tuple[Shop, ...] = tuple(s for s in SHOPS if s.enabled)

@@ -19,6 +19,7 @@ from .config import (
     ASSUMED_SHIPPING_FALLBACK_DKK,
     DATA_DIR,
     LAST_GOOD_DIR,
+    ACTIVE_SHOPS,
     SHOPS,
     SHOPS_BY_KEY,
     Shop,
@@ -107,7 +108,7 @@ def apply_shipping(offer: Offer, fx: FxRates) -> None:
 # --------------------------------------------------------------------------
 
 
-def collect_offers(session: PoliteSession, shops=SHOPS) -> tuple[list[Offer], list[dict]]:
+def collect_offers(session: PoliteSession, shops=ACTIVE_SHOPS) -> tuple[list[Offer], list[dict]]:
     all_offers: list[Offer] = []
     run_log: list[dict] = []
 
@@ -208,7 +209,7 @@ def _dedupe_within_shop(products: list[CanonicalProduct]) -> None:
         product.offers = list(best.values())
 
 
-def run(offline: bool = False, shops=SHOPS) -> dict:
+def run(offline: bool = False, shops=ACTIVE_SHOPS) -> dict:
     session = PoliteSession()
 
     if offline:

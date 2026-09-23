@@ -47,6 +47,18 @@ OTHER_TCG = (
 )
 
 POKEMON_MARKERS = ("pokemon", "pokmon", "pocket monsters")
+# Series names in other languages. A shop that files a box under its Pokemon
+# collection often drops the word itself: "Karmesin & Purpur: Maskerade im
+# Zwielicht - Booster Display", "Megaevoluzione: Caos Nascente Display".
+# Recorded from primeprotector.at and gs-gameon.com, 23-09-2026.
+SERIES_MARKERS = (
+    "karmesin and purpur", "schwert and schild", "sonne and mond", "mega entwicklung",
+    "megaevoluzione", "mega evoluzione", "scarlatto and violetto", "scarlatto e violetto",
+    "spada and scudo", "spada e scudo", "ecarlate and violet", "ecarlate et violet",
+    "epee and bouclier", "epee et bouclier", "soleil and lune", "soleil et lune",
+    "escarlata y purpura", "escarlata and purpura", "espada y escudo", "espada and escudo",
+    "mega evolucion", "scarlet and violet", "sword and shield", "sun and moon",
+)
 
 
 def is_pokemon(norm: str) -> bool:
@@ -58,7 +70,9 @@ def is_pokemon(norm: str) -> bool:
     """
     if any(game in norm for game in OTHER_TCG):
         return False
-    return any(marker in norm for marker in POKEMON_MARKERS)
+    return any(marker in norm for marker in POKEMON_MARKERS) or any(
+        marker in norm for marker in SERIES_MARKERS
+    )
 
 
 # --------------------------------------------------------------------------
@@ -123,6 +137,7 @@ PART_UNIT_TERMS = (
     "halve booster box", "half booster box", "halve box", "half box",
     "halbes display", "halbe display", "halv booster box", "halv display",
     "halve display", "half display", "18er display", "quarter display",
+    "half booster display", "halve booster display", "halbes booster display",
     "split display", "loose pack", "single pack", "losse booster",
 )
 PART_UNIT_RE = None
@@ -150,6 +165,14 @@ DAMAGED_TERMS = DAMAGED_TERMS + (
     "danada", "danado", "caja danada", "defectuosa", "defectuoso", "golpeada",
     "danneggiato", "danneggiata", "ammaccato", "ammaccata", "rovinata",
     "abime", "abimee", "endommage", "endommagee",
+    # Shrink wrap removed or torn: a different product from a sealed box.
+    # "NO SHRINK (sans film)" hikarudistribution.com, "OHNE FOLIE"
+    # starzcollectibles.de, "[ Sin Plastico ]" metamorphcenter.com,
+    # "Leggero strappo sulla pellicola" gs-gameon.com, all 23-09-2026.
+    "no shrink", "ohne folie", "sans film", "sin plastico", "senza pellicola",
+    "strappo", "leggero strappo",
+    # Danish: "Med tryk" (pressure mark) matraws.dk, "Med hul i folie" rogerz.dk.
+    "med tryk", "med hul", "hul i folien",
 )
 DAMAGED_RE = _boundary_matcher(DAMAGED_TERMS)
 
@@ -233,6 +256,7 @@ TYPE_PATTERNS: tuple[tuple[ProductType, tuple[str, ...]], ...] = (
             # French, Spanish, Italian
             "coffret dresseur d elite", "dresseur d elite",
             "caja de entrenador elite", "entrenador elite",
+            "caja entrenador de elite", "entrenador de elite",
             "set allenatore fuoriclasse", "allenatore fuoriclasse", "set allenatore",
         ),
     ),
@@ -316,9 +340,12 @@ LANGUAGE_WORD_RES = tuple((lang, _boundary_matcher(words)) for lang, words in LA
 CODE_LANG = {
     "de": Language.DE, "fr": Language.FR, "es": Language.ES,
     "it": Language.IT, "en": Language.EN,
+    # "(CH)" is Chinese in every Pokemon title seen so far: aquitaz.se,
+    # pokefamily.nl, 23-09-2026. Never Switzerland on a product.
+    "ch": Language.ZH,
 }
 TAG_RE = re.compile(
-    r"(?:[\(\[]\s*|\s[-–|/]\s*)(de|fr|es|it|en)\s*(?=[\)\]]|$|\s[-–|/])",
+    r"(?:[\(\[]\s*|\s[-–|/]\s*)(de|fr|es|it|en|ch)\s*(?=[\)\]]|$|\s[-–|/])",
     re.IGNORECASE,
 )
 
@@ -372,6 +399,10 @@ NOISE_WORDS = frozenset(
     cinese spagnolo anglais chinois coreen del la el con da di le et d l it es
     vorbestellung forudbestilling reservering
     sword shield schwert schild zwaard schild svard skold
+    kort cards karten gesamt med boosterbox boosterpakker boosterpakke ovp neuf
+    scelle avec film japonais jetzt vorbestellen hushall household haushalt
+    husstand starz collectibles ch per
+    e y
     """.split()
 )
 
@@ -389,8 +420,9 @@ SET_CODE = re.compile(
     r"|mbe?\d{1,2}"                         # German MBE4
     r"|\d{2,3}thc"                          # Chinese 30thC
     r"|ev\d{1,2}|xy\d{1,2}|bw\d{1,2}"
+    r"|me\d{1,2}|eb\d{1,2}|sl\d{1,2}"   # ME03 (EN), EB09 and SL05 (French)
     r"|\d{2,3}c"                           # 151C
-    r")(?![a-z0-9])"
+    r")(?:\s5)?(?![a-z0-9])"                # the ".5" of EV3.5, ME2.5, SV08.5
 )
 
 
@@ -402,11 +434,20 @@ ORDINAL_TRAIL = frozenset({"jahre", "anniversario", "aniversario", "anniversary"
 
 
 PRE_ORDER = re.compile(r"(?<![a-z0-9])pre\s?order(?![a-z0-9])")
+# "(30 Pack)", "6 packs", "36 Bustine", "med 30 Boosterpakker": pack counts.
+# Removed as a phrase, because "Pack" alone belongs to real set names such as
+# "Gem Pack" and "High Class Pack".
+COUNT_PHRASE = re.compile(
+    r"(?<![a-z0-9])\d{1,3}\s+(?:packs?|booster packs?|boosterpakker|boosterpakke|"
+    r"boosters?(?!\s+(?:bundle|box|boxes|display|displays|brick))|"
+    r"bustine|buste|sobres|karten|carte|cartes)(?![a-z0-9])"
+)
 SCRIPT_TAG = re.compile(r"(?<![a-z0-9])[st]\s+(?:chn|chinese|chinesisch|chino)(?![a-z0-9])")
 
 
 def extract_set_candidate(norm: str) -> str:
     text = PRE_ORDER.sub(" ", norm)
+    text = COUNT_PHRASE.sub(" ", text)
     text = SET_CODE.sub(" ", text)
     # "[S-CHN]" and "[T-CHN]" leave a stray "s" or "t". Only those go: a
     # single letter can be part of a real name, as in "Inferno X".
@@ -545,7 +586,11 @@ class Classification:
 SERIES_NAMES = (
     "heartgold soulsilver", "diamond and pearl", "diamond pearl", "black and white",
     "black white", "sun and moon", "sun moon", "sword and shield", "sword shield",
-    "scarlet and violet", "scarlet violet", "mega evolution", "platinum", "xy",
+    "scarlet and violet", "scarlet violet", "mega evolutions", "mega evolution", "platinum", "xy",
+    # Italian and Spanish series names, stripped only when the rest matches:
+    # "Scarlatto e Violetto Paldea Evolved" (baruzcard.it), while the Spanish
+    # base set "Escarlata y Purpura" still matches its own TCGdex alias.
+    "scarlatto violetto", "escarlata purpura", "spada scudo", "espada escudo",
 )
 
 

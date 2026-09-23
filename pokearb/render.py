@@ -403,6 +403,11 @@ def render_site(payload: dict, products: list[CanonicalProduct]) -> None:
         "deals": deal_list[:12],
         "deal_count": len(deal_list),
         "country_count": len(countries),
+        "country_options": sorted(
+            {(SHOPS_BY_KEY[e["shop"]].country, SHOPS_BY_KEY[e["shop"]].flag)
+             for e in payload.get("shops", []) if e["shop"] in SHOPS_BY_KEY},
+            key=lambda pair: pair[1],
+        ),
         "generated_at": payload.get("generated_at", date.today().isoformat()),
         "fx": payload.get("fx", {}),
         "stats": payload.get("stats", {}),

@@ -17,7 +17,7 @@ import sys
 
 from .adapters import build_adapter
 from .classify import SetMatcher, classify
-from .config import SHOPS, SHOPS_BY_KEY
+from .config import ACTIVE_SHOPS, SHOPS, SHOPS_BY_KEY
 from .http import PoliteSession
 from .pipeline import LATEST_PATH, products_from_payload, run
 from .render import render_site
@@ -136,7 +136,9 @@ def cmd_probe_kelz0r(args) -> int:
 
 def _select_shops(only: str | None):
     if not only:
-        return SHOPS
+        return ACTIVE_SHOPS
+    # Naming a shop explicitly runs it even when it is disabled, which is how
+    # a disabled shop gets re-tested.
     keys = {k.strip() for k in only.split(",") if k.strip()}
     unknown = keys - set(SHOPS_BY_KEY)
     if unknown:
@@ -145,31 +147,36 @@ def _select_shops(only: str | None):
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(prog="pokearb", description="PokeArb prispipeline")
-    parser.add_argument("-v", "--verbose", action="store_true")
+    # -v works before or after the command: "pokearb -v build" and
+    # "pokearb build -v". The workflow uses the second form, and the first
+    # run on GitHub failed because only the first was accepted.
+    verbose = argparse.ArgumentParser(add_help=False)
+    verbose.add_argument("-v", "--verbose", action="store_true", default=argparse.SUPPRESS)
+
+    parser = argparse.ArgumentParser(prog="pokearb", description="PokeArb prispipeline", parents=[verbose])
     sub = parser.add_subparsers(dest="command", required=True)
 
     for name, handler, help_text in (
         ("scrape", cmd_scrape, "hent priser fra butikkerne"),
         ("build", cmd_build, "hent priser og byg sitet"),
     ):
-        p = sub.add_parser(name, help=help_text)
+        p = sub.add_parser(name, help=help_text, parents=[verbose])
         p.add_argument("--offline", action="store_true", help="brug kun cachede data")
         p.add_argument("--only", help="kommasepareret liste af butiksnoegler")
         p.set_defaults(handler=handler)
 
-    p_render = sub.add_parser("render", help="byg sitet ud fra data/latest.json")
+    p_render = sub.add_parser("render", help="byg sitet ud fra data/latest.json", parents=[verbose])
     p_render.set_defaults(handler=cmd_render)
 
-    p_check = sub.add_parser("check-shop", help="hent en enkelt butik og vis resultatet")
+    p_check = sub.add_parser("check-shop", help="hent en enkelt butik og vis resultatet", parents=[verbose])
     p_check.add_argument("key")
     p_check.set_defaults(handler=cmd_check_shop)
 
-    p_probe = sub.add_parser("probe-kelz0r", help="tjek HTML-selektorerne for Kelz0r")
+    p_probe = sub.add_parser("probe-kelz0r", help="tjek HTML-selektorerne for Kelz0r", parents=[verbose])
     p_probe.set_defaults(handler=cmd_probe_kelz0r)
 
     args = parser.parse_args(argv)
-    _configure_logging(args.verbose)
+    _configure_logging(getattr(args, "verbose", False))
     try:
         return args.handler(args)
     except RuntimeError as exc:
