@@ -49,7 +49,7 @@ jobs:
         env:
           POKEARB_CONTACT_URL: https://github.com/${{ github.repository }}
         run: |
-          python -m pokearb.cli build --verbose \
+          python -m pokearb.cli --verbose build \
             ${{ github.event.inputs.only && format('--only {0}', github.event.inputs.only) || '' }}
 
       - name: Vis koerselsloggen
