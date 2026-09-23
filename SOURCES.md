@@ -577,6 +577,142 @@ products, all now covered by recorded-title tests:
 
 ---
 
+## F. Third sweep, 2026-09-23
+
+Found by three parallel searches (DE/AT, Nordics/PL/CZ, NL/BE/FR/IT/ES/PT/IE),
+then re-checked independently in the same session: robots.txt parsed for
+`User-agent: *`, `/meta.json` read for currency and `ships_to_countries`, the
+terms page fetched with scripts and styles stripped and searched for scrap,
+crawl, spider, araña, rastreo, raspado, "parcourir, explorer", robot, Roboter,
+skrab, data mining, Datenextraktion, "automated means", "moyens automatisés",
+søkerobot and nettskrap, and every collection endpoint fetched once. No
+approved shop has a Crawl-delay for `User-agent: *`.
+
+### F1. Added (18)
+
+| Shop | Country | Platform | Endpoint used | Terms page checked | Ships to DK |
+|---|---|---|---|---|---|
+| Symbizon | DK | Shopify | `/collections/pokemon-kort/products.json` | https://symbizon.dk/policies/terms-of-service | https://symbizon.dk/meta.json |
+| Vaulted | DK | Shopify | `/collections/alt-i-pokemon/products.json` | https://www.vaulted.dk/pages/handelsbetingelser | https://www.vaulted.dk/meta.json |
+| Family-Evolution | DK | Shopify | `/collections/pokemon-kort/products.json` | https://family-evolution.dk/policies/terms-of-service | https://family-evolution.dk/meta.json |
+| &Cards | DK | WooCommerce | Store API, categories 640, 652, 661, 677 | https://www.andcards.dk/handelsbetingelser/ | same page: "Vi sender til hele Danmark" |
+| Aquitaz | SE | Shopify | two Pokémon sealed collections | https://aquitaz.se/policies/terms-of-service | https://aquitaz.se/meta.json |
+| Samlarhobby | SE | Shopify | three sealed collections | https://www.samlarhobby.se/policies/terms-of-service | https://www.samlarhobby.se/meta.json |
+| S-Games | AT | Shopify | `/collections/pokemon/products.json` | https://s-games.at/policies/terms-of-service | https://s-games.at/meta.json |
+| Prime Protector | AT | Shopify | `/collections/pokemon-tcg/products.json` | https://primeprotector.at/policies/terms-of-service | https://primeprotector.at/meta.json |
+| Merchfox | AT | Shopify | `/collections/pokemon-sammelkartenspiel/products.json` | https://www.merchfox.at/policies/terms-of-service | https://www.merchfox.at/meta.json |
+| Feenturm | DE | Shopify | `/collections/pokemon-gesamtes-sortiment/products.json` | https://feenturm.de/policies/terms-of-service | https://feenturm.de/meta.json |
+| Starz Collectibles | DE | Shopify | `/collections/pokemon/products.json` | https://starzcollectibles.de/policies/terms-of-service | https://starzcollectibles.de/meta.json |
+| PokeFamily | NL | Shopify | `/collections/pokemon/products.json` | https://pokefamily.nl/policies/terms-of-service | https://pokefamily.nl/meta.json |
+| CardNation | NL | Shopify | `/collections/pokemon-kaarten/products.json` | https://www.cardnation.nl/pages/algemene-voorwaarden | https://www.cardnation.nl/meta.json |
+| Hikaru Distribution | FR | Shopify | four Pokémon collections | https://hikarudistribution.com/policies/terms-of-sale (terms-of-service is an empty placeholder) | https://hikarudistribution.com/meta.json |
+| Metamorph Center | ES | Shopify | `/collections/pokemon-tcg/products.json` | https://metamorphcenter.com/policies/terms-of-service | https://metamorphcenter.com/meta.json |
+| GS-Gameon | IT | Shopify | `/collections/sigillati-pokemon/products.json` | https://www.gs-gameon.com/policies/terms-of-service | https://www.gs-gameon.com/meta.json |
+| Psydeck | PT | Shopify | `/collections/pokemon/products.json` | https://psydeck.com/policies/terms-of-service | https://psydeck.com/meta.json |
+| Versus Gamecenter | PT | Shopify | `/collections/pokemon-tcg-1/products.json` | https://versusgamecenter.pt/policies/terms-of-service | https://versusgamecenter.pt/meta.json |
+
+Every new shop is fetched through a collection or category, so the daily run
+reads only the Pokémon part of catalogues that run to 10.000+ products.
+
+Judgment notes:
+
+- **Family-Evolution**, terms section 16, and **Psydeck**, section 2, forbid
+  copying texts and images. Neither addresses automated access. PokeArb shows
+  only price, stock and a link.
+- **Family-Evolution** section 15 forbids bots that get around purchase limits.
+  That is about buying, which PokeArb never does.
+
+Published shipping rates to Denmark (fetched 2026-09-23, used as verified):
+
+| Shop | Rate | Source |
+|---|---|---|
+| Symbizon | 49 DKK, free over 599 DKK | https://symbizon.dk/policies/terms-of-service (section 4) |
+| &Cards | "Fragtpriser fra 49 kr.", used as 49 DKK | https://www.andcards.dk/handelsbetingelser/ |
+| S-Games | 13.90 EUR, no free threshold for DK | https://s-games.at/policies/shipping-policy |
+| Prime Protector | 7.90 / 9.90 / 15.90 EUR by weight, 9.90 used | https://primeprotector.at/policies/shipping-policy |
+| Feenturm | 16.99 EUR to the whole EU | https://feenturm.de/policies/shipping-policy |
+| Starz Collectibles | 14.49 EUR to EU countries | https://starzcollectibles.de/policies/shipping-policy |
+
+### F2. Passed the checks but left out
+
+- **Pokemagic** (pokemagic.it). Robots.txt allows the Store API for `*` with
+  `Crawl-delay: 10`, but names and blocks two price-comparison crawlers
+  (`GeedoShopProductFinder`, `GeedoProductSearch`) outright, and the shop's own
+  .nl domain serves a captcha to bots. Read as a shop that does not want to be
+  in comparison engines. https://pokemagic.it/robots.txt
+- **Gemipulls** (gemipulls.com). Passes, but only 15 Pokémon products.
+- **Pokekhlass** (pokekhlass.com). Passes, but the seller is named only as
+  "Pokestop" with no address, and https://pokekhlass.com/meta.json reports
+  country US.
+
+### F3. Rejected in this sweep
+
+Anti-scraping clause in the terms (quoted from the shop's own page):
+
+- pokelix.eu, https://pokelix.eu/policies/terms-of-service, Abschnitt 13 (d):
+  "Spam-, Phishing-, Pharm-, Pretext-, Spider-, Crawl- oder Scrape-Aktivitäten"
+- pokestore.no, https://pokestore.no/policies/terms-of-service, avsnitt 12 (i):
+  "søkeroboter eller nettskrapere"
+- manatorsk.com, https://manatorsk.com/policies/terms-of-service, section 12 (i)
+- unsobremas.com, https://unsobremas.com/policies/terms-of-service, sección 12
+- kantocards.com, https://kantocards.com/policies/terms-of-service, sección 12
+- venturacardgames.com, https://venturacardgames.com/policies/terms-of-service, section 12
+- pokebundles.ie, https://www.pokebundles.ie/policies/terms-of-service, section 12
+- discarded.ie, https://discarded.ie/policies/terms-of-service, section 12
+- mcgillicuddystoyshop.ie, https://mcgillicuddystoyshop.ie/policies/terms-of-service, section 13 (e)
+- irishpokefinds.ie, https://irishpokefinds.ie/policies/terms-of-service, section 11
+- pokemonshop.fr, https://www.pokemonshop.fr/policies/terms-of-service, article 12:
+  "parcourir, explorer ou balayer le web" (the French Shopify template)
+- vcollect.fr, https://vcollect.fr/policies/terms-of-service, section 12
+- poke-geek.fr, https://www.poke-geek.fr/policies/terms-of-service, section 5
+  (qualified clause on "moyens automatisés de collecte")
+
+Robots.txt blocks the terms page or the endpoint, or addresses scrapers:
+baltzergames.dk, cardcenter.no, zadoys.ch, cardzone.es, relictcg.com and
+xytoys.nl disallow `/policies/`; cartemagic.com disallows its terms page;
+pokekarty.pl disallows the Store API; tbmj.pt and ilcovodelnerd.com disallow
+`/wp-json/`; zycards.nl, biridama.pt, hamacards.com and games-island.eu
+state or configure against automated collection.
+
+Do not ship to Denmark (own meta.json or terms): cardcorner.at,
+mikiscardshop.at, crispycards.de, shop.comic-galerie.at, smilecards.store,
+geeksheaven.de, tradingcard-temple.de, pokevend.at, spectraltrading.eu,
+laschocards.ch, battle-bear.de, spiel-es.de, rays-kartenhaus.at (terms: AT and
+DE only), speltrollet.se, pokelageret.no, boosterpoint.pl, muksumassi.fi,
+cardoreum.eu, ceescards.eu, pokeiko.com, rezatcg.es. Not stated: tcg-24.de,
+tcg-love.de, mstradingshop.de, theuncommonshop.ch, tcgfanz.nl, fuji-store.fr.
+
+Bot challenge on robots.txt or the endpoint (not worked around):
+lotticards.de, cardpassion.it, pkmwinkel.nl, vmaxcards.nl, lecoindesbarons.com,
+flashstore.es, cartespokemon.com, federicstore.it, raremoncardstore.com,
+pokeboxstore.pt.
+
+No supported endpoint (Shopware, JTL, ePages, plentymarkets, Magento, Odoo,
+Wix, Jimdo, Squarespace, Shoptet, PrestaShop, Jumpseller or custom): among
+others sammelmania.at, comicplanet.de, gate-to-the-games.de, gameworld.de,
+playingcards.de, vpd.fi, shadowball.cz, cardstore.cz, displayz.com,
+spellenrijk.nl, tcghaven.pt.
+
+Stale or too small: kartenbasis.de and pokechest.at (everything sold out),
+kartenmeister (12 products), tradershood.de (closed), tcgportugal.com (9).
+
+Skipped because the robots.txt fetch was refused or timed out, so nothing
+further was requested: keepseven.de, vinticards.com, grubi-co.at,
+tcgeuropa.com, faraos.dk, playoteket.com, collectible.no, pokemonshop.dk,
+monsterkorting.nl, gracianocards.com, pokemart.fr, collectorage.com,
+royalcards.nl, oppacards.com, maximus.be, boosterbox.nl, pokecollect.eu,
+rorizlair.com, depapierenkorf.be.
+
+### F4. Taken out of the daily run
+
+- **TCG Company** (tcgcompany.nl) answered HTTP 403 to GitHub's servers on the
+  first production run, 2026-09-23, although it answered from this sandbox a
+  day earlier. The shop refuses the request, so the daily run no longer asks.
+  `enabled=False` in config; `build --only tcgcompany` re-tests it.
+- **Kelz0r** (kelz0r.dk): the HTML adapter found 0 products. Off until fixed.
+
+---
+
 ## D. Shipping to Denmark
 
 Ranking on the item price alone points at the wrong shop whenever the parcel
