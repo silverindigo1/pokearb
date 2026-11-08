@@ -91,7 +91,7 @@
   "releaseDate": "2026-09-16"
  },
  "30th-c": {
-  "cardCount": 0,
+  "cardCount": 30,
   "id": "30th-c",
   "logo": null,
   "name": "30th Classic Collection",
@@ -699,8 +699,15 @@
   "name": "Pitch Black",
   "releaseDate": "2026-07-17"
  },
+ "me06": {
+  "cardCount": 103,
+  "id": "me06",
+  "logo": null,
+  "name": "Delta Reign",
+  "releaseDate": "2026-11-06"
+ },
  "mee": {
-  "cardCount": 8,
+  "cardCount": 16,
   "id": "mee",
   "logo": null,
   "name": "Mega Evolution Energy",
