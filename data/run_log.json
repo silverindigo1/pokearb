@@ -1,376 +1,376 @@
 {
- "generated_at": "2026-11-11",
+ "generated_at": "2026-11-12",
  "shops": [
   {
    "shop": "matraws",
    "name": "Matraws",
    "status": "ok",
-   "count": 2195,
-   "captured_at": "2026-11-11"
+   "count": 2196,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "musenogslottet",
    "name": "Musen og Slottet",
    "status": "ok",
-   "count": 2476,
-   "captured_at": "2026-11-11"
+   "count": 2481,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "pocketmonster",
    "name": "Pocket Monster",
    "status": "ok",
-   "count": 4335,
-   "captured_at": "2026-11-11"
+   "count": 4397,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "godofcards",
    "name": "God of Cards",
    "status": "ok",
    "count": 2229,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "tcgviert",
    "name": "TCGViert",
    "status": "ok",
    "count": 1012,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "bulkparadise",
    "name": "Bulk Paradise TCG",
    "status": "ok",
-   "count": 163,
-   "captured_at": "2026-11-11"
+   "count": 176,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "tcgshoppers",
    "name": "TCGshoppers",
    "status": "ok",
    "count": 271,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "tcgreus",
    "name": "TcgReus",
    "status": "ok",
-   "count": 1122,
-   "captured_at": "2026-11-11"
+   "count": 1125,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "thetcgplug",
    "name": "The TCG Plug",
    "status": "ok",
    "count": 166,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "poketalk",
    "name": "PokeTalk",
    "status": "ok",
-   "count": 820,
-   "captured_at": "2026-11-11"
+   "count": 810,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "energyvault",
    "name": "Energy Vault",
    "status": "ok",
    "count": 112,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "mtgwebshop",
    "name": "MtgwebshopDK",
    "status": "ok",
    "count": 1848,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "rogerz",
    "name": "Rogerz",
    "status": "ok",
-   "count": 8313,
-   "captured_at": "2026-11-11"
+   "count": 8296,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "sealedcardzz",
    "name": "SealedCardzz",
    "status": "ok",
-   "count": 139,
-   "captured_at": "2026-11-11"
+   "count": 140,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "yonko",
    "name": "Yonko TCG",
    "status": "ok",
    "count": 1011,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "cardify",
    "name": "Cardify",
    "status": "ok",
    "count": 2311,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "lichcards",
    "name": "Lichcards",
    "status": "ok",
-   "count": 397,
-   "captured_at": "2026-11-11"
+   "count": 463,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "bescards",
    "name": "Bescards",
    "status": "ok",
-   "count": 3372,
-   "captured_at": "2026-11-11"
+   "count": 3373,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "davidptcg",
    "name": "DavidPTCG",
    "status": "ok",
    "count": 344,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "spelparken",
    "name": "Spelparken",
    "status": "ok",
-   "count": 290,
-   "captured_at": "2026-11-11"
+   "count": 289,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "tigercards",
    "name": "Tiger Cards",
    "status": "ok",
-   "count": 242,
-   "captured_at": "2026-11-11"
+   "count": 245,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "pokemillon",
    "name": "Pokemillon",
    "status": "ok",
-   "count": 1788,
-   "captured_at": "2026-11-11"
+   "count": 1794,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "baruzcard",
    "name": "BaruZcard",
    "status": "ok",
-   "count": 2345,
-   "captured_at": "2026-11-11"
+   "count": 2346,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "symbizon",
    "name": "Symbizon",
    "status": "ok",
    "count": 153,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "vaulted",
    "name": "Vaulted",
    "status": "ok",
    "count": 108,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "familyevolution",
    "name": "Family-Evolution",
    "status": "ok",
-   "count": 179,
-   "captured_at": "2026-11-11"
+   "count": 180,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "andcards",
    "name": "&Cards",
    "status": "ok",
-   "count": 33,
-   "captured_at": "2026-11-11"
+   "count": 32,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "aquitaz",
    "name": "Aquitaz",
    "status": "ok",
    "count": 321,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "samlarhobby",
    "name": "Samlarhobby",
    "status": "ok",
    "count": 81,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "sgames",
    "name": "S-Games",
    "status": "ok",
-   "count": 49,
-   "captured_at": "2026-11-11"
+   "count": 34,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "primeprotector",
    "name": "Prime Protector",
    "status": "ok",
    "count": 239,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "merchfox",
    "name": "Merchfox",
    "status": "ok",
    "count": 536,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "feenturm",
    "name": "Feenturm",
    "status": "ok",
    "count": 187,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "starz",
    "name": "Starz Collectibles",
    "status": "ok",
    "count": 277,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "pokefamily",
    "name": "PokeFamily",
    "status": "ok",
    "count": 220,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "cardnation",
    "name": "CardNation",
    "status": "ok",
    "count": 159,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "hikaru",
    "name": "Hikaru Distribution",
    "status": "ok",
    "count": 362,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "metamorph",
    "name": "Metamorph Center",
    "status": "ok",
    "count": 329,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "gsgameon",
    "name": "GS-Gameon",
    "status": "ok",
    "count": 177,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "psydeck",
    "name": "Psydeck",
    "status": "ok",
-   "count": 183,
-   "captured_at": "2026-11-11"
+   "count": 182,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "versus",
    "name": "Versus Gamecenter",
    "status": "ok",
    "count": 38,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "halmeshule",
    "name": "Halmeshule",
    "status": "ok",
-   "count": 91,
-   "captured_at": "2026-11-11"
+   "count": 96,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "cappai",
    "name": "Cappai",
    "status": "ok",
    "count": 30,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "spilforsyningen",
    "name": "Spilforsyningen",
    "status": "ok",
-   "count": 290,
-   "captured_at": "2026-11-11"
+   "count": 289,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "pokecards",
    "name": "Pokecards",
    "status": "ok",
    "count": 100,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "ergames",
    "name": "ER-Games",
    "status": "ok",
    "count": 106,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "snydepels",
    "name": "Snydepels",
    "status": "ok",
    "count": 39,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "funshop",
    "name": "Fun-shop",
    "status": "ok",
-   "count": 188,
-   "captured_at": "2026-11-11"
+   "count": 182,
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "papand",
    "name": "PapAnd",
    "status": "ok",
    "count": 180,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "tcgshoppen",
    "name": "TCG Shoppen",
    "status": "ok",
    "count": 30,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "pokeshopdk",
    "name": "Poké-Shop.dk",
    "status": "ok",
    "count": 14,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "cardsdirect",
    "name": "CardsDirect",
    "status": "ok",
    "count": 66,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "airsoftgeek",
    "name": "Airsoftgeek",
    "status": "ok",
    "count": 70,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   },
   {
    "shop": "toysnloot",
@@ -385,34 +385,34 @@
    "name": "Blazes",
    "status": "ok",
    "count": 184,
-   "captured_at": "2026-11-11"
+   "captured_at": "2026-11-12"
   }
  ],
  "stats": {
-  "accepted": 3471,
-  "rejected": 38877,
-  "unmatched_set": 981,
+  "accepted": 3476,
+  "rejected": 38988,
+  "unmatched_set": 985,
   "no_rate": 0,
   "rejection_breakdown": {
-   "ikke en af de fem produkttyper": 13152,
-   "enkeltkort (kortnummer i titlen)": 6935,
-   "andet kortspil": 4560,
-   "gradet kort (psa 10)": 2501,
-   "gradet kort (psa)": 1904,
-   "tilbehoer (sleeves)": 883,
-   "ikke identificeret som Pokemon": 798,
-   "anden produkttype (blister)": 707,
+   "ikke en af de fem produkttyper": 13176,
+   "enkeltkort (kortnummer i titlen)": 6944,
+   "andet kortspil": 4620,
+   "gradet kort (psa 10)": 2492,
+   "gradet kort (psa)": 1900,
+   "tilbehoer (sleeves)": 884,
+   "ikke identificeret som Pokemon": 804,
+   "anden produkttype (blister)": 705,
    "tilbehoer (funko)": 575,
-   "anden produkttype (tin)": 566,
-   "tilbehoer (binder)": 521,
+   "anden produkttype (tin)": 569,
+   "tilbehoer (binder)": 522,
    "anden produkttype (mini tin)": 385,
-   "anden produkttype (checklane)": 369,
+   "anden produkttype (checklane)": 367,
    "tilbehoer (bamse)": 350,
    "tilbehoer (figur)": 289,
    "tilbehoer (deck box)": 283,
    "gradet kort (cgc)": 256,
    "tilbehoer (portfolio)": 221,
-   "tilbehoer (playmat)": 203,
+   "tilbehoer (playmat)": 202,
    "tilbehoer (poster)": 193
   }
  }
