@@ -684,49 +684,49 @@
   "If-None-Match": "W/\"4685-kEemZpbCPj90lX/Z0QwotY7X/Cw\""
  },
  "https://aquitaz.se/collections/pokemon-elite-trainer-boxes-etbs/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:2e7b93d04076c23068c36ea974f5bcb48388cd185b6120ce28b166fba4afa837\""
+  "If-None-Match": "W/\"sfr:computation:v2:bd1e2ef8845353782d2540ab544fbdf8c9e16ce3a867e6e8359eee8091de98a4\""
  },
  "https://aquitaz.se/collections/pokemon-kort-boxes-display-boxes-booster-packs/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:bcec5cc653a9776db028fbadedaad106cf4e80695c54dc835efe9b8f281ea7c6\""
+  "If-None-Match": "W/\"sfr:computation:v2:c1f5c7232a56676ecd055b7a01d4346bff07490a8142941f204b69912e9267eb\""
  },
  "https://baruzcard.it/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:91bb1bb25d7f40c581df40e6935f0b700ebf18ed57287a80db383742de3fcfb3\""
+  "If-None-Match": "W/\"sfr:computation:v2:a724371ecbf59dc14daf06edef2d8d6e5f1c09b8091055b726878f969f597422\""
  },
  "https://baruzcard.it/products.json?limit=250&page=10": {
-  "If-None-Match": "W/\"sfr:computation:v2:0c211e0b09167c1d6fae103f5908cea7c7bb3d6e97c22fba5cc78c55b633e045\""
+  "If-None-Match": "W/\"sfr:computation:v2:d31842034247528cdccdd3a49431025ca1138c6d6f0c185fd79b727f1dc4057f\""
  },
  "https://baruzcard.it/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:2b1101d3bdb0c078e5309d1c43d19bf451d18d59d9f221495dea25a9177cd633\""
+  "If-None-Match": "W/\"sfr:computation:v2:3157ea44a4dc2c3aae982ac2b1fab49b07bcb425ad8a8eaa19770479b5f3dcce\""
  },
  "https://baruzcard.it/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:d5858d75486e5b026f180af2847a2dd4311b5553f25e37a0e1aef8a31abbd1d2\""
+  "If-None-Match": "W/\"sfr:computation:v2:91b85b29ae07282ade276ecc8ebb8271df5f167b94effd554dbe36193263d4ce\""
  },
  "https://baruzcard.it/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:ceea4514e9085cbd8864788ffdddfebb38f47151b93d128641d1f3981e3ebf86\""
+  "If-None-Match": "W/\"sfr:computation:v2:ff27c2af1af58b3ffe59d5019a609aa1b05ec0414ddabb07f65a52a25ac0cfb8\""
  },
  "https://baruzcard.it/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:ea3056e5698e7ec50a9d559a3fea7858ffeeefc420a3102701e5e6c0ddad7a9c\""
+  "If-None-Match": "W/\"sfr:computation:v2:0e9567de55283f3810dc047c1729b55deb7b1cc758833795b1afbedc0df7ab59\""
  },
  "https://baruzcard.it/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:20c7b69ffbae1e153270146e3eae52de1100445bd1f7fa99800cd5862b559774\""
+  "If-None-Match": "W/\"sfr:computation:v2:fe748efac8ec29da8f899740256e6033e732ab96624e3c3f19414b79c1525377\""
  },
  "https://baruzcard.it/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:5c0ecd551bc346fe7596114b4058a4e2aceaf22bf80e7b0b6c81311bfa1d981c\""
+  "If-None-Match": "W/\"sfr:computation:v2:5a265c58aa6639f5966451a5e59f29c62497d8d76f662898ea5ee5ae734af376\""
  },
  "https://baruzcard.it/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:824a67bdcf13638d03c2dd6401894ca3ad0a9fa9ef2eb730cee82b39d91e5531\""
+  "If-None-Match": "W/\"sfr:computation:v2:c16e94b6754175159164705784a14b8a958afa9262d88444b6e5832ba9413960\""
  },
  "https://baruzcard.it/products.json?limit=250&page=9": {
-  "If-None-Match": "W/\"sfr:computation:v2:e19615562b39838f6946cba701d415ac570e51a878053d7d210048065a31da91\""
+  "If-None-Match": "W/\"sfr:computation:v2:70a0c785a5fdcf9439add8f73e2641d7864ecfd798668ebabb4a133c9d6d75b0\""
  },
  "https://blazes.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc&category=1740,1741": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 11:37:42 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 12:23:29 GMT"
  },
  "https://blazes.dk/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc&category=1740,1741": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 11:37:42 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 12:23:29 GMT"
  },
  "https://blazes.dk/wp-json/wc/store/v1/products?per_page=100&page=3&orderby=id&order=asc&category=1740,1741": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 11:37:42 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 12:23:29 GMT"
  },
  "https://bulkparadise-tcg.de/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
   "If-Modified-Since": "Wed, 18 Nov 2026 11:07:40 GMT"
@@ -738,100 +738,100 @@
   "If-None-Match": "W/\"sfr:computation:v2:94f000f3d4478b36cef809de95be0a4c94c46e841f38e43bf73093bdda02615a\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:d0a32d3472b2aa1c95c7669d06236065fc1e5af7289f71d02031387eb179f98e\""
+  "If-None-Match": "W/\"sfr:computation:v2:d981076d6a077aa261d53ddf447fa5e150706b80d92973b5c5ba183b05c8d075\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:57ec44baeadf1ddcdd5858754b0567fa02660bc52fefc0462ea55e81d449310d\""
+  "If-None-Match": "W/\"sfr:computation:v2:aba3c84f6ada6c5c0f0858851f17b2653d4ec03e09bfff8f93f6f947e551eebd\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:dd15c589f43daeaf302b40732cd58342458d570dbb6da0db7b0d560a33b6b9e2\""
+  "If-None-Match": "W/\"sfr:computation:v2:83940af7cdf9813fb0181ca92dc231284d6df80383d3adc73feda689e448298e\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:018a29007552a1fc16666953d1789c30c9c768a1d80bb7ea6f4eaa98877130cc\""
+  "If-None-Match": "W/\"sfr:computation:v2:67ad66aa378decd16b11c0dc3d8dfb68fdf80898ac354ebc7eafb69d3958f82a\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:7a263333b9e707f771aaeacd518886898d53dfa1df5052c34ee93e4daf4c0265\""
+  "If-None-Match": "W/\"sfr:computation:v2:777e738803696d292a33549713b8b026055886606d2c860de1dc05ef7126ccb1\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:4db857b773584ab159a2a16722612968d08aa5e9d64251725fb4073a355968da\""
+  "If-None-Match": "W/\"sfr:computation:v2:1fcc23622d1b0d366c993e49d11153ea71326ca791d0860b33d14c8db4db71b1\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:4db95cc80af7c6e71953679984476158ee5f2249073e072264b78a0f9f64f9eb\""
+  "If-None-Match": "W/\"sfr:computation:v2:b89fa7a1c3a1190279908088d48259a2e29a529acc54a732b9a83ac95a2a9d00\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:af2d22614e8814b5a84fb713b08c3323bfcedf424577edaf045c89d230515e45\""
+  "If-None-Match": "W/\"sfr:computation:v2:6478e71a8936025edd87aac16aaa4ad6100fe7cb6574f9633670d618e87fa66f\""
  },
  "https://cardifytcg.nl/products.json?limit=250&page=9": {
   "If-None-Match": "W/\"sfr:computation:v2:3db8cb8cf1bc69dc73228cf1bc7ac81d35423331ae9c6ac4bb347811d2b4c374\""
  },
  "https://cardsdirect.dk/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:55370e77ae8079dc2c5bd39905b7dc2a65f58f5c39253ed49e752b73355300e0\""
+  "If-None-Match": "W/\"sfr:computation:v2:3600d6b640bf273d1fde66ec78475663420cf064272e5593a4995d4021301fcc\""
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.BGN.EUR.SP00.A?lastNObservations=1&format=csvdata": {
   "If-Modified-Since": "Wed, 31 Dec 2025 14:56:55 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.CHF.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.CZK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.DKK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.GBP.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.HUF.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.NOK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.PLN.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.RON.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://data-api.ecb.europa.eu/service/data/EXR/D.SEK.EUR.SP00.A?lastNObservations=1&format=csvdata": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 14:57:11 GMT"
+  "If-Modified-Since": "Fri, 20 Nov 2026 14:57:07 GMT"
  },
  "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 12:10:01 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 09:49:38 GMT"
  },
  "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 12:10:01 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 09:49:38 GMT"
  },
  "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=3&orderby=id&order=asc": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 12:10:01 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 09:49:38 GMT"
  },
  "https://davidptcg.nl/wp-json/wc/store/v1/products?per_page=100&page=4&orderby=id&order=asc": {
-  "If-Modified-Since": "Thu, 19 Nov 2026 12:10:01 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 09:49:38 GMT"
  },
  "https://energy-vault.be/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:4190425ec016c4491c806456b9e13a26db17325d96d2933ba717bf3cdadd1c31\""
+  "If-None-Match": "W/\"sfr:computation:v2:40345aa11a80e793d8d20396b4ed56b3a82622d8aa4a771bf904630d04afb6f2\""
  },
  "https://er-games.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc&category=190": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 13:53:23 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 04:27:52 GMT"
  },
  "https://er-games.dk/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc&category=190": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 13:53:23 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 04:27:52 GMT"
  },
  "https://family-evolution.dk/collections/pokemon-kort/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:3dfd3c0af211a7e0c562ea0ca35411bac27b0d90912ddce19247a870e7bcd34e\""
+  "If-None-Match": "W/\"sfr:computation:v2:e4386009d70fb789af39ccbb9ed84bb4666777339a940f9f9a6a36a38235d7c6\""
  },
  "https://feenturm.de/collections/pokemon-gesamtes-sortiment/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:e97928455e76688eeaa1c08263e54d569e10d324a5a7da73b60bd9f053afa81f\""
+  "If-None-Match": "W/\"sfr:computation:v2:3840f8a7e564f9dda5d086ee5afcb5134d0da69715e86a198f07f64388bba2e2\""
  },
  "https://godofcards.com/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:357764b6d8ace5e27321860096a51f7ed520e5f6f476233d7cb5de3812207bd4\""
+  "If-None-Match": "W/\"sfr:computation:v2:2ee7d3189b0fe30c91dfa332cc361fb8b23c8428b17c5e1a1fbc5d452bc8aee4\""
  },
  "https://godofcards.com/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:24aeff7ab9e86c68c98f6037442ac31c65c459a85f40be6a0f8a9267c27f0386\""
+  "If-None-Match": "W/\"sfr:computation:v2:4c07895d14ef7ea40e1b0f4d8cc863f005899d43f94e1577a1d12d333e655d9e\""
  },
  "https://godofcards.com/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:49162217a47dd8e6800004515a7b9f8be925620028d749a5b3ea8f3a31c8a6bd\""
+  "If-None-Match": "W/\"sfr:computation:v2:3c3355ff68d1547c7e9282078a88e43e38f8614fe34d0e654afcdce641c48f22\""
  },
  "https://godofcards.com/products.json?limit=250&page=4": {
   "If-None-Match": "W/\"sfr:computation:v2:c204503354947155f1c97ee950ed4fcd343bfc137f3381b69990e6e76d6e4227\""
@@ -843,410 +843,410 @@
   "If-None-Match": "W/\"sfr:computation:v2:a3a1c8f06826d59e3d9ca47c0e64a532770cce34a1228877ff8113e8d4649822\""
  },
  "https://halmeshule.dk/collections/pokemon-produkter/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:6d9e38b65f52c65cc73bbfb53443dc50e3f971ac7381ed25efadbb509a81ce0f\""
+  "If-None-Match": "W/\"sfr:computation:v2:1dc22e0d05198398c86ded9368810a311d719628dd516a3f11f7c65be755e272\""
  },
  "https://halmeshule.dk/collections/preorder/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:d981e38dce90274a3701a6cf372fef351bf170b0584696088bed9280704c5d29\""
+  "If-None-Match": "W/\"sfr:computation:v2:d9328bc4454768e7d8039bf63ffcb05c668a173fa811afccdc04700bbdd70e47\""
  },
  "https://hikarudistribution.com/collections/bundles/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:a3784109f9465271d401c2f03586bdea2f29120b6c240d1300ef93d614e5e59d\""
+  "If-None-Match": "W/\"sfr:computation:v2:e7886e2ffb6e161eee614fe8078d4855468f2fbd42d653982c89bef40a6c9370\""
  },
  "https://hikarudistribution.com/collections/coffret-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:5f510b60cf9df5c247d1caa6e2be672a7b189180fb6aadf5710b6664ccf0742d\""
+  "If-None-Match": "W/\"sfr:computation:v2:ef9937815930935733ac1d32969947efbdd1d665aebc475240d3716bae198def\""
  },
  "https://hikarudistribution.com/collections/display-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:be02c64ab3b736be4e36377f15f862b93d43a95fb659cf9cfbeb71b983797d6d\""
+  "If-None-Match": "W/\"sfr:computation:v2:2b4df0196002dac4089fd1abdfa2792e0b1046b829c2812d4fdbcdc691008f92\""
  },
  "https://hikarudistribution.com/collections/etb-coffret-dresseur-delite/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:a0e6f00ed2c5fb86ec312d164a9d79218ea47093cab94ebc731e1e56cc09895b\""
+  "If-None-Match": "W/\"sfr:computation:v2:7ff5e14a67a832ea3379d35f07408c6c9d123846eae868488d39bfb2035eaa06\""
  },
  "https://lichcards.nl/collections/alle-tcg-producten/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:a2c05647266184f2e71ba96bef5b760787054c21fd97060c0b85261290939f7f\""
+  "If-None-Match": "W/\"sfr:computation:v2:ff0261bdc505b2b73d6b633dc7e054dd9310489f3e05884ef325925e8738a9ed\""
  },
  "https://lichcards.nl/collections/alle-tcg-producten/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:adbd568d5e553432b9b256510ed9120f82e071d445c5c3380256f4543aec25e8\""
+  "If-None-Match": "W/\"sfr:computation:v2:19939c70f8f8652192f9e75ec625b078fccf5909bb91589984968d9f7c409b90\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:4d6db5b5406a263ff36c5485532209082e9bf42e707e75823720e3831b2f7364\""
+  "If-None-Match": "W/\"sfr:computation:v2:d572f19ad0e1b2e214a49ba8f8cf5414ce9adfcfd42f3fdedc876084453bc392\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:c83096e6c0fd95f9e5961c0f7db4f8deee03bd0af59ee026d7d93e00cd1ec080\""
+  "If-None-Match": "W/\"sfr:computation:v2:b80cfeb7e331038a99bf514b9796589a1bc1ae4e55383ea5fe3c02fa3ea7f06d\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:bda4f70b751ae235088b994e4f11d69ffe0422035c57eefb558af92813dd32f9\""
+  "If-None-Match": "W/\"sfr:computation:v2:0d9adcaae9222bfa48de66ba6d5b122841c98b79d5f30cc9896ff37c9884485b\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:34c797a312792acafcf1010ad20dff54f752c6e62006d6bcbf10fd73518b41aa\""
+  "If-None-Match": "W/\"sfr:computation:v2:6573d323c69cb90bafa19b21829a2fdabb62e5bb965b4ecf226a9b21ba2eb292\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:c49edb07f7693c820a927016a7de1b8a41dc0f1e857bf199667b2778d851fca6\""
+  "If-None-Match": "W/\"sfr:computation:v2:7cde1a0cb183026eae4ef5851e5ca80db3c574c5f9bbf1635ec7bb39043272e0\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:69be06dc71c06591eaa222c714dbc6bc14bb42b8a1e53a7ab087973359099541\""
+  "If-None-Match": "W/\"sfr:computation:v2:fef6981037a25c04fb15bf5af72e87d0980d21ede85eedd13a6082ddef775c1c\""
  },
  "https://matraws.dk/collections/alt-pokemon/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:9c5feb7dedd0fcb804a6a1eca486f1b7383878dad7d7ff7f380aef32c228c08d\""
+  "If-None-Match": "W/\"sfr:computation:v2:b9b904525a076a0fb910468f09729411f2277696495a73f76338d0aac5a346ff\""
  },
  "https://matraws.dk/collections/pokemon-collection-boxes/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:bd2279739148bcee82aca09212fb671fbb16de3a62491b84e010e19503bff40b\""
+  "If-None-Match": "W/\"sfr:computation:v2:ec51d33a304fdb4f41934ebad618b466a5bb8f34d83e694e8d3443bd82fa0772\""
  },
  "https://metamorphcenter.com/collections/pokemon-tcg/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:8df419f0ef3d75f78a66c824a03596b003cad691ac6ebb3670ccc3df7d12b359\""
+  "If-None-Match": "W/\"sfr:computation:v2:3aa90ba9bfa17cbffbeae7e8a18483b92f80970656be6549de27c919c64fee91\""
  },
  "https://metamorphcenter.com/collections/pokemon-tcg/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:3359fba15f9fa19cb28e84d12414727e665f75ed41e61fa2f57d7b41d546b474\""
+  "If-None-Match": "W/\"sfr:computation:v2:2fe128d9bd0baa15a9f8b8f39b04dd0dade09764a2f997ffbe941ec249decd4d\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:b94887cf1e651005de0654c0fc9cb3453189c3aeaa1d686bccdd27aa16f18c9b\""
+  "If-None-Match": "W/\"sfr:computation:v2:e419689752d199b51eb7c54a4fb6e4436b41e243b1d7f36106ced24c30e3b302\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:e3062ad0ed2a8d43f223e624f67b351684930f8ff61df17a3014e3324f29dcbf\""
+  "If-None-Match": "W/\"sfr:computation:v2:77f3da67f55e86c402c8df04f0b653595a6e82a945abdbd0fc820476297a7b3b\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:23b90dcde3118ba846ce2859b74d2fa8dc0acc35bef2c53d661a21210e1be795\""
+  "If-None-Match": "W/\"sfr:computation:v2:03adee907cd1b4f20fbbbef44e7c3bfdd914478d838c3b9923a86d50cc9358a8\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:17d2962d9d316a6a8538441056473912eac2aad6dfa02a73f2de01038f961894\""
+  "If-None-Match": "W/\"sfr:computation:v2:e9290f37100c6cdd3f88057670d7f7637e7a6c0b0c4cf6c04f1eaa2de13a1764\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:1632d34e85bedc479b1b5d0fbdad3dd0d1ab6f4701dea5e1a7bac52286dab999\""
+  "If-None-Match": "W/\"sfr:computation:v2:2f747ed68dc7d01c49d9702e161add04bdf02400e4d7d1d5a46d4e762dd8fc1d\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:c15c9561763a9ca7d98a6047ccb57d120d6635e119629d677470be9fcdf88890\""
+  "If-None-Match": "W/\"sfr:computation:v2:1be81439278bfc451a0e920db8dbf66f06f0f40607648b43842f5b022fbe2c18\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:79a71fc885ef210284821bcd040a8905ce1bf26feb5c3766c19e844da2230aa0\""
+  "If-None-Match": "W/\"sfr:computation:v2:cca0ae7bd809fb0a18739bff62a854155ac9ffc3e80ab5b5a8f7a1b84d42f79e\""
  },
  "https://mtgwebshop.dk/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:4f8141cf680e0017b4cec0cef31aaf0319ae4040daaff9cec65099d58bff6ecc\""
+  "If-None-Match": "W/\"sfr:computation:v2:b5d96a8dc6bf244f2a4c58d68c23b28aea6ba6fc95b1ad8c8595443a85f308fc\""
  },
  "https://papand.dk/collections/alt-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:df36f1734917e389447b4cfed7caa563badb548ab4ee696c4154ff6c04c8afd6\""
+  "If-None-Match": "W/\"sfr:computation:v2:8c6d8814d38405c1bb648fb04cc0b126d922e4aab8300c07208b3c3673effdb7\""
  },
  "https://papand.dk/collections/pokemon-elite-trainer-box/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:bdc46cc6fa24b9517c98a3f08963b60370441bab68438e39dcbb26905b28b399\""
+  "If-None-Match": "W/\"sfr:computation:v2:ea2bb0cff6bb609e0e92a194ce557c55ae4043ff8ca0b67f8490f8db5313b172\""
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:11 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=10&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=11&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=12&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=13&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=14&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=15&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=16&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=17&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=18&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=19&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=2&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:11 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=20&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=21&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=22&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=23&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=24&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=25&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=26&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=27&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=28&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=29&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=3&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:22 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=30&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=31&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=32&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=33&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=34&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=35&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=36&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=37&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=38&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=39&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=4&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:22 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=40&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=41&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=42&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=43&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=44&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:01:06 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=45&orderby=id&order=asc": {
   "If-Modified-Since": "Sun, 15 Nov 2026 12:53:56 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=5&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:27 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=6&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:32 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=7&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:37 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=8&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pocketmonster.dk/wp-json/wc/store/v1/products?per_page=100&page=9&orderby=id&order=asc": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:41 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:16:39 GMT"
  },
  "https://pokecards.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc&category=16": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:16 GMT"
+  "If-Modified-Since": "Sat, 21 Nov 2026 12:56:50 GMT"
  },
  "https://pokefamily.nl/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:5ac8c821340ce22431e6449af8ee82c24fe6de09642263f5e5121b3f12b43535\""
+  "If-None-Match": "W/\"sfr:computation:v2:62cd04bd426a9da60976928d1d85579c3cdeb193a7ad231664394d7f33525357\""
  },
  "https://primeprotector.at/collections/pokemon-tcg/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:3a78e28d2ff3907437b1df7549e16b6279d710b5381013550df09e57a1f1f7ab\""
+  "If-None-Match": "W/\"sfr:computation:v2:47606f446fca9d9f15ea4cb9ad3a67ba2ebd7c67e8a7d14fc6376f676c44c8d7\""
  },
  "https://psydeck.com/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:6e08eed0830e327ceb083eb84fd89386d7bdae8f6f33f5febe83a237bd720172\""
+  "If-None-Match": "W/\"sfr:computation:v2:9b3bab1b769ad46ee4552e9d9e41ed9f942c60c2a8952889f70dc2199719fc1e\""
  },
  "https://rogerz.dk/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:2173918b418e482468b2227127a9c251c743d254bbbd55afd939b48f84972809\""
+  "If-None-Match": "W/\"sfr:computation:v2:de2b1c98b8a707c1c46ae9ed708e32fea99f02dbd3c307f399b3f996d47150a0\""
  },
  "https://rogerz.dk/products.json?limit=250&page=10": {
-  "If-None-Match": "W/\"sfr:computation:v2:e9c91e06392e522fe1ac10b5f661e4ea1aec46a9812e0415027f79852dca7c3b\""
+  "If-None-Match": "W/\"sfr:computation:v2:65aa7e200825183039f8813625d0c3a749dd5a1943ede9fcbcfd264821b437d7\""
  },
  "https://rogerz.dk/products.json?limit=250&page=11": {
-  "If-None-Match": "W/\"sfr:computation:v2:ea36f98112677558327ab0395822f9f5c672331f55f5f9d5ab9935db84c7c977\""
+  "If-None-Match": "W/\"sfr:computation:v2:7d2a30647fe1f28506d9909db3207905a952d48fad63785946fa7f7da72b103d\""
  },
  "https://rogerz.dk/products.json?limit=250&page=12": {
-  "If-None-Match": "W/\"sfr:computation:v2:329e12dd022bf1bf7f36a21e1fdaffcfe72a2f1ae1f1940e5a961aa4e65a48ca\""
+  "If-None-Match": "W/\"sfr:computation:v2:9c0a9938b2cf3a11115b19b980cd4688f682d727e06cd2f16f79d418f27a6d01\""
  },
  "https://rogerz.dk/products.json?limit=250&page=13": {
-  "If-None-Match": "W/\"sfr:computation:v2:57ae4f1bd53b3476bde69a213313381844fcd7499a06bc7c54a933b857c97ddc\""
+  "If-None-Match": "W/\"sfr:computation:v2:1c20532098698bf948db721e42bafdf2a0586c5496a514e752cc3169a3ef5547\""
  },
  "https://rogerz.dk/products.json?limit=250&page=14": {
-  "If-None-Match": "W/\"sfr:computation:v2:05fcb8e8ec5f31e2bc5f3cd260278e01f5e33005541c5c6d8722788f385f8f74\""
+  "If-None-Match": "W/\"sfr:computation:v2:7fae829ce9e5b20b9cd9503e5309c5dbe2250f503ba90891d6bba206b185a25d\""
  },
  "https://rogerz.dk/products.json?limit=250&page=15": {
-  "If-None-Match": "W/\"sfr:computation:v2:376f5b85d83e0f76f363025d7f3804e784a1709f45b47719cfa0760e9cf40e73\""
+  "If-None-Match": "W/\"sfr:computation:v2:ffd513b5060cb2d79c9d4cf8a75a80af7129be81209b684da916c58cd0e4aa20\""
  },
  "https://rogerz.dk/products.json?limit=250&page=16": {
-  "If-None-Match": "W/\"sfr:computation:v2:a66581afa4278ba677d05afa15ddf5f38dbdfca0b2a22119152f3eefb0138a38\""
+  "If-None-Match": "W/\"sfr:computation:v2:42f95d5a83b21fab714adbaf7632f7742d32fed7fe9fc1c2ef29a6226d580283\""
  },
  "https://rogerz.dk/products.json?limit=250&page=17": {
-  "If-None-Match": "W/\"sfr:computation:v2:7ecc79e5548ca9cb2079065c83159536754142d4cc546acab83f28be5e1427eb\""
+  "If-None-Match": "W/\"sfr:computation:v2:32c357a49ad14d814046a90d1a73f00bf39a4d619652bb91faecc7ef4a505dd9\""
  },
  "https://rogerz.dk/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:73b66ec81ae806285b5cb4da6bde2fe0842d108bff12fde02afbc8ff0a73c323\""
+  "If-None-Match": "W/\"sfr:computation:v2:999c27b6c1339c4984171aaa691b3edfe034c98bf61463794981ccb9ae2dee5f\""
  },
  "https://rogerz.dk/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:26c04815f223d0dead4883ab85e54f6efc59711bbd4ae885e6d37b4abfedf1d9\""
+  "If-None-Match": "W/\"sfr:computation:v2:aa794b18427cd4d313a2402ed3e762e196fe130d1aa5a6eafc6f737bb136725c\""
  },
  "https://rogerz.dk/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:cddb7cb80274ee39289afaf42394beba535430ed7a63bdb388d9574792cfdaa7\""
+  "If-None-Match": "W/\"sfr:computation:v2:e8fa50ec10b395362c41a04a1d104b211f4ed7e260f214ab69dee61130f452bc\""
  },
  "https://rogerz.dk/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:5d0e66c08d298901f770a485cad15b6cabac13dae33d93aa4b5a407e4926f515\""
+  "If-None-Match": "W/\"sfr:computation:v2:1810e73ee1978d7e9a34d329bc735a2d79cc2b9456d0d2d59bed2d43e4953461\""
  },
  "https://rogerz.dk/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:74230366d286d869600f80eaf0a1db44109dd647b116d66da338962aac542c21\""
+  "If-None-Match": "W/\"sfr:computation:v2:c88671d8f310eb9c20f676e42613d908f5761bdbc0eb65c64e42221fbe0a4a0e\""
  },
  "https://rogerz.dk/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:2f6c3b42775aa5042c1dfc74a4b95b48092f3b19acb6ecbe34c330fa5b354fbe\""
+  "If-None-Match": "W/\"sfr:computation:v2:9f210c0028d9d18d3d5ee68faead6df9623242cba8b8123ce9879b61fe6d4c3e\""
  },
  "https://rogerz.dk/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:7fe326b7736a3aa804871eb0c7304743645168823d20cdbb3928e6f58f6f8729\""
+  "If-None-Match": "W/\"sfr:computation:v2:42f5f3726753d8e57006550975b56e8fc7e6a9b23732bd4495d80b28d6927a06\""
  },
  "https://rogerz.dk/products.json?limit=250&page=9": {
-  "If-None-Match": "W/\"sfr:computation:v2:b837fa74c6d3f5faaff2d8a3a80c2d963397eef2f78be770d2365db618e77043\""
+  "If-None-Match": "W/\"sfr:computation:v2:c71d84ee3ef7ac500a26e33f79a53e365df42f11c6c0175430cd5f2e198c8c3c\""
  },
  "https://s-games.at/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:2a9b3b4b0f5c7e4ff01d53cf6195152880153eeeb61574a6dd027934c00e145c\""
+  "If-None-Match": "W/\"sfr:computation:v2:e6de3f5eb9b5f4bab2f104808c3630a82905d2b22507000e2308e786985e52d7\""
  },
  "https://sealedcardzz.com/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:1b68385bfbc5367363229d10cdab311d327672e206a7c15ff27870582427fc18\""
+  "If-None-Match": "W/\"sfr:computation:v2:18ff34c6c74b1228c792c2edde2874f89254f9fb53ca0874eb5f1313dda2789b\""
  },
  "https://snydepels.dk/collections/tcg-ccg-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:aa5f0939b3464df40e403d1e603a65d9d038e5996ff1e8109839ed87d2af61d6\""
+  "If-None-Match": "W/\"sfr:computation:v2:4b3c474607aa3e26a0d9e88e699b4ccaebea9589ff113a7c3f52e92472ed3962\""
  },
  "https://spelparken.se/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:c5e7907f4551b8675496d57cac3009674f72404db46de6d56a48899e2387e882\""
+  "If-None-Match": "W/\"sfr:computation:v2:a2c8a3f9a46a54cc8cb400c564457155f67af1a5d2e7d48d4a65e38e2be8ea3f\""
  },
  "https://spelparken.se/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:4758ddea0f9e10ec18d5018aed1872970b64fe5ad9dc5bcb42f8a5e180c91e0a\""
+  "If-None-Match": "W/\"sfr:computation:v2:be031f6e06f3acb57fab1a2e8cfeeddbc2ebb765274aa06bd08e507a13c36479\""
  },
  "https://spilforsyningen.dk/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:090965c19e627123ccb9efaadea24ff342cc099590fa5a444139f8f287ea45d5\""
+  "If-None-Match": "W/\"sfr:computation:v2:e7ffd5b5c8b30f08ff78546e6d37b8746a0442d1b0cbfc3434eabc1d333166a6\""
  },
  "https://spilforsyningen.dk/collections/pokemon/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:0bb7f83d3e96bbb54e07ec0a9900346fb1f25749216fdc1120708a2c8bd38ebc\""
+  "If-None-Match": "W/\"sfr:computation:v2:97c89612a1c50b3f31f9cc18de1169067797af2935c8cf6b8ccba3293cd651de\""
  },
  "https://starzcollectibles.de/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:3756337499fb2544f92ddf3373376b8880b201e39695d006f20afbeccc1793cd\""
+  "If-None-Match": "W/\"sfr:computation:v2:8e68bea291257a76fbf6e8cbfaa7defa04938ca3a79233395e862d4ec092471f\""
  },
  "https://starzcollectibles.de/collections/pokemon/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:d9c52a22593d4b7feb7e2fc5a7cdc23739821febabfd431d5a8816789f1495f0\""
+  "If-None-Match": "W/\"sfr:computation:v2:598ad6c759d0a271ea01be4677cbfaed74e912f225f9589c0b058beed6e28e66\""
  },
  "https://symbizon.dk/collections/pokemon-kort/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:41b90d65761db7f04697a4717099f77298ac6ee5497ed28b70eed3803cafe5d5\""
+  "If-None-Match": "W/\"sfr:computation:v2:ccaff798303372f6dc2df8bbff49edd497281ed3aaea1df39be6fafd5f821adf\""
  },
  "https://tcgviert.com/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:b2e5d093a436a87aeea32552722154624c349201e91dd8c84710b10200896086\""
+  "If-None-Match": "W/\"sfr:computation:v2:f724e1585a222c178d41a18f0fbdb1fd5f2af9141a5f99675e4b9b7f5b60ccc8\""
  },
  "https://tcgviert.com/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:6ff529d877157110d4c77ec77c104918b8e0390717e17bb1fd1dcfab2b0b442a\""
+  "If-None-Match": "W/\"sfr:computation:v2:98d45e79869381e0f2ca27715851113eaed82eefb9772e3fef5ff14642f5ab15\""
  },
  "https://tcgviert.com/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:e0ac73b2718eccd993d7ab15e62d77cefc94beac0f8196b89840fd265b5ae527\""
+  "If-None-Match": "W/\"sfr:computation:v2:b9c2e9e6024612d54e368c4724bc04838e70f048708013c90b753c3bbfc1e166\""
  },
  "https://tcgviert.com/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:1fe930ecd5248794693145f3fe9d89c5fa1319b658812892faf592d2a2138ba4\""
+  "If-None-Match": "W/\"sfr:computation:v2:466adc0c6ff2f1c03845db9e562d042783afcfe659b817c065d83615723aa3fc\""
  },
  "https://tcgviert.com/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:c21a7eadbc481165b8469a016f72e7a6c81ddd736d749e4d559918d4b528fb4a\""
+  "If-None-Match": "W/\"sfr:computation:v2:0055c4a5257333b4c2998fb7e4abb7068444ee838d8b31feec40a1179351bd19\""
  },
  "https://toysnloot.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc&category=646": {
   "If-Modified-Since": "Fri, 23 Oct 2026 09:52:32 GMT"
  },
  "https://versusgamecenter.pt/collections/pokemon-tcg-1/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:b355adb29d83a66c9a748e4535b89fafdd0f0cbc0fa58ab287b2bd03f6956900\""
+  "If-None-Match": "W/\"sfr:computation:v2:1927bdb53f16508300dcb80f333d805de579b8a9969ed52023864e6c09f3270f\""
  },
  "https://www.airsoftgeek.dk/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:95e52b6c70e84c0d9ca5b6bb23cbf2e7cc5e0f130b2aa6ce6eed4b70fe60a2a1\""
+  "If-None-Match": "W/\"sfr:computation:v2:ee8b7cc66b2f75b8d1425c3821a8f904b559c0c2b3e0f13ffe8f7347666c91e7\""
  },
  "https://www.andcards.dk/wp-json/wc/store/v1/products?per_page=100&page=1&orderby=id&order=asc&category=640,652,661,677": {
-  "If-Modified-Since": "Fri, 20 Nov 2026 14:00:32 GMT",
-  "If-None-Match": "\"333663-1795183551;gz\""
+  "If-Modified-Since": "Sat, 21 Nov 2026 13:29:24 GMT",
+  "If-None-Match": "\"19534-1795268021;gz\""
  },
  "https://www.bescards.com/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:d79769e5957b5535d40256feaba83b39ffe19385136f077abe278da966a839a0\""
+  "If-None-Match": "W/\"sfr:computation:v2:366595338ccf551269c1185b0d48c163385b38234de42b358136cde01d20a042\""
  },
  "https://www.bescards.com/products.json?limit=250&page=10": {
-  "If-None-Match": "W/\"sfr:computation:v2:1824998e55e0e1d4dd6da3f03feb3faa5e4abf312c8d9abb464789262249f220\""
+  "If-None-Match": "W/\"sfr:computation:v2:cc5ba03502b44a66a5527e28c0bfadd3bcc7d012b98d695a7c99f266006254cb\""
  },
  "https://www.bescards.com/products.json?limit=250&page=11": {
-  "If-None-Match": "W/\"sfr:computation:v2:e45b5af2883822606955e20698a072e8e160c41d23a8aab1e1a8224454bb6b24\""
+  "If-None-Match": "W/\"sfr:computation:v2:d5c6a4a31c0bc76cbd1884838d3f71146867ca027b44f2842d924a7ae2f42307\""
  },
  "https://www.bescards.com/products.json?limit=250&page=12": {
-  "If-None-Match": "W/\"sfr:computation:v2:102730631a0291ae731b90ab861b6f11d71e6627eebf17cfeaaf18ed81c3597c\""
+  "If-None-Match": "W/\"sfr:computation:v2:3db336d98cf52dd1e8f11c6e093115b749b43d9bb0d76df01fd5050f4cf4f9de\""
  },
  "https://www.bescards.com/products.json?limit=250&page=13": {
-  "If-None-Match": "W/\"sfr:computation:v2:415e09fc6e160cfa319ac29edc1b30aa138c8e5f1479b7a03e24f71edf80e43e\""
+  "If-None-Match": "W/\"sfr:computation:v2:95ff378510f321b4a60f01b9eec4cfc8a219a53880614938bd333106c8a01fba\""
  },
  "https://www.bescards.com/products.json?limit=250&page=14": {
-  "If-None-Match": "W/\"sfr:computation:v2:8d75463a3864b96a5fdddfbad20bd80d0e5a755ff4617dbe189f5c5b06c0b8f0\""
+  "If-None-Match": "W/\"sfr:computation:v2:75553a9cbe482747982ec2e6e5d9e73f551a2eaf2cf40b10596e00cb10abe357\""
  },
  "https://www.bescards.com/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:b2061d19d2ae2171bcfb2b40b63b080fdaa06e8b617836cc30f1abe69c25612a\""
+  "If-None-Match": "W/\"sfr:computation:v2:7a946ae52e360af092bca93f718af699a983954ce5e6f627a1eadc05175aa7ff\""
  },
  "https://www.bescards.com/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:6a240e53c4a78b2c936ac24698a35a22a9a0d1ad6ea7fc33b1ccd94b6f3af07c\""
+  "If-None-Match": "W/\"sfr:computation:v2:291c1055202c2bcd1a04fc01cfbaca5a2a888a6b8ed1dce8498156d928f96e88\""
  },
  "https://www.bescards.com/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:98d5e456c0448c4608ed3af014f8d351eb0067a32c21e36072c28c1f7de207f4\""
+  "If-None-Match": "W/\"sfr:computation:v2:dd215d2ada1603d38ecd49d07b8c19074e3caf6b8f4a2b1ee2537f68a852e838\""
  },
  "https://www.bescards.com/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:0981ec0a1a798a5bf80defcae0b546699355d081e992bf378ba3c906aaeac579\""
+  "If-None-Match": "W/\"sfr:computation:v2:662af06cbaaa44142ecc3e7f2d7e63eb37b0c8c7974f28cef4435622d57e302f\""
  },
  "https://www.bescards.com/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:7b51faccd10ab9201f4122724efebda70c122d7ee4b563dcc80a447f676353b3\""
+  "If-None-Match": "W/\"sfr:computation:v2:955980dabefe477de398d9c2c760cfa1e311e70effe1c42653268a52e990de94\""
  },
  "https://www.bescards.com/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:0a878bb1c5678a68aa11f89ca0ab32e34822f50e5a04f5a6c2035386aa04e6cc\""
+  "If-None-Match": "W/\"sfr:computation:v2:33563a96b57ce696ee2bc9774904d4c0b24e2882bbcc19fc1489f2f9292005c3\""
  },
  "https://www.bescards.com/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:ea8b8087d81d24acf190fc787a34613a0761d5e4a6d07b570ccc239cb1c03689\""
+  "If-None-Match": "W/\"sfr:computation:v2:da3fba320737890cc02b3b5c6ecf9fbd2d2e44babb4c819474c0223f10afc35e\""
  },
  "https://www.bescards.com/products.json?limit=250&page=9": {
-  "If-None-Match": "W/\"sfr:computation:v2:8b4c79875cae6d8d65b0f9ae7d9608c4996978faa7e7283172d1eb87bcb250e5\""
+  "If-None-Match": "W/\"sfr:computation:v2:65bf2ffc2a113ef2e29dde1bf4e23cfaccb951918aec2c814820d38c80cdc33f\""
  },
  "https://www.cardnation.nl/collections/pokemon-kaarten/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:18987de12db30500fbd42c75dfe79188096036123e93a9b556712a94a08d24d7\""
+  "If-None-Match": "W/\"sfr:computation:v2:dac314f3d68e057e9e9e69be9c4c62a588d3f1822098fe5720f35bcbdc45a214\""
  },
  "https://www.fun-shop.dk/collections/bundles-og-saet/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:7f0a990bf086e39252cc7695cbbfa23800bbcbd4f213fedbe1de5c5b51024df7\""
+  "If-None-Match": "W/\"sfr:computation:v2:a2cafc14f647fd019b50fdd4350cefdfe407254db046f894dbd5728b270cf144\""
  },
  "https://www.fun-shop.dk/collections/pokemon-bokse-og-tins/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:7615a2324164726054dfdb9970b5dd3cfbb918b701ce9ec8ccb80849e41be0d9\""
+  "If-None-Match": "W/\"sfr:computation:v2:73f5534c1b8360216cad5c52542dbde2f21ec0d2d05ef04562e1322925fe7bdd\""
  },
  "https://www.gs-gameon.com/collections/sigillati-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:f5dccf6c482cfb1f7dd4c9b572a1dd5ce167b74ab31c2f63808f57d5b02e6395\""
+  "If-None-Match": "W/\"sfr:computation:v2:28288648611e7e4ffcf54cd769ce93ff01c2f49d73c3fc2ea4d022ad21ed772f\""
  },
  "https://www.merchfox.at/collections/pokemon-sammelkartenspiel/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:7988ed4a2656fe3c8464907e7acfa32491817509cf616e279eb4f4a254edbd23\""
+  "If-None-Match": "W/\"sfr:computation:v2:2bc9f3ea2deac3a59dfb2b2d2ee970335644e344a35491c9bda115573a70c473\""
  },
  "https://www.merchfox.at/collections/pokemon-sammelkartenspiel/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:3afde5073ab4aa66e904daf62de14d2ab4dff326b541d76abd5b81631b76bb90\""
+  "If-None-Match": "W/\"sfr:computation:v2:1095501808593dc3c22b4d7cab47ce4632f188cb0a90de30ed19d99033cc6c25\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:fd55b14a391b3828a88983bcaee21c2da1f742ece0254a66bcac1891576047ed\""
+  "If-None-Match": "W/\"sfr:computation:v2:a0624dcbaaf66aba9d59a3e6d93c6c4f977e7aea7493e52b01bf6d08c7d61f0e\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=10": {
-  "If-None-Match": "W/\"sfr:computation:v2:f1450c0c4c5d8c1bf16bba6a12c9fc03e597f9e77073abfa59a45dbd64f60e8f\""
+  "If-None-Match": "W/\"sfr:computation:v2:702d68799748459387cccd723f0c11545f5490beb404fb22814ef565d618bb36\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=11": {
   "If-None-Match": "W/\"sfr:computation:v2:6f0539ded34e9562b4ccba3e0ecbd88b10102cbbec07d5e4b5b78daec4eba21c\""
@@ -1255,52 +1255,52 @@
   "If-None-Match": "W/\"page_cache:57547194564:ProductListController:03111f9ae3522067b870e10642a2e1d9\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:3b3c0b63a595724ea66464c0327052521ce247e9dac9a286097ad7f965749f83\""
+  "If-None-Match": "W/\"sfr:computation:v2:c9d8844d440bafd0b633769dc30c2c1f9f1200e9a66f8357b45d354e20afef30\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:4610a67939fb034f7a954b9d23988584960a59076efa54657b4a5410d0972b2d\""
+  "If-None-Match": "W/\"sfr:computation:v2:d4cde6e7205f19b91676fa10fe77fd874692b073b0cd5e462696867afd85965c\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:5962987ac87a7a8cb1f09be8bb2ad1238ac460d4cbe5373055af296cb654d20b\""
+  "If-None-Match": "W/\"sfr:computation:v2:0de847018094d8fd02b30a574ba4393da7a1f3d0bbbbd94927b61d601569e560\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:7cecb05e8a6a95c632688e5db55b1ca66ecfeadb288a5d1409aa5eede0fa8ce1\""
+  "If-None-Match": "W/\"sfr:computation:v2:efc11a3fef52c9d116d5d9c820661b2f916b1739a0602165f1414cebb6d7b8bb\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=6": {
-  "If-None-Match": "W/\"sfr:computation:v2:c2fe8fa20a5bf07aff92329f39e022c6087d25a0270968e626d7ac3fa7e6e099\""
+  "If-None-Match": "W/\"sfr:computation:v2:6011f19b69c60bc20e811677b64e112098fee58994a2b973884f6488c62d72d9\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=7": {
-  "If-None-Match": "W/\"sfr:computation:v2:9200cf63a103fe7d8491578c0fd68fefa3582f616a399900c89b1f3256b66b03\""
+  "If-None-Match": "W/\"sfr:computation:v2:af52319f3b64327c2bffdb74548d8673b74e8b818a9cc1c1200a36314b5eba4b\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=8": {
-  "If-None-Match": "W/\"sfr:computation:v2:8add18434cf4fbb8dae2cee870327dea8f5fdc01ecb1f6e81c790f238cc3ff3b\""
+  "If-None-Match": "W/\"sfr:computation:v2:42d706552976ceea7be21f303a53cbe71fcddf18efb2ff5b2c40fc1fc6cec8ad\""
  },
  "https://www.musenogslottet.dk/products.json?limit=250&page=9": {
-  "If-None-Match": "W/\"sfr:computation:v2:90516e71589cbb8f2623fceb94243430b0038af02244dc1cb83bb949b88434ef\""
+  "If-None-Match": "W/\"sfr:computation:v2:e1c5b3f4befa6dee1332db8093871d9f81a77c6bcb5b088af0812ef0bd775747\""
  },
  "https://www.poke-shop.dk/collections/booster-box/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:026da241584f28a1665389b455c7ab17a6dd03633d81ed76e81d24dc23983d07\""
+  "If-None-Match": "W/\"sfr:computation:v2:33f4b2a8778ee2340ef340f82436bee572c863a3c52a60fe7922983b9e0c7557\""
  },
  "https://www.poke-shop.dk/collections/etb/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:63a64355e9eda39389576e9abe41435bb326050c449da3fce7324e0ad0aaf85d\""
+  "If-None-Match": "W/\"sfr:computation:v2:36d229cf2bd209aeaa8ce93b102c88715e3deaaf434e82b6bd58a1894efd19a3\""
  },
  "https://www.poke-shop.dk/collections/pakker-og-bokse/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:eebdf9613ad0e7c62fc97a91ea3f0557712512d829dc7944bdc629fcc4f21671\""
+  "If-None-Match": "W/\"sfr:computation:v2:a237846817e997807268814351cacc73bb3f8129af2518e5fd373cd53f73b2ec\""
  },
  "https://www.pokemillon.com/collections/pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:1034dffe0347cc7c0c84936e41e670223c75c2c89fda616c174ca036eb98ff09\""
+  "If-None-Match": "W/\"sfr:computation:v2:326cf4cebaf4235d4ab6ddfc68db3bbb5e21d6e7d8df59708e6e5f139aeed1ff\""
  },
  "https://www.pokemillon.com/collections/pokemon/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:48082098b9522541c3519388e280a18d2434bd995fab1a6aa53245c77a02c18e\""
+  "If-None-Match": "W/\"sfr:computation:v2:9f920bbbc6b79560fb593ac27b0213879941642610af63fed619a9c85a8d29bf\""
  },
  "https://www.pokemillon.com/collections/pokemon/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:b4855767e531c2d6d9e5f08cada034e5fe889dd7953c9954de6ace05dc4016d0\""
+  "If-None-Match": "W/\"sfr:computation:v2:ab8e076bfd86c0e902db4b4698043371e8ee92b4c9db93eecacae53e75cc96b6\""
  },
  "https://www.pokemillon.com/collections/pokemon/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:e1253e7077e24393bdfd1651136f31a2afbecc2bd6b1c7a35c8134c0e3f091e4\""
+  "If-None-Match": "W/\"sfr:computation:v2:debecd9580d31e3d541dc94632d0fdc996b6cb9ffeb4367e97fb5fc5263fd850\""
  },
  "https://www.pokemillon.com/collections/pokemon/products.json?limit=250&page=5": {
-  "If-None-Match": "W/\"sfr:computation:v2:eda374b8f3ed82260f63e56e4920a0111f8bb2107415b6043c23b4f58b9a529b\""
+  "If-None-Match": "W/\"sfr:computation:v2:c5c3260bff4b47d322c78ca4f56d9f68ed48abb19528e412b31624962d58ac08\""
  },
  "https://www.pokemillon.com/products.json?limit=250&page=1": {
   "If-None-Match": "W/\"page_cache:60880453878:ProductListController:d9918113d08f913a1ed248cd2e647b37\""
@@ -1333,16 +1333,16 @@
   "If-None-Match": "W/\"page_cache:60880453878:ProductListController:b769d6b26525ab0907d0c2f94aad9d5e\""
  },
  "https://www.poketalk.se/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:2c3dbc4981227d2186f4ebddbaf3e8d402a2fc06a1a9a079e80269d817660adc\""
+  "If-None-Match": "W/\"sfr:computation:v2:4bba394d35d6c5389eaa40adcfda3ae8f0aff020f041ab86adc9a3eb5692abba\""
  },
  "https://www.poketalk.se/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:4819c4f9ed7701f6d7ba33d92b37f769033e0c000c8a0daebb74b8d4f57f3cb4\""
+  "If-None-Match": "W/\"sfr:computation:v2:d50ea930a6e3b7b0f2c2ba33c521efca359abb72299483e5da6c0e8549f16618\""
  },
  "https://www.poketalk.se/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:c96b68f5f0a15cefa524ac96f0e51316aad7451279bf7131f2396af9f27f055c\""
+  "If-None-Match": "W/\"sfr:computation:v2:84a551892668d3781007bfeed3d28e2bac0e2a519e5e239e51d9b9f6f6f2415c\""
  },
  "https://www.poketalk.se/products.json?limit=250&page=4": {
-  "If-None-Match": "W/\"sfr:computation:v2:38ccaf7698296e55615b562b4333d1d7458bcf602a36cd61f4e293667968c8e2\""
+  "If-None-Match": "W/\"sfr:computation:v2:a1fe310cb0988794ea6d00edd7889c03347c35879d8692eb156fc32684babc76\""
  },
  "https://www.poketalk.se/products.json?limit=250&page=5": {
   "If-None-Match": "W/\"page_cache:86278603094:ProductListController:87d26c4caeb7c4690d3595d85d889a61\""
@@ -1351,51 +1351,51 @@
   "If-None-Match": "W/\"page_cache:86278603094:ProductListController:9f122b4db61367300cd81af84bf39693\""
  },
  "https://www.samlarhobby.se/collections/booster-boxar-displayer/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:fc868e08c3fc9679483e578e4d50d4157c8eaa600c590763b05a2465734b1155\""
+  "If-None-Match": "W/\"sfr:computation:v2:9f942bd69f3fa8e9c328fab64f57dd308bcd4480ddb69f8816ece05733775d90\""
  },
  "https://www.samlarhobby.se/collections/booster-boxar/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:471ce1165b7dc48a4a36c3a628794bf0cb3d12693526efcce99f35aa1a61f01f\""
+  "If-None-Match": "W/\"sfr:computation:v2:a861ffb02a5ac623a5b06b89dc150cd3d3391ff9535619961aa39e6648af3baf\""
  },
  "https://www.samlarhobby.se/collections/elite-trainer-boxar/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:a511ab7f5c952f265941592ff3633db7249d3bc36d05b44f192e323ab3fd260a\""
+  "If-None-Match": "W/\"sfr:computation:v2:091fccd6386217117bb23db4cc0e1f7f8f16c9d9236ae549429e4516efc17f95\""
  },
  "https://www.tcgreus.nl/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:78090b319798f5093f7bee427a4772e6d93f6c17390d898cd0189ac62d05eb52\""
+  "If-None-Match": "W/\"sfr:computation:v2:b8248eefcc43619a6fed742287c22367c9e15c3dd40d2bc6ffa6a6d472dc8022\""
  },
  "https://www.tcgreus.nl/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:8bb3cd189742e78fa72a7eefc4f011cdb31b9d912f27f50790205f08eaabd7a8\""
+  "If-None-Match": "W/\"sfr:computation:v2:720d5890fb1dc04051799efa91aa742fb38c866db9418c13744865c9fe8d9244\""
  },
  "https://www.tcgreus.nl/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:b21fc7f7398c75f6474de01048fc91bd56bde6105cc8b88585ddb4eec238638d\""
+  "If-None-Match": "W/\"sfr:computation:v2:e9865c4bb0a8391d6f8dc5661d71a389d0e647dc2c6e170eb97fd182e1c216cd\""
  },
  "https://www.tcgreus.nl/products.json?limit=250&page=4": {
   "If-None-Match": "W/\"sfr:computation:v2:cea823caf105f078facbc917af7c299554b405ea83d2c4bacee8865ee8f6c1bb\""
  },
  "https://www.tcgshoppen.dk/collections/hele-vores-udvalg-af-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:232acc26370cb3701fac5a7b368840a6ae530871115b0ec97c029886184e749c\""
+  "If-None-Match": "W/\"sfr:computation:v2:f2270fdf521d063d9194544a023617c305b89a426a1fa0de71b72a648dcee0a0\""
  },
  "https://www.tcgshoppers.nl/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:654794e04d3b9e666197152e749ca50e48138ba62247a8d51a4ead84d426b03e\""
+  "If-None-Match": "W/\"sfr:computation:v2:4d6f99d5243d5dd7d4f9180fa781a26c64702df94bf4a8f51b073f49e23a2ee1\""
  },
  "https://www.thetcgplug.nl/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:24117e4d214974aa6febb82c84a11bf6f02209ef32afb6207b27b81e96eb5aa2\""
+  "If-None-Match": "W/\"sfr:computation:v2:c0acd8f55c3ea8bf12f581c47dbafa06314c36ae793d50c0d6b77e30840acb30\""
  },
  "https://www.tigercards.es/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:0152a1bcb3a16aa2e5868456580f557e80385278addbd23bd9083d005784a23f\""
+  "If-None-Match": "W/\"sfr:computation:v2:1a6b0a079316caa3c6a0d631a2d61def78d7a9d1fb158c95d5a6e7c9c5bad428\""
  },
  "https://www.tigercards.es/products.json?limit=250&page=2": {
   "If-None-Match": "W/\"page_cache:77753778361:ProductListController:9c4e3a44f28ed247401d1bce164904f6\""
  },
  "https://www.vaulted.dk/collections/alt-i-pokemon/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:af0183c66d0331af049773462ded87e596f10bedbd7d51591855c192fe3562ed\""
+  "If-None-Match": "W/\"sfr:computation:v2:6c2d73e38947e00fe8a313cfc68451e8f000071d65cea90890765fce6ef9c0ee\""
  },
  "https://yonko-tcg.de/products.json?limit=250&page=1": {
-  "If-None-Match": "W/\"sfr:computation:v2:2aaba92f982066e02ddce1c2731539bd1103517b65aa2de457b45baae30b020a\""
+  "If-None-Match": "W/\"sfr:computation:v2:d2f92bd006bb4551a49d3d36bfbd1a62f9552023645f7bf0aae3edbdcb86a95d\""
  },
  "https://yonko-tcg.de/products.json?limit=250&page=2": {
-  "If-None-Match": "W/\"sfr:computation:v2:f184aeb3a453b1b28f46130c07d76df0bbc479f080a238d48bf5b776ce91b1ed\""
+  "If-None-Match": "W/\"sfr:computation:v2:486d28249f36cf20146e7fbfb765bdfe2013ccf56c4cd42606209d33ae351ac7\""
  },
  "https://yonko-tcg.de/products.json?limit=250&page=3": {
-  "If-None-Match": "W/\"sfr:computation:v2:ed728d27735557d32d6ea72baca152c5e371524c729d43e8e9b1a2cc501c3a9a\""
+  "If-None-Match": "W/\"sfr:computation:v2:b7f30e41608df968ab8267013a55dde3786cacc6caaa484b7eb0038a05c72e08\""
  }
 }
